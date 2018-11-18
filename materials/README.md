@@ -1,5 +1,5 @@
 ### Relevant papers
-Theoretical resources for this project are present in thei directory.
+Theoretical resources for this project are present here.
 
 ### Project proposal:
 

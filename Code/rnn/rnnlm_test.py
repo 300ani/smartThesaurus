@@ -2,15 +2,16 @@ from __future__ import absolute_import
 from __future__ import print_function
 from __future__ import division
 
-import rnnlm
-
-from w266_common import vocabulary, utils
-
 import copy
 import numpy as np
 import tensorflow as tf
-
 import unittest
+
+import sys,os
+scriptpath = "./rnn/"
+sys.path.append(os.path.abspath(scriptpath))
+import rnnlm
+from w266_common import vocabulary, utils
 
 
 class TestRNNLMCore(unittest.TestCase):

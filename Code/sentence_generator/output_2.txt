@@ -45,9 +45,9 @@
 5,reader,noteif a member is a reader they cannot comment
 5,reader,maximum number of connections for news reader
 5,reader,handheld barcode reader in its holder overall dimensions
+5,reader,the dgd bar code reader works wirelessly
 5,reader,smart card not present in reader
 5,reader,we have a short story reader for our english class
-5,reader,install the roller motor reader encoder
 6,literature,a man of great consequence in literature
 6,literature,he is well worth talking literature with
 6,literature,in those days i saturated myself in english literature
@@ -67,7 +67,7 @@
 7,text,he stuck to his main text
 7,text,prove the genuineness of the text
 7,text,no its all text and pictures
-7,text,input text must be a number
+7,text,dont fail to read chapters dg through dg in your text
 8,story,let me hear the story or tell me the story
 8,story,how many times will you tell me the same old story again
 8,story,the story is handed down by tradition
@@ -93,11 +93,11 @@
 10,bible,all kinds of angels are found in the bible
 10,bible,the word holy toledo shows on the bible very often
 10,bible,he looked at the old pages of the bible as he turned them
+10,bible,the bible says dgdgdg is the number of the beast
 10,bible,i believe this bible is the word of god
 10,bible,the bible says blessed are the poor in spirit
 10,bible,the musical tells the story from the bible
 10,bible,left hand on the family bible
-10,bible,record the date of a birth in the family bible
 11,information,displays program information version number and copyright
 11,information,this book contains a lot of useful information
 11,information,request the information letter in due form
@@ -108,6 +108,7 @@
 11,information,we sent you the information at your request
 11,information,well send you the information as requested
 11,information,microsofts mail client and personal information manager
+12,essay,please hand in your essay before january dgdg
 12,essay,she handed in the essay too early
 12,essay,did you hand in your essay yesterday
 12,essay,she did not type the essay
@@ -117,7 +118,6 @@
 12,essay,eliminate all unnecessary words from your essay
 12,essay,i must submit this essay by tomorrow morning
 12,essay,why did you write such a bad answer on your essay test
-12,essay,the best essay will be posted on the every classroom
 13,theme,the theme of the contest is how big this country is
 13,theme,what is the main theme of this passage
 13,theme,whats the main theme of the new campaign
@@ -291,13 +291,13 @@
 30,cab,most people often have to share a cab with other passengers
 30,cab,he works as a cab driver at night
 30,cab,just look under yellow cab in the yellow pages
+30,cab,i called a cab dgdg minutes ago but it hasnt arrived
 30,cab,an error occurred when trying to use the upload cab file
 30,cab,system information cannot open this cab file
 30,cab,standing on the sidewalk i hailed a passing cab
 30,cab,the cab pulled up and the driver jumped out
 30,cab,i had a heck of a time flagging down a cab
 30,cab,all the men are riding in the trucks cab
-30,cab,they climbed back into the cab
 31,carriage,the last carriage on a train
 31,carriage,someone is seated on the horse beside the carriage
 31,carriage,the people are riding a carriage
@@ -319,15 +319,15 @@
 32,bicycle,one bicycle is lying on its side
 32,bicycle,do you think we can travel around the world by bicycle
 33,highway,i drove along the coastal highway
+33,highway,i was driving on the highway at the speed of dgdg mileh
 33,highway,hes driving the truck on the highway
 33,highway,snow covered the highwaythe highway was covered with snow
 33,highway,a narrow road leads off the main highway
 33,highway,he walked along the side of a highway
 33,highway,the bus broke down in the middle of the highway
 33,highway,did you hear about the terrible car crash on a highway
+33,highway,the highway leading into route dgdg is also slow
 33,highway,the construction of a new highway
-33,highway,i was lost on the highway
-33,highway,he enjoys driving in the highway at full speed
 34,factory,that factory is working at capacity
 34,factory,he works nights at a factory
 34,factory,the factory has its own generating plant
@@ -351,13 +351,13 @@
 36,gauge,she won the game since she had the weather gauge of him
 36,gauge,its difficult to gauge how he is going to respond
 36,gauge,pressure gauge does not display pressure
+36,gauge,then in dgdgdgdg jang invented the worlds first water gauge
 36,gauge,it also adds an air gauge to the gas supply module
 36,gauge,yes because the gauge powers up
 36,gauge,hes reading the temperature on the gauge
 36,gauge,you use the tag to specify the type of gauge
 36,gauge,measure the gap with a feeler gauge or pin gauge
 36,gauge,helium pressure gauge and charge fitting
-36,gauge,equipment failure may result if improper wire gauge is used
 37,elevator,the elevator stopped working with a loud noise
 37,elevator,a few people are riding the elevator
 37,elevator,you can use the elevator here
@@ -457,7 +457,7 @@
 46,wrist,he held me by the wrist tightly
 46,wrist,she tried to improve the twist of the wrist
 46,wrist,common complaints are pain in the arm and wrist
-46,wrist,where did you find my wristwatch
+46,wrist,he broke his wrist climbing rocks for a cigarette ad
 47,knee,a worker is holding a straightedge on his knee
 47,knee,they were sitting knee to knee and watched the movie
 47,knee,dance a baby on ones knee
@@ -514,10 +514,10 @@
 52,young,a young man and a young woman were sitting behind me
 52,young,the thief was caught by the brave young man
 52,young,this park is a favorite rendezvous for young men and women
-52,young,old and youngyoung and old
 52,young,abbreviate a novel for young readers
 52,young,he is old in years but young in vigor
 52,young,shes a role model for young people
+52,young,what does the association provide for young people
 53,immoral,those who think that birth control and abortion are immoral
 53,immoral,moral or immoral the client must come first
 53,immoral,he pursued a very immoral course of life
@@ -670,6 +670,7 @@
 67,rare,thats a rare sight these days
 68,dawn,i started at the first gray of dawn
 68,dawn,last night we caroused around till dawn
+68,dawn,until the dgdgdgdgs most laborers worked from dawn until dusk
 68,dawn,the birds for example start singing at dawn
 68,dawn,the military attack began at dawn
 68,dawn,the landing troops hit the beach at dawn
@@ -677,27 +678,26 @@
 68,dawn,at crack of day  at the crack of dawn
 68,dawn,no one knows the story of tomorrows dawn
 68,dawn,these days they were up at the crack of dawn
-68,dawn,the cock crowed at the crack of dawn
+69,morning,the local time is dgdgdgdg in the morning
 69,morning,what time are you leaving tomorrow morning
 69,morning,its rather chilly in the morning these days
 69,morning,be sure you arrive at work on time every morning
+69,morning,the local time is dgdgdgdg in the morning eastern time
 69,morning,the childhood shows the man as morning shows the day
 69,morning,i spend a little more time on the way i look in the morning
 69,morning,it was that kind of time in the morning
 69,morning,their plane will arrive first thing in the morning
 69,morning,one in the morning one at night
-69,morning,kevin and i jog every morning in the park near my house
-69,morning,i thought about sleeping morning noon and night
 70,cigar,my eyes smart with smoke could you put out that cigar
 70,cigar,grind ones cigar butt into the ground with ones heel
 70,cigar,he was sitting alone smoking a big cigar
 70,cigar,visit the holt cigar shop and ask for the honduras specials
 70,cigar,the man struck a match and lit his cigar
 70,cigar,he was smoking a big cigar
-70,cigar,please clear the ashes from the fireplace
 70,cigar,on occasion he smokes a cigar after dinner
 70,cigar,would you care for a cigar
 70,cigar,just be careful with the cigar
+70,cigar,no i dont want a cigar
 71,insight,most parents have an insight into their childrens minds
 71,insight,he had no insight into human nature
 71,insight,customer insight data aggregation and insight development
@@ -759,15 +759,15 @@
 76,flower,he is covering over the flower bed
 76,flower,she paced off an area for her new flower garden
 77,self,a ticket admitting self and friend
+77,self,self confidence is the most important key to success
 77,self,he operates company his own self
-77,self,in that case you need self control over your mind
-77,self,please accept our thanks to mr jones and self
-77,self,he always puts self first when with her
-77,self,hope comes from a firm sense of self
-77,self,llink naxmpdetail
-77,self,                 li                uldiv classsppaging
-77,self,   uldiv classsppaging
-77,self,next
+77,self,now his self assurance seemed to grow
+77,self,most of us dont have time for self improvement
+77,self,today were talking about self defense for your ears
+77,self,the president thought out the means of self preservation
+77,self,we must maintain our national self respect
+77,self,disappointed in love he lost all incentive to self esteem
+77,self,this allows kids to build up self confidence
 78,try,lets try the same time but next week okay
 78,try,dont try to be too trendy
 78,try,ill try the fortune of war
@@ -796,10 +796,11 @@
 80,trip,my trip was a month long
 80,trip,some of the members lost their suitcases on the trip
 80,trip,it was like a trip through hell
+80,trip,in dgdgdgdg i took a trip around the world
 80,trip,would you like a one way or round trip ticket
-80,trip,john wised sam up the plans of a school trip
 81,conquest,a scheme for the conquest of the world
 81,conquest,that treasure is now mine by right of armed conquest
+81,conquest,he had led the conquest of southern poland in dgdgdgdg
 81,conquest,they usually obtain power through military conquest
 81,conquest,some day we may complete the conquest of disease
 81,conquest,their name goes back to the conquest
@@ -807,7 +808,6 @@
 81,conquest,he dreamed of the conquest of the sea
 81,conquest,conquest business media wall street journal
 81,conquest,the conquest of spain by the moors
-81,conquest,his conquest was reached from egypt to india
 82,discover,i cannot discover the reason i feel so sad today
 82,discover,machines can discover radon in homes and help remove it
 82,discover,can you discover a way to solve it
@@ -818,16 +818,16 @@
 82,discover,we discover frappucino and ice coffee and everything else
 82,discover,journeys discover to us the indifference of places
 82,discover,we discover new facts by using science
+83,company,her compensation from the company is dgdgdgdgdg per year
 83,company,hes been with this company only for a couple of years
 83,company,that company sells three billion dollars of sneakers a year
 83,company,i prefer my room to his company
 83,company,i work in chinatown for the li trading company
+83,company,i worked for dgdg years at the company
 83,company,he is on the staff of a publishing company
+83,company,hes been working for this company for dgdg years
 83,company,hes only been with the company two years
 83,company,actually he joined this company the same year i did
-83,company,that company produces a family of household products
-83,company,what did the company do after solving the problem of flavor
-83,company,the labor union is currently negotiating with the company
 84,industry,that company is a giant in the computer industry
 84,industry,what does the speaker claim about the industry
 84,industry,hollywood is the heart of the world movie industry
@@ -910,6 +910,7 @@
 91,presence,im happy to be in your presence
 92,calendar,i bought a calendar with big blank squares for every day
 92,calendar,the old calendar is still observed in many country places
+92,calendar,chuseok falls on august dgdgth by the lunar calendar
 92,calendar,the pictures of worlds beauties were on the calendar
 92,calendar,the start time of calendar entries
 92,calendar,the man is writing on the calendar
@@ -917,7 +918,6 @@
 92,calendar,the man is hanging up a calendar
 92,calendar,specify a time zone for a calendar entry
 92,calendar,specifying a time zone for a calendar entry
-92,calendar,dont you think its time you changed your calendar
 93,log,people are sitting there like bumps on a log
 93,log,this data loss will occur the next time you log off
 93,log,he is a king log with no dignity
@@ -943,11 +943,11 @@
 95,awareness,a study on the uses and awareness of curtain
 95,awareness,no action is required only awareness
 95,awareness,rain uses stardom to raise human trafficking awareness
+95,awareness,the dgdgdgdgs brought an awareness of green issues
 95,awareness,she stepped on his foot out of a lack of awareness
 95,awareness,drive awareness with new and existing customers
 95,awareness,collaboration by way of instant messaging and awareness
 95,awareness,build awareness with new and existing customers
-95,awareness,it requires a lot of attention awareness and commitment
 96,interest,she used her interest with work
 96,interest,historic scenesplaces of historic interest
 96,interest,chemistry is her matter of interest
@@ -988,6 +988,8 @@
 99,dictionary,there are no words in the dictionary to describe her
 99,dictionary,this dictionary is handy for the pocket
 99,dictionary,do you pick up your dictionary and look for the definition
+100,page,please turn to page dg in your copy of the report
+100,page,look at the pictures on page dgdgdg
 100,page,by way of example look at this page
 100,page,please file a bug using the bug reporting page
 100,page,how much is it per page
@@ -996,8 +998,6 @@
 100,page,im looking for someone could you page him
 100,page,you turn right over to the tv page
 100,page,he cast his eyes on the page
-100,page,i cant find my friend here could you page him for me
-100,page,tiger woods added a new page to the history of golf
 101,clue,check your phone record thatll be a clue
 101,clue,other games available are taboo life and clue
 101,clue,not a clue has yet been found to solve the problem
@@ -1044,10 +1044,10 @@
 105,hurricane,the hurricane hit the town in a split second
 105,hurricane,a hurricane causes great destruction to buildings and trees
 105,hurricane,a hurricane tore apart houses with explosive force
+105,hurricane,a hurricane hit the city for the first time in dgdg years
 105,hurricane,the hurricane left a disaster area covering over ten miles
 105,hurricane,the beach has eroded since the hurricane
 105,hurricane,in the wake of the hurricane buildings lay in ruins
-105,hurricane,the hurricane did incalculable damage to the coastal area
 106,notify,then we would notify you of the starting time
 106,notify,ill notify you as soon as things are set
 106,notify,notify users of potential service interruptions
@@ -1060,6 +1060,7 @@
 106,notify,whether to notify the user of rule warnings
 107,bus,people are sitting on the bus
 107,bus,the bus driver isnt here yet
+107,bus,that the bus is leaving at dg am the next day
 107,bus,the bus drivers are walking in front of the bus
 107,bus,bus use is increasing among the staff
 107,bus,the driver pushed his car into the bus
@@ -1067,7 +1068,6 @@
 107,bus,the bus drivers are standing by the bus
 107,bus,the bus drivers are standing behind the bus
 107,bus,i am looking for a bus stop
-107,bus,he was a few steps past the tree at the bus stop
 108,task,no were still working on it its not an easy task
 108,task,you can win the game if you task your energies like that
 108,task,the task is in my power
@@ -1079,7 +1079,6 @@
 108,task,the task falls to your share
 108,task,ill undertake the task of remodeling the house
 109,explain,dont try and explain it away
-109,explain,how does explain differ from describe
 109,explain,i cant explain it any other way
 109,explain,can you explain to me how to use this atm
 109,explain,let me explain our terms and conditions of business
@@ -1088,6 +1087,7 @@
 109,explain,ill explain briefly about this new product
 109,explain,i think ill need about four hours to explain the details
 109,explain,explain a passage in a book
+109,explain,isnt there any way to explain this a bit more effectively
 110,argument,he carefully dealt with a very sensitive argument
 110,argument,impress a fact into an argument
 110,argument,own the force of an argument
@@ -1103,11 +1103,11 @@
 111,acknowledge,we do not even acknowledge who our clients are
 111,acknowledge,many of us didnt acknowledge him as our leader
 111,acknowledge,i acknowledge receipt of your letter
-111,acknowledge,the dio interface functions in a commandacknowledge format
 111,acknowledge,i didnt acknowledge that he could solve this problem
 111,acknowledge,we acknowledge that climate change is a reality
 111,acknowledge,we acknowledge that this issue is open to dispute
 111,acknowledge,he did not acknowledge having been defeated
+111,acknowledge,he did not acknowledge his defeat
 112,hear,i hear youre in the market for a used car
 112,hear,i dont want to hear about it
 112,hear,oh no im so sorry to hear that when did it happen
@@ -1128,6 +1128,7 @@
 113,topic,let this problem a rest and start another topic first
 113,topic,we exhausted one topic of discussion and started another
 113,topic,i dont know what to say about such a topic
+114,restore,a dgdg to dgdg minute nap a day helps restore memory
 114,restore,system restore is unavailable in safe mode
 114,restore,the file name to restore contains invalid characters
 114,restore,system restore cannot be enabled in safe mode
@@ -1135,7 +1136,6 @@
 114,restore,the restore did not complete successfully
 114,restore,restore contact list using a backup file
 114,restore,click on the system restore tab
-114,restore,the restore from file does not exist
 114,restore,system restore is replacing changed files
 114,restore,the launch of a campaign to restore law and order
 115,entertain,he did his utmost to entertain us
@@ -1179,6 +1179,7 @@
 118,want,i dont want to be late
 118,want,i dont want to look foolish
 119,sell,as a matter of fact my mother wants to sell her car
+119,sell,it wouldnt pay to sell it for less than dgdgdgdgdg won
 119,sell,as a matter of fact he wanted to sell the island
 119,sell,do not sell your friends down the river
 119,sell,today people buy and sell the things on the internet
@@ -1187,7 +1188,6 @@
 119,sell,if the price is right people will want to sell to them
 119,sell,this house will sell for fifty million won as it stands
 119,sell,the shareholders voted not to sell the company
-119,sell,i need to sell my old english book
 120,buy,did you buy all you needed to buy on friday
 120,buy,its cheaper to buy things on a bargain sale
 120,buy,we buy our supplies in job lots
@@ -1211,13 +1211,13 @@
 122,hand,the gentleman offered his hand to the lady
 122,hand,lay ones hand upon a persons shoulder
 122,hand,you must hand in your assignment on time
+122,hand,please hand in your essay before january dgdg
 122,hand,can you hand in the report on time
 122,hand,bind a person hand and foot
 122,hand,the woman is resting her chin on her hand
 122,hand,the hour of the doom of the country is at hand
 122,hand,please bear a hand with me
 122,hand,we were bound hand and foot
-122,hand,jack already hand in his dinner pail didnt you know
 123,companion,hell have a loving companion for life
 123,companion,death of the traveler or of travelers companion
 123,companion,he was a good friend a dependable companion
@@ -1231,13 +1231,13 @@
 124,sure,well i am sure how did it happen
 124,sure,be sure you arrive at work on time every morning
 124,sure,sure how do you want it
+124,sure,sure ill be back in about dgdg minutes
 124,sure,sure how much do you need
 124,sure,im not sure i have enough to spare
 124,sure,dont be too sure of it
 124,sure,whats that it sure doesnt sound like one of my kids
 124,sure,its no fun betting on a sure thing
 124,sure,i am sure russia is the largest country in the world
-124,sure,these tinted windows sure keep your car cool in the summer
 125,grief,she tried to conceal her grief behind a forced smile
 125,grief,my heart was pierced with grief
 125,grief,grief sits heavily at her heart
@@ -1280,6 +1280,7 @@
 128,bath,a study on the planning of the bath
 129,president,she is the new secretary to help the president
 129,president,how many candidates are running for president
+129,president,it has its own president elected every dg years
 129,president,the president fell from the peoples favor
 129,president,im sorry the president is out at the present time
 129,president,the able president devised simple but effective solutions
@@ -1287,7 +1288,6 @@
 129,president,the president announced a new policy
 129,president,the problems confronting the new president
 129,president,reporters deluged the president with questions
-129,president,would you want your wife to be president some day
 130,biology,our biology professor lives just across from my house
 130,biology,she studied marine biology in college
 130,biology,that student has an aptitude for biology
@@ -1343,11 +1343,11 @@
 135,odd,it is odd but i dont remember you
 135,odd,the festival is held in the odd years
 135,odd,im odd man out because im not wearing a tie
-135,odd,she learned about even and odd numbers
 135,odd,i watch old movies at odd moments
 135,odd,its very odd that your boss lives in such a small house
 135,odd,its odd i cant think of her name
 135,odd,the children are playing odd and even in the room
+135,odd,only offer an odd number of flowers as a gift
 136,strange,fate works in a strange way
 136,strange,gulliver then visits many strange lands in the third part
 136,strange,a strange noise broke his sleep
@@ -1360,14 +1360,14 @@
 136,strange,when a ghost haunts a house strange things can happen
 137,normal,the jiang era does not begin in normal times
 137,normal,childhood fears are a normal part of growing up
+137,normal,the normal temperature of the human body is dgdgdg degrees
 137,normal,the river rose five feet high above normal
 137,normal,she was a completely normal little girl
 137,normal,he was shocked by the news but hes back to normal now
 137,normal,television drives violence is normal into viewers head
 137,normal,it is absolutely normal that a human being relieves nature
 137,normal,his weight is far below normal
-137,normal,its absolutely normal that children have their fling
-137,normal,can you actually lead a normal life as such a celebrity
+137,normal,thats dgdg degrees below our normal highs of dgdg
 138,abdomen,where does your abdomen hurt the most
 138,abdomen,the pain is in my lower abdomen
 138,abdomen,focus camera on belly button for abdomen procedure
@@ -1381,8 +1381,8 @@
 139,curtain,its time to bring down the curtain on our relationship
 139,curtain,mary is drawing the curtain on
 139,curtain,the color of the curtain harmonizes with the room
+139,curtain,the last curtain falls at dgdg pm
 139,curtain,the famous singer dropped the curtain
-139,curtain,i was a member of school play club curtain
 139,curtain,they ring up the curtain on ice cream in july
 139,curtain,the curtain rises on a drama and we are all ready to watch
 139,curtain,i tried to bring down the curtain on the fight
@@ -1430,6 +1430,7 @@
 143,retain,retain previous versions of your design
 144,president,she is the new secretary to help the president
 144,president,how many candidates are running for president
+144,president,it has its own president elected every dg years
 144,president,the president fell from the peoples favor
 144,president,im sorry the president is out at the present time
 144,president,the able president devised simple but effective solutions
@@ -1437,7 +1438,6 @@
 144,president,the president announced a new policy
 144,president,the problems confronting the new president
 144,president,reporters deluged the president with questions
-144,president,would you want your wife to be president some day
 145,emotion,music is a tool to express mans emotion
 145,emotion,love is a complex emotion simply expressed
 145,emotion,she felt very sadher heart is choked with emotion
@@ -1531,13 +1531,13 @@
 154,husband,i need a joint checking account for my husband and me
 154,husband,the husband and wife do not mix well
 154,husband,i love my husband who always digs down into my mind
+154,husband,my husband died suddenly after only dg short years together
 154,husband,her husband worked as a blue marines
 154,husband,my husband is in government service
 154,husband,she works days and her husband works nights
 154,husband,one day my sister received a package from her husband
 154,husband,my husband agrees with me and so do my friends
 154,husband,i met my husband when we were sophomores in high school
-154,husband,my husband and i split up last year
 155,straw,the real boss is his wife and he is just a man of straw
 155,straw,the man is drinking with a straw
 155,straw,a man of straw is likely to put on airs
@@ -1551,12 +1551,12 @@
 156,cannon,the lieutenant ranged in the cannon
 156,cannon,the sound of the cannon echoed around
 156,cannon,more cannon more cannon for my good friend
+156,cannon,carey and cannon tied the knot in the bahamas in april dgdgdgdg
 156,cannon,max is a loose cannon politically
 156,cannon,i will send janissaries and cannon
 156,cannon,protect our approaching cannon from enemy patrols
 156,cannon,with enough cannon we can sweep the enemy away
 156,cannon,our soldiers counterattacked with cannon fire
-156,cannon,a heavy field gun  a gun of position
 156,cannon,a cannon mounted for some extra machining
 157,costume,ill help you change your costume
 157,costume,the big white chief was wearing an indian costume
@@ -1616,18 +1616,18 @@
 162,legion,the american legion
 162,legion,the number of  is legion 
 162,legion,the british legion
-162,legion,the roman legions covered the country
-162,legion,legions of people filled the streets to celebrate independence
+162,legion,he worked for united press international and the american legion news service in dgdgdgdg and dgdgdgdg
+162,legion,mrs lagarde has also been awarded frances highest honor called the legion dhonneur
 163,squad,they execute murderers by firing squad
 163,squad,momo has joined the search and rescue squad in nara japan
 163,squad,there is a great sense of team spirit in the squad
 163,squad,the korean squad put up a valiant effort until the very end
+163,squad,at least dgdg people were executed by firing squad
 163,squad,a squad car was gaining on us
 163,squad,those put to death by firing squad included three generals
 163,squad,recently lee received a love call from the national squad
 163,squad,ive got police tape in the squad car
 163,squad,the taliban threatened to kill the prince and his squad
-163,squad,the national squad had received negative projections
 164,learn,the important thing is to learn from my mistakes
 164,learn,you learn common themes when you live all over the world
 164,learn,how did you learn to dance like that
@@ -1666,8 +1666,8 @@
 167,mouth,you want to put your money where your mouth is
 167,mouth,it left a nasty taste in my mouth
 167,mouth,the rumor traveled from mouth to mouth
+167,mouth,i believe dgdgdg percent in word of mouth
 167,mouth,he crammed food into his mouth
-167,mouth,my friend tried to put his money where his mouth is
 168,huge,i need you to do me a huge favor
 168,huge,huge fans are used to create strong winds
 168,huge,i am a huge fan of the baseball player
@@ -1698,16 +1698,16 @@
 170,choke,you can choke on food and die
 170,choke,does he choke on his food
 170,choke,as long as you dont choke
+171,hang,mickle will hang up his boots up at the age of dgdg years
 171,hang,people in germany like to hang on a few everyday night
 171,hang,i sometimes hang out with my phantom boyfriend after work
 171,hang,what a windy day hang on to your hat
-171,hang,i cant do my work with this hangover
-171,hang,the morning after the party i woke up with a bad hangover
 171,hang,they plan to let the vote hang over until the next session
 171,hang,dont hang around with him any more
 171,hang,i hang out with my friends in the coffee shop after school
 171,hang,he doesnt want us to hang out anymore
 171,hang,i often hang out in coffee shops
+171,hang,its now time for you to hang your hat inside
 172,defend,we will defend our allies and our interests
 172,defend,defend justice as a hound of law
 172,defend,as ive said before we will help taiwan to defend itself
@@ -1877,7 +1877,7 @@
 188,obvious,the set of his mind was obvious
 188,obvious,its obvious that something went wrong somewhere
 188,obvious,its obvious that you need more time to think
-188,obvious,as a seal the answer should be obvious use your whiskers
+188,obvious,the most obvious change is a new simpler user interface
 189,choice,the college offers a wide choice of courses
 189,choice,i had no choice but brush his proposal to one side
 189,choice,the difficulty in life is the choice
@@ -1921,13 +1921,13 @@
 193,planet,when do you plan to visit the planet
 193,planet,life on this planet would not be possible without it
 193,planet,a planet can be visualized as a stone tied to a string
+193,planet,right now about dg billion people live on the planet
 193,planet,a planet orbiting a star in the constellation of cepheus
 193,planet,what is the biggest planet in the solar system
 193,planet,what would they think about our planet
 193,planet,saturn is the second biggest planet in the solar system
 193,planet,this led them to rethink the definition of a planet
 193,planet,the new planet is about ten times the size of the earth
-193,planet,two scientists have discovered a new planet lately
 194,meet,we can meet at your convenience any time next week
 194,meet,i wish i could meet more people
 194,meet,what time should we meet tonight
@@ -1950,6 +1950,7 @@
 195,mad,tell me why for the love of pete you are mad at me
 196,princess,now be happy as a beautiful princess night and day
 196,princess,the princess take her stand in a castle all days
+196,princess,charles was divorced from princess dianna in dgdgdgdg
 196,princess,some friends thought i was a princess from korea
 196,princess,princess fell in deep sleep in isolated tower under a curse
 196,princess,i dont bow and i dont know you as a princess
@@ -1957,7 +1958,6 @@
 196,princess,a long time ago i dressed up like a princess for halloween
 196,princess,of course princess at your convenience
 196,princess,princess christina burst into tears of joy
-196,princess,the main character is a young princess named aerin
 197,king,the king holds dominion over the people of his nation
 197,king,he is the rightful king of this country
 197,king,now the king looks around another village
@@ -1982,12 +1982,12 @@
 199,make,please make an end of arguing with each other
 199,make,would you please move along and make room for this old man
 199,make,make a convert of a person
+199,make,i think youll make it in dgdg minutes
 199,make,do not be quiet and make words
 199,make,i will let you know my mind as soon as i make a decision
 199,make,dont say anything until you make your choice
 199,make,as you make your bed so you must lie upon it
 199,make,i dont care what i make at the beginning
-199,make,make it a condition that 
 200,construct,a missing value cannot be used in a colon construct
 200,construct,an object defining a property construct in a source file
 200,construct,construct a call plan using theactivity cards
@@ -2110,6 +2110,7 @@
 211,fame,the lilies and roses of her is the reason for her fame
 212,poverty,kathy nellis provides a look at the face of poverty
 212,poverty,the educational policy helped lift children out of poverty
+212,poverty,but she says her countrys no dg problem is poverty
 212,poverty,poverty is a hard problem to solve
 212,poverty,she married her way out of poverty
 212,poverty,he led a life of poverty for many years
@@ -2117,7 +2118,6 @@
 212,poverty,the family lived in abject poverty
 212,poverty,poverty is the mother of crime from time to time
 212,poverty,the priest committed himself to a life of poverty
-212,poverty,lots of african children labor under poverty
 213,protect,will i do all my best to to protect you
 213,protect,these hats help protect the wearer from the hot sun
 213,protect,parents have the right to protect their children
@@ -2140,6 +2140,7 @@
 214,reject,a reject images license is a purchaseable option
 215,conquest,a scheme for the conquest of the world
 215,conquest,that treasure is now mine by right of armed conquest
+215,conquest,he had led the conquest of southern poland in dgdgdgdg
 215,conquest,they usually obtain power through military conquest
 215,conquest,some day we may complete the conquest of disease
 215,conquest,their name goes back to the conquest
@@ -2147,7 +2148,6 @@
 215,conquest,he dreamed of the conquest of the sea
 215,conquest,conquest business media wall street journal
 215,conquest,the conquest of spain by the moors
-215,conquest,his conquest was reached from egypt to india
 216,straw,the real boss is his wife and he is just a man of straw
 216,straw,the man is drinking with a straw
 216,straw,a man of straw is likely to put on airs
@@ -2163,9 +2163,9 @@
 217,region,a man planted many trees in the provence region of france
 217,region,the provence region of france used to be a fertile place
 217,region,people who came to farm the provence region built towns
+217,region,a dgdg magnitude earthquake hit the region
 217,region,hundreds of houses in the region are under water
 217,region,to be able to use the facilities in the region
-217,region,sending countryregion information to modem
 217,region,creates a region or a polyline from an enclosed area
 217,region,this is the region language and keyboard selection screen
 218,zone,select a time zone for the destination computers
@@ -2203,11 +2203,11 @@
 221,acknowledge,we do not even acknowledge who our clients are
 221,acknowledge,many of us didnt acknowledge him as our leader
 221,acknowledge,i acknowledge receipt of your letter
-221,acknowledge,the dio interface functions in a commandacknowledge format
 221,acknowledge,i didnt acknowledge that he could solve this problem
 221,acknowledge,we acknowledge that climate change is a reality
 221,acknowledge,we acknowledge that this issue is open to dispute
 221,acknowledge,he did not acknowledge having been defeated
+221,acknowledge,he did not acknowledge his defeat
 222,believe,dont believe your right arm too much
 222,believe,i think its really important to believe in yourself
 222,believe,dont believe him as he adds it on
@@ -2247,7 +2247,7 @@
 225,deny,i deny that ive ever met him
 225,deny,deny the action by clicking deny
 225,deny,if you want to help me deny knowledge of the accident
-225,deny,allowdeny information was updated successfully
+225,deny,i told the servant to deny me
 226,deliver,sports can also deliver the addictive qualities of a drug
 226,deliver,they needed it sooner than we could deliver it
 226,deliver,a different route is being used to deliver the vegetables
@@ -2256,8 +2256,8 @@
 226,deliver,maybe ill deliver milk in the morning
 226,deliver,it was nice of you to deliver those papers to his apartment
 226,deliver,the next man will deliver a speech against war
+226,deliver,how much water does the dgdgdgdga deliver per hour at dgdgdgdgpsi
 226,deliver,could you deliver one to my house
-226,deliver,can you deliver these to my house
 227,reject,this scheme is so diabolical that i must reject it
 227,reject,i couldnt reject that call near home
 227,reject,its hard to reject as they offer me a nice bit of money
@@ -2343,11 +2343,11 @@
 235,fury,the sight heated them into fury
 235,fury,the wind blew in all its fury
 235,fury,the typhoon raged in all its fury throughout the night
-235,fury,the new work was entitled sound and fury
 235,fury,could you tell me why he flied into a fury
 235,fury,nick fury forms a team of super humans
 235,fury,fury had fired up and burnt down the programs web site
 235,fury,he turned upon me in a fury
+235,fury,she will explode with fury if you even mention the subject
 236,mood,the main thing is to assess the others mood
 236,mood,most of the time hes in a rotten mood
 236,mood,shes really in a bad mood today
@@ -2430,14 +2430,14 @@
 243,cage,now chinny is in a new bird cage
 244,jail,after all he landed up in jail
 244,jail,i hope you dont end up in jail
+244,jail,he posted dgdgdgdg bail for his brothers release from jail
 244,jail,he hacksawed through the bars of the jail cell
 244,jail,i have friends at court so you cant send me to jail
+244,jail,the officials imprisoned her in jail for dgdg days
 244,jail,the authorities put her in jail for smoking hashish
 244,jail,he ended up in jail thats exactly what he deserves
+244,jail,he had spent dgdg years in jail
 244,jail,a prisoner has escaped from a jail in northern texas
-244,jail,the man smuggled a revolver into the jail
-244,jail,i think human traffickers should be put in jail
-244,jail,the prisoners were on the chain in jail
 245,hero,the man is a veritable hero
 245,hero,no man is a hero to his valet
 245,hero,only a hero can understand a hero
@@ -2458,6 +2458,7 @@
 246,construct,an object defining a code construct in a source file
 246,construct,an object defining a variable construct in a source file
 246,construct,an object defining a function construct in a source file
+247,earn,he used to earn up to dgdg a day
 247,earn,thats why he wanted to earn his way
 247,earn,how much do you earn a month
 247,earn,what does your sister do to earn extra money
@@ -2467,7 +2468,6 @@
 247,earn,in what area did scott jewell earn his degree
 247,earn,it was a hard life and they did not earn much money
 247,earn,i suppose so but what i really need to do is earn more
-247,earn,the writer does not earn salt to his porridge
 248,become,first we have to become truly aware of its existence
 248,become,it has become more complex and increasingly specialized
 248,become,since then it has become more and more popular
@@ -2501,13 +2501,13 @@
 251,manager,we need to talk to the manager
 251,manager,ive been holly smiths manager for over six years
 251,manager,hes been offered a job as plant manager at extertech
+251,manager,the manager over a staff of dgdg workers is on vacation
 251,manager,microsofts mail client and personal information manager
+251,manager,the manager convened the committee members at dgdgdgdg am
 251,manager,i began working as a manager three years ago
 251,manager,what time does the manager want the production schedule
+251,manager,i have worked as a manager at that company for dg years
 251,manager,i talked over the matter with the manager
-251,manager,im the manager of this health club
-251,manager,the office manager is filing some papers
-251,manager,the manager is stuck in a world of his own
 252,possess,i will possess myself of the ring
 252,possess,what educational background do you possess
 252,possess,teams can possess only one biracial player
@@ -2674,10 +2674,10 @@
 268,young,a young man and a young woman were sitting behind me
 268,young,the thief was caught by the brave young man
 268,young,this park is a favorite rendezvous for young men and women
-268,young,old and youngyoung and old
 268,young,abbreviate a novel for young readers
 268,young,he is old in years but young in vigor
 268,young,shes a role model for young people
+268,young,what does the association provide for young people
 269,angry,some of her family members they are angry she said
 269,angry,dont be angry replied the crow
 269,angry,adults tend to stay angry a long time
@@ -2788,16 +2788,16 @@
 279,require,i dont think the airlines require that anymore
 279,require,this correction does not require reprocessing
 279,require,reference conversion may require user modification
+280,hang,mickle will hang up his boots up at the age of dgdg years
 280,hang,people in germany like to hang on a few everyday night
 280,hang,i sometimes hang out with my phantom boyfriend after work
 280,hang,what a windy day hang on to your hat
-280,hang,i cant do my work with this hangover
-280,hang,the morning after the party i woke up with a bad hangover
 280,hang,they plan to let the vote hang over until the next session
 280,hang,dont hang around with him any more
 280,hang,i hang out with my friends in the coffee shop after school
 280,hang,he doesnt want us to hang out anymore
 280,hang,i often hang out in coffee shops
+280,hang,its now time for you to hang your hat inside
 281,elect,the politicians we elect to represent us
 281,elect,american voters elect their president every four years
 281,elect,i try to elect this everything
@@ -2821,13 +2821,13 @@
 283,chest,push out your chest and pull in your chin
 283,chest,please hold the cards close to the chest
 283,chest,i hear my heart beating in the chest
+283,chest,i measure dgdg centimeters round the chest
 283,chest,why are you rubbing my words on your chest
 283,chest,his neck and chest are covered with a rash
 283,chest,the chest is out and the shoulders are back
 283,chest,i had many chances to buy the chest
+283,chest,vitamin chest measures dg x dg x dg and weighs just dg oz
 283,chest,his chest was stuck through with a dagger
-283,chest,puff out your chest and be brave
-283,chest,a shot through the chest killed him
 284,stomach,you cannot work on an empty stomach
 284,stomach,she felt a knot in her stomach
 284,stomach,my stomach tells me its time to eat
@@ -2860,6 +2860,7 @@
 286,shoulder,shake a person by the shoulder
 287,orthodontist,he is practicing as an orthodontist now
 287,orthodontist,an orthodontist took a cast of the inside of jakes mouth
+287,orthodontist,i have an appointment to see the orthodontist at dg o clock this afternoon
 287,orthodontist,but over time in some people the thumb eventually pushes the top teeth out at which point only an orthodontist can make a difference
 287,orthodontist,and im looking for a new orthodontist
 287,orthodontist,can anyone recommend a good orthodontist as well
@@ -2867,7 +2868,6 @@
 287,orthodontist,with luck in june he will get his braces off and we will be almost done with the orthodontist
 287,orthodontist,so we went to my orthodontist
 287,orthodontist,the office is occupied by an orthodontist
-287,orthodontist,my mother wanted me to be an orthodontistbut i just said no
 288,professor,the professor is a man of letters
 288,professor,he is a professor at harvard and a man of letters
 288,professor,i have to hand it in to the professor today
@@ -2916,18 +2916,18 @@
 292,gun,porter reaches for his gun but lynn shoots him six times
 292,gun,load the bullets into the gun quickly
 292,gun,he fooled with a gun and hurt a man
+292,gun,he is a great gun shooter within range of dgdgdg meters
 292,gun,bang went a gun or there was the loud report of a gun
-292,gun,mount a gun on a carriage
 293,cent,i dont care a cent for it
 293,cent,im cent per cent certain shell come
+293,cent,exports to the european union increased by dgdg per cent
+293,cent,i guesstimate that the sale has increased by dgdg per cent
+293,cent,lots of dgdg cent dgdg cent and dgdg cent pieces
 293,cent,i dont care a red cent
+293,cent,travel agents charge dg per cent commission on tickets
 293,cent,she spent her last cent for the poor
-293,cent,the dollar rose by a ninth of a cent
-293,cent,he is going into business without a cent to back him up
-293,cent,i cant come down even one red cent
-293,cent,all prices are scaled ten per cent
-293,cent,cent on
-293,cent,detail
+293,cent,australia phased out dg cent and dg cent pieces in dgdgdgdg
+293,cent,the inflation rate has been creeping up to dgdg per cent
 294,balloon,the girl is holding a balloon
 294,balloon,a balloon high in the air
 294,balloon,look the frog looks like a big balloon
@@ -3017,7 +3017,7 @@
 302,deny,i deny that ive ever met him
 302,deny,deny the action by clicking deny
 302,deny,if you want to help me deny knowledge of the accident
-302,deny,allowdeny information was updated successfully
+302,deny,i told the servant to deny me
 303,know,i dont even know what happened to jim
 303,know,i dont know much more than that
 303,know,i dont know what happens to me
@@ -3217,7 +3217,7 @@
 322,atom,theres a single atom moving between them
 322,atom,how did he steal the atom
 322,atom,in nuclear fission one atom splits into two
-322,atom,and lets watch the atom bomb explode
+322,atom,for example a carbon atom has dg protons in its nucleus
 323,air,how many times a day should we air our ad
 323,air,air and water are natural resources
 323,air,infect the air with poison gas
@@ -3267,7 +3267,7 @@
 327,wrist,he held me by the wrist tightly
 327,wrist,she tried to improve the twist of the wrist
 327,wrist,common complaints are pain in the arm and wrist
-327,wrist,where did you find my wristwatch
+327,wrist,he broke his wrist climbing rocks for a cigarette ad
 328,thumb,his mean words were a thumb in the public to me
 328,thumb,the labor union is under the thumb of the firm
 328,thumb,my husband has the green thumb not me
@@ -3296,8 +3296,8 @@
 330,opponent,the basketball player covered his opponent
 330,opponent,i put the opponent to rout
 330,opponent,his finishing blow sent the opponent sprawling on the floor
+330,opponent,he led his opponent by dgdgdg votes
 330,opponent,he talked to his political opponent in a friendly fashion
-330,opponent,i caught a tartar who was my opponent in the debate
 331,confidence,thank you for your confidence and support
 331,confidence,you put too much confidence in what he says
 331,confidence,dont put too much confidence in what the newspaper says
@@ -3318,6 +3318,8 @@
 332,doorway,facing the doorway he was dead
 332,doorway,the doorway must be blocked up
 332,doorway,her mother suddenly appeared in the doorway
+333,gate,please be at the gate dgdg minutes before departure time
+333,gate,your flight leaves from gate dgdg now
 333,gate,there is a grocery store in way of the main gate
 333,gate,the thief entered the house through the main gate in state
 333,gate,the car reversed out of the gate
@@ -3326,8 +3328,6 @@
 333,gate,my flight to paris is leaving from gate number four
 333,gate,passes should be handed in at the gate upon leaving
 333,gate,the board agreed to open a gate for the rookie
-333,gate,this horse was first at the gate at feeding time
-333,gate,how about at the main gate of the park
 334,corridor,that corridor leads to the classrooms
 334,corridor,using the create simple corridor command
 334,corridor,students are chatting in the corridor for break time
@@ -3351,13 +3351,13 @@
 336,floor,tony spilled the water on the floor
 336,floor,the office is on the sixth floor
 336,floor,what floor do you live on
+336,floor,reference books are in the dgrd floor reading room
 336,floor,the office is on the third floor
 336,floor,the office is up on the top floor
 336,floor,what floor is your office located on
 336,floor,what floor is their office on
 336,floor,i will dust the floor with him
 336,floor,a child is scampering around on the floor
-336,floor,this floor is made of high quality wood
 337,kitchen,people are standing in the kitchen
 337,kitchen,the man is in the kitchen
 337,kitchen,the friends find jenny in the kitchen
@@ -3382,12 +3382,12 @@
 339,violation,censoring the internet is a violation of peoples rights
 339,violation,a tooltip displays information about the violation
 339,violation,they think it is a violation of human rights
+339,violation,he was fined dgdgdgdgdg won for violation of the speed limit
 339,violation,a sharing or locking violation caused a failure
 339,violation,the event can contain evidence of the rule violation
 339,violation,escalate to management for contract violation
 339,violation,it is against the rules or it is a violation of the rules
 339,violation,a logon permission violation caused a failure
-339,violation,act in violation of laws and regulations
 340,fraud,her heart is full of fraud
 340,fraud,he didnt mention it in fraud of me
 340,fraud,she played a pious fraud to save her family
@@ -3395,19 +3395,19 @@
 340,fraud,he was charged with fraud but the trial exonerated him
 340,fraud,health care fraud waste and abuse are serious issues
 340,fraud,so we suspected a great system error or a fraud 
+340,fraud,cant be changed for dgdg years even for fraud
 340,fraud,coupons cannot be issued to fraud accounts
 340,fraud,improve security posture and reduce fraud
-340,fraud,no one article can ever do justice to the topic of fraud
 341,odd,when people eat at odd times they risk gaining weight
 341,odd,there is luck in odd numbers
 341,odd,it is odd but i dont remember you
 341,odd,the festival is held in the odd years
 341,odd,im odd man out because im not wearing a tie
-341,odd,she learned about even and odd numbers
 341,odd,i watch old movies at odd moments
 341,odd,its very odd that your boss lives in such a small house
 341,odd,its odd i cant think of her name
 341,odd,the children are playing odd and even in the room
+341,odd,only offer an odd number of flowers as a gift
 342,sly,his lips were spread in a sly smile
 342,sly,he is such a sly man so you shouldnt believe him
 342,sly,one day a sly fox fell down into a deep well
@@ -3422,12 +3422,12 @@
 343,ocean,love is as deep as the ocean
 343,ocean,look at that ocean there are some big waves today
 343,ocean,one million won is just a drop in the ocean to him
+343,ocean,you realize its dgdg miles in the ocean
 343,ocean,the man is swimming in the ocean with his dogs
 343,ocean,you can enjoy a grand view of the ocean in this bungalow
 343,ocean,id like a room with a view of the ocean
 343,ocean,i dreamed last night that i was on an ocean voyage
 343,ocean,the warmth of the pacific ocean changed jet stream patterns
-343,ocean,the sun dipped into the ocean
 344,obvious,dont do the obvious do the less obvious
 344,obvious,the rest is nowhere its too obvious that we win the game
 344,obvious,its obvious what you should do with it
@@ -3437,7 +3437,7 @@
 344,obvious,the set of his mind was obvious
 344,obvious,its obvious that something went wrong somewhere
 344,obvious,its obvious that you need more time to think
-344,obvious,as a seal the answer should be obvious use your whiskers
+344,obvious,the most obvious change is a new simpler user interface
 345,scheme,lay a scheme before youre doing anything
 345,scheme,finally a scheme thats been around a long time
 345,scheme,there are a number of holes in the scheme
@@ -3466,8 +3466,8 @@
 347,west,the pyramids were built on the west side of the nile river
 347,west,the sun rises in the east and sets in the west
 347,west,he lives on the upper west side of manhattan not texas
+347,west,in the dgdgdgdgs many americans moved west in wagon trains
 347,west,the government has and hold a vast estate in the west
-347,west,the wind blows from the west
 348,noise,the elevator stopped working with a loud noise
 348,noise,a loud noise diverted everyones attention from their work
 348,noise,one mans music is another mans noise
@@ -3481,13 +3481,13 @@
 349,evening,if we leave friday evening we can come back sunday evening
 349,evening,by the way are you free for dinner tomorrow evening
 349,evening,we will very likely stay home this evening
+349,evening,good evening and welcome to the channel dg evening news
 349,evening,can you free up some time this evening
 349,evening,i already have plans for that evening
 349,evening,he spent the evening of his life in obscurity
 349,evening,then end the evening with dancing until midnight
 349,evening,one winter evening she met a young man
 349,evening,thats a lot to live down for just one evening
-349,evening,venus is called the evening star
 350,sunrise,i must leave home before sunrise
 350,sunrise,look at the beautiful sunrise in the picture
 350,sunrise,have you ever watched the sunrise
@@ -3633,11 +3633,11 @@
 364,parade,a day of penguins on parade
 364,parade,people are having a parade outside
 364,parade,after they fired a salute the parade began
+364,parade,the thanksgiving day parade started in dgdgdgdg
 364,parade,the parade passed before our office
 364,parade,the band is marching in a parade at a festival
 364,parade,he said they could have a joint parade or a joint team
 364,parade,it will be like a parade
-364,parade,the annual macys thanksgiving day parade is one of them
 365,jar,collect change in a jar for a whole month
 365,jar,the water in a jar is slopping from side to side
 365,jar,the jar of water moved front and rear
@@ -3654,20 +3654,20 @@
 366,cone,im not allowed to eat more than one ice cream cone a day
 366,cone,only one separation loop in cone
 366,cone,an ice cream cone is a great dessert
+366,cone,the volume of cone is dgdg of cylinders
 366,cone,it was the first ice cream cone ever produced in korea
 366,cone,cone leaning in for the sign
 366,cone,the cone directs its psychic powers
-366,cone,it was the first ice cream cone
 367,enter,please enter your secret code number
 367,enter,enter a location to store the reports
 367,enter,he will never dare to enter my house again
+367,enter,today we enter upon the ad dgdgdgdg
 367,enter,he is not eligible to enter the game
 367,enter,enter an action against a person
 367,enter,do not enter or no entering
 367,enter,please enter the name of a domain
 367,enter,please enter the distribution share name
 367,enter,please enter the distribution folder name
-367,enter,please enter the distinguished name of the target ou
 368,send,how many copies do we need to send
 368,send,its the time of year to send out the christmas cards
 368,send,how many resumes did lincoln send out
@@ -3699,6 +3699,7 @@
 370,come,will it not come to the same thing if i pay afterward
 370,come,most foreign tourists to korea come in spring or autumn
 371,sell,as a matter of fact my mother wants to sell her car
+371,sell,it wouldnt pay to sell it for less than dgdgdgdgdg won
 371,sell,as a matter of fact he wanted to sell the island
 371,sell,do not sell your friends down the river
 371,sell,today people buy and sell the things on the internet
@@ -3707,7 +3708,6 @@
 371,sell,if the price is right people will want to sell to them
 371,sell,this house will sell for fifty million won as it stands
 371,sell,the shareholders voted not to sell the company
-371,sell,i need to sell my old english book
 372,cliff,the cliff hangs over the road
 372,cliff,the river falls over the cliff
 372,cliff,then he uses a plunger to push the policeman off a cliff
@@ -3878,6 +3878,7 @@
 388,paragraph,when i begin a new paragraph i indent five spaces
 388,paragraph,paragraph fromat number paragraph fromat number
 388,paragraph,this paragraph refers to the events of last year
+389,earn,he used to earn up to dgdg a day
 389,earn,thats why he wanted to earn his way
 389,earn,how much do you earn a month
 389,earn,what does your sister do to earn extra money
@@ -3887,7 +3888,6 @@
 389,earn,in what area did scott jewell earn his degree
 389,earn,it was a hard life and they did not earn much money
 389,earn,i suppose so but what i really need to do is earn more
-389,earn,the writer does not earn salt to his porridge
 390,soup,this soup needs a bit of salt
 390,soup,this soup tastes awful or this soup tastes like dish water
 390,soup,the soup is a bit thick or the soup needs more water
@@ -3913,11 +3913,11 @@
 392,chicken,its the chicken and egg thing
 392,chicken,this chinese food matches well with chicken broth
 392,chicken,you have a choice of entree today beef or chicken
+392,chicken,dg eat more chicken turkey and fish in place of red meat
 392,chicken,i spent my days busy as a hen with one chicken
 392,chicken,id like a chicken and a big bowl of soap
 392,chicken,i dont know why she is like a hen with one chicken
 392,chicken,i wonder how the chicken is prepared
-392,chicken,and at noon i have brown rice with chicken breasts
 393,evaluate,ill evaluate your grade by group
 393,evaluate,the point is to capture first and evaluate later
 393,evaluate,better evaluate designs and project performance
@@ -3995,9 +3995,9 @@
 400,partner,charlies partner was rose and davids partner was mary
 400,partner,and i will pay tribute to him as a partner and as a friend
 400,partner,i need a sparring partner do you know how to box
+400,partner,we see india as a strategic partner in the dgdgst century
 400,partner,my partner was mary or rose
 400,partner,partner type  specifies the partner type
-400,partner,davids partner was mary and bobs partner was rose
 401,girl,my mom thinks poorly of my girl friend
 401,girl,the girl acted on the high ropes in front of her friends
 401,girl,answer to the name of the girl is kelly
@@ -4031,13 +4031,13 @@
 404,husband,i need a joint checking account for my husband and me
 404,husband,the husband and wife do not mix well
 404,husband,i love my husband who always digs down into my mind
+404,husband,my husband died suddenly after only dg short years together
 404,husband,her husband worked as a blue marines
 404,husband,my husband is in government service
 404,husband,she works days and her husband works nights
 404,husband,one day my sister received a package from her husband
 404,husband,my husband agrees with me and so do my friends
 404,husband,i met my husband when we were sophomores in high school
-404,husband,my husband and i split up last year
 405,father,my father reached the age of sixty this year
 405,father,a father to the poor children
 405,father,im the father of three children
@@ -4094,10 +4094,10 @@
 410,victor,using the power of lightning victor revives sparky
 410,victor,neither side emerges as a victor from a war
 410,victor,victor is very good at video games
+410,victor,victor hugo died on may dgdg dgdgdgdg at the age of dgdg
 410,victor,victor is so sad that he uses lightning to revive sparky
 410,victor,the original writer was victor hugor
-410,victor,why dont we read a novel written by victor hugo
-410,victor,victor de leon iii plays professional video games
+410,victor,victor started playing video games when he was dg years old
 411,maker,enums for additional maker placement method
 411,maker,im a trouble maker i cant do anything right
 411,maker,the fan maker is working instead of sleeping
@@ -4311,13 +4311,13 @@
 432,chaos,there is no escape from this chaos
 432,chaos,without rules people would live in a state of chaos
 432,chaos,simply put the result was chaos
+432,chaos,dgdgdg terrorism had caused total chaos of the whole us
 432,chaos,the political situation of the country is in chaos
 432,chaos,yes unification of the two countries may create chaos
 432,chaos,i kind of have a thing for chaos
 432,chaos,sample the citys energy and chaos
 432,chaos,eliminate the chaos of different build environments
 432,chaos,the troops are in a state of chaos
-432,chaos,the celestial dragon formed the world from chaos
 433,broad,that situation is common in a broad way
 433,broad,never drink alcohol in broad day
 433,broad,the problem is a broad one and demands a broad attack
@@ -4395,9 +4395,9 @@
 440,fur,polar bears have a dense coat of white fur
 440,fur,this is a sample of the fur coat i have in mind
 440,fur,his fur and tail are catching on fire
-440,fur,the issue for me is not dont wear fur
 440,fur,when a koala is born he has no fur
 440,fur,he is swathed in fur with only his face exposed
+440,fur,sheep provide thick fur for people
 441,kid,dont kid yourself its not so easy as you think
 441,kid,he is helping the kid brother tie a necktie
 441,kid,before he died and we used to kid around about it
@@ -4419,15 +4419,15 @@
 442,son,lose a son in the war
 442,son,i think your son inherited your good looks
 443,brother,he beat his brother home from school
+443,brother,my brother is dg years older than i
 443,brother,i argue with my brother all the time
 443,brother,my brother and i are only a year apart
 443,brother,the girl is waving to her brother
 443,brother,my brother lived in australia for five years
 443,brother,his brother swamped his way with him
 443,brother,you and your brother act in the same way
+443,brother,and dont forget brother irving dgdg years old
 443,brother,the boy messed around his brother
-443,brother,the old man is talking to my brother
-443,brother,he is helping the kid brother tie a necktie
 444,soldier,the soldier was on report that night
 444,soldier,a reporter is interviewing a soldier
 444,soldier,a soldier must rest on his arms
@@ -4445,9 +4445,9 @@
 445,partner,charlies partner was rose and davids partner was mary
 445,partner,and i will pay tribute to him as a partner and as a friend
 445,partner,i need a sparring partner do you know how to box
+445,partner,we see india as a strategic partner in the dgdgst century
 445,partner,my partner was mary or rose
 445,partner,partner type  specifies the partner type
-445,partner,davids partner was mary and bobs partner was rose
 446,intelligence,credit a person with rare intelligence
 446,intelligence,of course literacy isnt the same thing as intelligence
 446,intelligence,help ensure business intelligence application performance
@@ -4504,11 +4504,12 @@
 451,forget,dont think about it any more or forget all about it
 451,forget,dont forget to write back to me
 451,forget,youd better do renew right now before you forget it again
+451,forget,and dont forget brother irving dgdg years old
 451,forget,dont forget me to your family
 451,forget,how could you forget such an important thing
 451,forget,she said it over not to forget it
-451,forget,i reminded him several times so he wont forget
 452,sell,as a matter of fact my mother wants to sell her car
+452,sell,it wouldnt pay to sell it for less than dgdgdgdgdg won
 452,sell,as a matter of fact he wanted to sell the island
 452,sell,do not sell your friends down the river
 452,sell,today people buy and sell the things on the internet
@@ -4517,7 +4518,6 @@
 452,sell,if the price is right people will want to sell to them
 452,sell,this house will sell for fifty million won as it stands
 452,sell,the shareholders voted not to sell the company
-452,sell,i need to sell my old english book
 453,job,we buy our supplies in job lots
 453,job,ive heard computer art is a promising job
 453,job,she spent summer and winter with doing a research job
@@ -4549,15 +4549,15 @@
 455,straw,it is the last straw that breaks the camels back
 455,straw,a drowning man will clutch at a straw
 456,highway,i drove along the coastal highway
+456,highway,i was driving on the highway at the speed of dgdg mileh
 456,highway,hes driving the truck on the highway
 456,highway,snow covered the highwaythe highway was covered with snow
 456,highway,a narrow road leads off the main highway
 456,highway,he walked along the side of a highway
 456,highway,the bus broke down in the middle of the highway
 456,highway,did you hear about the terrible car crash on a highway
+456,highway,the highway leading into route dgdg is also slow
 456,highway,the construction of a new highway
-456,highway,i was lost on the highway
-456,highway,he enjoys driving in the highway at full speed
 457,threat,other humans became our biggest threat
 457,threat,this threat had a noticeable effect on the crowd
 457,threat,she posed a serious threat to the national security
@@ -4721,13 +4721,13 @@
 473,divide,many people wanted to divide this land up
 473,divide,divide it into three equal parts
 473,divide,how do you suggest we divide the work
+473,divide,okif we divide it three ways we each owe dgdg dollars
 473,divide,divide the sick from the rest
 473,divide,lets divide this cake into three and each take one piece
 473,divide,the rocky mountains form the great divide in north america
 473,divide,ill divide this cake up fair and square
 473,divide,he wanted to unite not divide
 473,divide,they can divide their time between our homes
-473,divide,the idea is to divide up the country into four sectors
 474,rare,its a very rare work of art and a very important picture
 474,rare,he is a man of rare eloquence
 474,rare,the rare pictures were sold at a high rate
@@ -4862,12 +4862,12 @@
 487,key,tourism is a key sector in nepals economy
 487,key,the key to success is hard work
 487,key,i need a key to the womens restroom please
+487,key,the government faces a key test of voter sentiment may dg
 487,key,what does the woman want the man to do with the key
 487,key,the key thing is that both of the parties work together
 487,key,introduce a key into a lock
 487,key,by the way i cant find my car key
 487,key,cortisol has a key role in our recollective powers
-487,key,you have never lost the key
 488,carpet,the man is installing a carpet
 488,carpet,he swept his illegal business deal under the carpet
 488,carpet,the woman is touching the carpet
@@ -5083,11 +5083,11 @@
 509,deck,to hit the deck early in the morning is not always easy
 509,deck,i hit the deck when the shooting started
 509,deck,a number of fish were flopping on the deck
+509,deck,there are dgdg cards in a deck
 509,deck,do you want just a radio or one with cassette deck
 509,deck,i think he is a few cards short of a full deck
 509,deck,the waves washed over the ships deck
 509,deck,all the crew members are walking on the deck
-509,deck,below the deck there were eleven little children sleeping
 510,ceiling,a living room with a high ceiling
 510,ceiling,the people are looking closely at the ceiling
 510,ceiling,raise the ceiling for the price
@@ -5111,13 +5111,13 @@
 512,obtain,you must obtain approval to build a highrise in this area
 512,obtain,only adults can obtain admissions to entering the party
 512,obtain,how did you obtain the news
+512,obtain,if you are calling to obtain test results please press dg
 512,obtain,where did he obtain his graduate degree
 512,obtain,you can obtain it from your local social security office
 512,obtain,obtain the entree to a club
 512,obtain,from where did the contest try to obtain a sample
 512,obtain,by asking for the impossible obtain the best possible
 512,obtain,obtain version information and loaded libraries
-512,obtain,what number should a caller press to obtain forms
 513,steal,can i steal a minute of your time
 513,steal,they tried to steal our vegetables
 513,steal,its a steal at that price
@@ -5142,12 +5142,12 @@
 515,receive,what do all arts society club members receive
 515,receive,maybe youll receive lots of letters from our audience
 515,receive,what do customers receive each year
+515,receive,what injection does a person at dgdg years need to receive
 515,receive,member nation can receive help from the world heritage fund
+515,receive,groups of dgdg or more receive a dgdg discount
 515,receive,i receive a generous bonus at my company
+515,receive,the soldiers will receive dg weeks of weapons training
 515,receive,receive more than one has earned
-515,receive,i am grateful for the benefits i receive from him
-515,receive,how will the woman receive the newsletter
-515,receive,she is the first person to receive the award
 516,deliver,sports can also deliver the addictive qualities of a drug
 516,deliver,they needed it sooner than we could deliver it
 516,deliver,a different route is being used to deliver the vegetables
@@ -5156,8 +5156,8 @@
 516,deliver,maybe ill deliver milk in the morning
 516,deliver,it was nice of you to deliver those papers to his apartment
 516,deliver,the next man will deliver a speech against war
+516,deliver,how much water does the dgdgdgdga deliver per hour at dgdgdgdgpsi
 516,deliver,could you deliver one to my house
-516,deliver,can you deliver these to my house
 517,leave,i dont want to leave early but it cant be helped
 517,leave,she is on sick leave for two days
 517,leave,we should probably leave a couple of days early
@@ -5167,7 +5167,7 @@
 517,leave,i want to leave the city to live in the country
 517,leave,would you rather leave in the morning or the afternoon
 517,leave,you cannot leave now at the material time
-517,leave,leave the disk in drive a until the wizard is complete
+517,leave,if youre still around in dgdg minutes well leave together
 518,shame,he said other things i cannot repeat for shame
 518,shame,it was a shame that the presidental candidate lost his seat
 518,shame,my face was burning with shame
@@ -5198,6 +5198,7 @@
 520,demon,this is not a demon thing
 520,demon,tell me about this demon dog
 520,demon,what do you mean a demon
+521,grow,this year we expect to grow by more than dgdg
 521,grow,ive decided to become a minister when i grow up
 521,grow,people grow food on the land
 521,grow,children grow up at different rates
@@ -5207,7 +5208,6 @@
 521,grow,but if i water the lawn the grass will grow
 521,grow,what sorts of things do you grow
 521,grow,in todays world children grow up with so many problems
-521,grow,this tree will grow to a great size
 522,get,the costs of college get higher every year
 522,get,we get back as much as we invest
 522,get,please get me there as soon as possible
@@ -5221,13 +5221,13 @@
 523,obtain,you must obtain approval to build a highrise in this area
 523,obtain,only adults can obtain admissions to entering the party
 523,obtain,how did you obtain the news
+523,obtain,if you are calling to obtain test results please press dg
 523,obtain,where did he obtain his graduate degree
 523,obtain,you can obtain it from your local social security office
 523,obtain,obtain the entree to a club
 523,obtain,from where did the contest try to obtain a sample
 523,obtain,by asking for the impossible obtain the best possible
 523,obtain,obtain version information and loaded libraries
-523,obtain,what number should a caller press to obtain forms
 524,find,we find most of our people through employment agencies
 524,find,her mission is to find the spy who is planted in the police
 524,find,then i guess you didnt find todays news unexpected
@@ -5411,12 +5411,12 @@
 542,cannon,the lieutenant ranged in the cannon
 542,cannon,the sound of the cannon echoed around
 542,cannon,more cannon more cannon for my good friend
+542,cannon,carey and cannon tied the knot in the bahamas in april dgdgdgdg
 542,cannon,max is a loose cannon politically
 542,cannon,i will send janissaries and cannon
 542,cannon,protect our approaching cannon from enemy patrols
 542,cannon,with enough cannon we can sweep the enemy away
 542,cannon,our soldiers counterattacked with cannon fire
-542,cannon,a heavy field gun  a gun of position
 542,cannon,a cannon mounted for some extra machining
 543,knife,he ate it up before he could say knife
 543,knife,he ensured the knife was sharp at all times
@@ -5430,6 +5430,7 @@
 543,knife,dont rush to finish it on a knife edge
 544,dawn,i started at the first gray of dawn
 544,dawn,last night we caroused around till dawn
+544,dawn,until the dgdgdgdgs most laborers worked from dawn until dusk
 544,dawn,the birds for example start singing at dawn
 544,dawn,the military attack began at dawn
 544,dawn,the landing troops hit the beach at dawn
@@ -5437,7 +5438,6 @@
 544,dawn,at crack of day  at the crack of dawn
 544,dawn,no one knows the story of tomorrows dawn
 544,dawn,these days they were up at the crack of dawn
-544,dawn,the cock crowed at the crack of dawn
 545,trick,i will never miss a trick
 545,trick,i was trying to trick you
 545,trick,they used every trick in the book to win
@@ -5455,9 +5455,9 @@
 546,fur,polar bears have a dense coat of white fur
 546,fur,this is a sample of the fur coat i have in mind
 546,fur,his fur and tail are catching on fire
-546,fur,the issue for me is not dont wear fur
 546,fur,when a koala is born he has no fur
 546,fur,he is swathed in fur with only his face exposed
+546,fur,sheep provide thick fur for people
 547,originate,when did the idea originate in your mind
 547,originate,originate a new style of dancing
 547,originate,from which countries does spam originate
@@ -5511,15 +5511,16 @@
 552,film,please load the film as shown in the picture
 552,film,the people are watching a film
 552,film,there was a film of oil on the water
+552,film,the film drew audiences totaling dgdgdgdgdgdg people
 552,film,an idol of the film world
 552,film,people claim that this film is full of violent scenes
 552,film,what kind of film do you use in your camera
 552,film,there were a lot of erotic scenes in the film
 552,film,i cant remember the film title
 552,film,that film brought tears to my eyes
-552,film,i heard the word in an american film
 553,conquest,a scheme for the conquest of the world
 553,conquest,that treasure is now mine by right of armed conquest
+553,conquest,he had led the conquest of southern poland in dgdgdgdg
 553,conquest,they usually obtain power through military conquest
 553,conquest,some day we may complete the conquest of disease
 553,conquest,their name goes back to the conquest
@@ -5527,7 +5528,6 @@
 553,conquest,he dreamed of the conquest of the sea
 553,conquest,conquest business media wall street journal
 553,conquest,the conquest of spain by the moors
-553,conquest,his conquest was reached from egypt to india
 554,send,how many copies do we need to send
 554,send,its the time of year to send out the christmas cards
 554,send,how many resumes did lincoln send out
@@ -5538,6 +5538,7 @@
 554,send,well send you the information as requested
 554,send,send the next applicant in on your way out
 554,send,i want to send this letter to my country
+555,restore,a dgdg to dgdg minute nap a day helps restore memory
 555,restore,system restore is unavailable in safe mode
 555,restore,the file name to restore contains invalid characters
 555,restore,system restore cannot be enabled in safe mode
@@ -5545,7 +5546,6 @@
 555,restore,the restore did not complete successfully
 555,restore,restore contact list using a backup file
 555,restore,click on the system restore tab
-555,restore,the restore from file does not exist
 555,restore,system restore is replacing changed files
 555,restore,the launch of a campaign to restore law and order
 556,complain,you brought it on yourself dont complain
@@ -5631,13 +5631,13 @@
 564,imagine,no i dont and i cant imagine who would have needed them
 564,imagine,imagine this train moves the other way around
 564,imagine,nowadays people cannot imagine their life without it
+564,imagine,imagine what dgdgdgdgdg people do to me with their energy
 564,imagine,imagine falling for such a story
 564,imagine,a year ago i couldnt imagine all the freedom i have now
 564,imagine,imagine a place where its springtime all year round
 564,imagine,he even says he cant imagine the world without me
 564,imagine,i cant imagine what he is doing
 564,imagine,i hardly imagine that this war be over in a short time
-564,imagine,imagine how happy they must have been
 565,portray,ueno will portray a substitute high school teacher
 565,portray,so i think i will be able to portray her well
 565,portray,to portray the scene in words is impossible
@@ -5673,13 +5673,12 @@
 568,journal,his ideas were lifted from an article in a journal
 568,journal,change of aik journal submission procedure
 568,journal,stop recording journal file stop journal
+568,journal,dgdg years contents of journal of kief
 568,journal,the study was published in the journal nature
 568,journal,before the test the first group wrote in a journal
 568,journal,he keeps a journal of daily events
 568,journal,the study is published in the journal plos one
-568,journal,the second group also wrote in a journal
 569,hawk,he watches them like a hawk
-569,hawk,what is true about the project assigned to chawk
 569,hawk,a little hawk was at hack
 569,hawk,a hawk flew with flaps of the wings in the sky
 569,hawk,once upon a time there was a hawk
@@ -5688,6 +5687,7 @@
 569,hawk,one day a hawk was flying in the sky
 569,hawk,it took me a long time to know a hawk from a handsaw
 569,hawk,master smiling hawk has killed second brother
+569,hawk,why didnt smiling hawk just tell everyone you were dead
 570,hen,hen laid a golden egg every day
 570,hen,look if there is a hen on something isnt right
 570,hen,chickens clucked in the hen house
@@ -5699,15 +5699,15 @@
 570,hen,i dont know why she is like a hen with one chicken
 570,hen,a hen that laid golden eggs
 571,turkey,i want you to talk turkey
+571,turkey,turkey and greece came near to a war about dgdg years ago
 571,turkey,please talk turkey i want to know the truth
+571,turkey,dg eat more chicken turkey and fish in place of red meat
 571,turkey,lets stop kidding around now and talk turkey
 571,turkey,since he was promoted he walked turkey
 571,turkey,now lets sit down and talk turkey
 571,turkey,turkey meat is used as food at christmas
 571,turkey,tom brought them back from his trip to turkey
 571,turkey,she carved the turkey at the table
-571,turkey,it also wanted turkey to have its own special culture
-571,turkey,his face turns red as turkey cock when he drinks alcohol
 572,proud,did i ever mention how proud i am of you
 572,proud,they are people as proud as they come
 572,proud,he was proud of his son on a fast track at work
@@ -5799,7 +5799,6 @@
 580,juice,the glass is full of fruit juice
 580,juice,just step on the juice so we wont be tardy for class
 581,explain,dont try and explain it away
-581,explain,how does explain differ from describe
 581,explain,i cant explain it any other way
 581,explain,can you explain to me how to use this atm
 581,explain,let me explain our terms and conditions of business
@@ -5808,18 +5807,20 @@
 581,explain,ill explain briefly about this new product
 581,explain,i think ill need about four hours to explain the details
 581,explain,explain a passage in a book
+581,explain,isnt there any way to explain this a bit more effectively
 582,forget,dont forget that i am always by you
 582,forget,dont forget to fasten your seatbelt
 582,forget,theres not much hope she can forget all the bad things
 582,forget,dont think about it any more or forget all about it
 582,forget,dont forget to write back to me
 582,forget,youd better do renew right now before you forget it again
+582,forget,and dont forget brother irving dgdg years old
 582,forget,dont forget me to your family
 582,forget,how could you forget such an important thing
 582,forget,she said it over not to forget it
-582,forget,i reminded him several times so he wont forget
 583,illness,his absence from work was because of his illness
 583,illness,be out on account of illness
+583,illness,when she was dg years old she suffered from an illness
 583,illness,illness unfitted him for the life of a farmer
 583,illness,your illness demands three weeks of quiet rest
 583,illness,after several years of mental illness she ended it all
@@ -5827,7 +5828,6 @@
 583,illness,worry and illness age a man
 583,illness,the most important thing in illness is never to lose heart
 583,illness,the illness left the family destitute
-583,illness,he lay on a bed of illness never to rise again
 584,mad,it was a mad house in my office today
 584,mad,it must be a mad house in the bathroom in the mornings
 584,mad,a mad man was caged up
@@ -5913,11 +5913,11 @@
 592,parade,a day of penguins on parade
 592,parade,people are having a parade outside
 592,parade,after they fired a salute the parade began
+592,parade,the thanksgiving day parade started in dgdgdgdg
 592,parade,the parade passed before our office
 592,parade,the band is marching in a parade at a festival
 592,parade,he said they could have a joint parade or a joint team
 592,parade,it will be like a parade
-592,parade,the annual macys thanksgiving day parade is one of them
 593,add,can you add the ink bill
 593,add,add sweet potatoes cover pan and bring water to boil
 593,add,would you add up my bill please
@@ -5996,18 +5996,18 @@
 600,camera,what kind of film do you use in your camera
 600,camera,now camera phones are doing the same for photojournalism
 600,camera,a man is focusing his camera
+600,camera,what is true regarding camera sales for dgdgdgdg
 600,camera,she did a camera and phone all in her power
-600,camera,the smallest digital camera will come into the market soon
 601,surgery,the important thing is who performs the surgery
 601,surgery,i have a few questions about my surgery today
+601,surgery,you must fast for dgdg hours before this surgery
 601,surgery,dont stretch your luck with having a plastic surgery
 601,surgery,do you know when the surgery will be over
 601,surgery,after the surgery he was able to walk again
 601,surgery,she became another cup of tea after the plastic surgery
 601,surgery,she had a breast enlargement surgery
+601,surgery,ive been dgdg successful with the surgery
 601,surgery,ive had some kind of cosmetic surgery
-601,surgery,robots to drive cars perform surgery and teach children
-601,surgery,veterinarians said that he needed surgery
 602,narrow,narrow bridge is now hidden beneath flood waters
 602,narrow,the straight and narrow way is worthy of praise
 602,narrow,do you think i should narrow it down
@@ -6079,6 +6079,7 @@
 608,state,be a cornerstone of the state
 608,state,hes a strong advocate of state ownership of the railroads
 609,dusk,dusk falls or the dusk gathers
+609,dusk,until the dgdgdgdgs most laborers worked from dawn until dusk
 609,dusk,the streets were red in the dusk
 609,dusk,the air was thick with dusk we couldnt see anything
 609,dusk,its hard to see at dusk so i drive carefully
@@ -6087,7 +6088,6 @@
 609,dusk,rabbits are most active at dawn and dusk
 609,dusk,there was a thick layer of dusk on the table
 609,dusk,dusk was falling when we arrived at the camp site
-609,dusk,right boys you work from dawn to dusk
 610,dull,the party was a dull affair
 610,dull,the party was a dull show
 610,dull,no it was quite a dull show
@@ -6098,6 +6098,7 @@
 610,dull,he is a dull drink of water
 610,dull,the market is sluggish or the trade is dull
 610,dull,a rainy day like this makes me feel dull and gloomy
+611,doctor,there is a doctor on call dgdg hours a day
 611,doctor,the doctor is measuring the old mans pulse rate
 611,doctor,i dismissed an idea from my mind of becoming a doctor
 611,doctor,he wants to be a doctor when he grows up
@@ -6107,17 +6108,16 @@
 611,doctor,that doctor is their last hope
 611,doctor,the sick man entreated the doctor to ease his pain
 611,doctor,the doctor said rest without help heal my leg wound
-611,doctor,would you please call a doctor for me
 612,normal,the jiang era does not begin in normal times
 612,normal,childhood fears are a normal part of growing up
+612,normal,the normal temperature of the human body is dgdgdg degrees
 612,normal,the river rose five feet high above normal
 612,normal,she was a completely normal little girl
 612,normal,he was shocked by the news but hes back to normal now
 612,normal,television drives violence is normal into viewers head
 612,normal,it is absolutely normal that a human being relieves nature
 612,normal,his weight is far below normal
-612,normal,its absolutely normal that children have their fling
-612,normal,can you actually lead a normal life as such a celebrity
+612,normal,thats dgdg degrees below our normal highs of dgdg
 613,attend,j b does not attend school his parents teach him at home
 613,attend,please let us know if you are unable to attend
 613,attend,still others struggle to do both  attend school and work
@@ -6132,22 +6132,22 @@
 614,receive,what do all arts society club members receive
 614,receive,maybe youll receive lots of letters from our audience
 614,receive,what do customers receive each year
+614,receive,what injection does a person at dgdg years need to receive
 614,receive,member nation can receive help from the world heritage fund
+614,receive,groups of dgdg or more receive a dgdg discount
 614,receive,i receive a generous bonus at my company
+614,receive,the soldiers will receive dg weeks of weapons training
 614,receive,receive more than one has earned
-614,receive,i am grateful for the benefits i receive from him
-614,receive,how will the woman receive the newsletter
-614,receive,she is the first person to receive the award
 615,disappear,memories dont disappear they lap over each other
 615,disappear,nowadays these happenings dont disappear so quickly
 615,disappear,and those mysterious scratching noises disappear
 615,disappear,why do they disappear and die
+615,disappear,in conclusion dgd will also disappear within due time
 615,disappear,all the charms disappear whenever the final day nears down
 615,disappear,your taskbar and start button disappear
 615,disappear,few are suggesting that the pc is going to disappear
 615,disappear,then plastic bags will disappear completely
 615,disappear,hed disappear for weeks at a time
-615,disappear,hed disappear for hours at a time
 616,psychology,psychology books are full of mumbo jumbo
 616,psychology,you think you know human psychology but really you dont
 616,psychology,i received counseling from a doctor of psychology
@@ -6162,12 +6162,12 @@
 617,disappear,nowadays these happenings dont disappear so quickly
 617,disappear,and those mysterious scratching noises disappear
 617,disappear,why do they disappear and die
+617,disappear,in conclusion dgd will also disappear within due time
 617,disappear,all the charms disappear whenever the final day nears down
 617,disappear,your taskbar and start button disappear
 617,disappear,few are suggesting that the pc is going to disappear
 617,disappear,then plastic bags will disappear completely
 617,disappear,hed disappear for weeks at a time
-617,disappear,hed disappear for hours at a time
 618,dirt,the way people live adds dirt to the air
 618,dirt,the worker moved dirt in the mine
 618,dirt,never mind the matter is a dirt under your feet
@@ -6179,15 +6179,15 @@
 618,dirt,i caught him digging dirt on me
 618,dirt,he was drawing in the dirt with his finger
 619,magnitude,measure the magnitude of a lake
+619,magnitude,a dgdg magnitude earthquake hit the region
 619,magnitude,the study on rapid magnitude estimation using first arrival
 619,magnitude,improve performance up to an order of magnitude
+619,magnitude,the quake had a magnitude of dgdg
 619,magnitude,controls the magnitude of indirect illumination
+619,magnitude,the caribbean country was hit by a dgdg magnitude earthquake
 619,magnitude,the five powers of the first magnitude
 619,magnitude,but none may match the magnitude of the jang and ko couple
-619,magnitude,she is a star of the first magnitude
-619,magnitude,loads can be modified in magnitude and in case
-619,magnitude,think id miss a terrorist attack of this magnitude
-619,magnitude,the magnitude of the pitch should be greater than resabs
+619,magnitude,a strong earthquake with the magnitude of dgdg took place
 620,misery,virtue leads to happiness and vice to misery
 620,misery,ever since his wife died hes been in misery
 620,misery,relent at the sight of misery
@@ -6251,13 +6251,13 @@
 626,enter,please enter your secret code number
 626,enter,enter a location to store the reports
 626,enter,he will never dare to enter my house again
+626,enter,today we enter upon the ad dgdgdgdg
 626,enter,he is not eligible to enter the game
 626,enter,enter an action against a person
 626,enter,do not enter or no entering
 626,enter,please enter the name of a domain
 626,enter,please enter the distribution share name
 626,enter,please enter the distribution folder name
-626,enter,please enter the distinguished name of the target ou
 627,pride,you sometimes need to pocket your pride
 627,pride,his heart was filled with pride at that time
 627,pride,the new hat is her pride and joy
@@ -6304,10 +6304,10 @@
 631,priest,the old priest passed in peace
 631,priest,he was ordained as a priest last year
 631,priest,at the close of the service the priest blessed the people
+631,priest,but he quit his job dgdg years ago to become a priest
 631,priest,a new age priest or priestess
 631,priest,the priest grabbed some water from the laver
 631,priest,the priest said a prayer at the altar
-631,priest,a priest went to the hospital to visit a dying patient
 632,devil,dont believe that child of the devil
 632,devil,the kingdom sent the man to the devil
 632,devil,the devil of it is studying english
@@ -6334,20 +6334,20 @@
 634,dominate,i am not going to let him dominate our meeting any more
 634,dominate,now the star hopes to once again dominate her home grounds
 634,dominate,the strong dominate over the weak
-634,dominate,how can we dominate a day
 634,dominate,now they are looking to dominate the japanese music market
 634,dominate,animated films dominate worlds box office
 634,dominate,psys new song gentleman continues to dominate the world
+634,dominate,she fears that one company might dominate the other
 635,magnitude,measure the magnitude of a lake
+635,magnitude,a dgdg magnitude earthquake hit the region
 635,magnitude,the study on rapid magnitude estimation using first arrival
 635,magnitude,improve performance up to an order of magnitude
+635,magnitude,the quake had a magnitude of dgdg
 635,magnitude,controls the magnitude of indirect illumination
+635,magnitude,the caribbean country was hit by a dgdg magnitude earthquake
 635,magnitude,the five powers of the first magnitude
 635,magnitude,but none may match the magnitude of the jang and ko couple
-635,magnitude,she is a star of the first magnitude
-635,magnitude,loads can be modified in magnitude and in case
-635,magnitude,think id miss a terrorist attack of this magnitude
-635,magnitude,the magnitude of the pitch should be greater than resabs
+635,magnitude,a strong earthquake with the magnitude of dgdg took place
 636,course,the storm drove the ship out of its course
 636,course,this isnt a serious course its nothing but fun and games
 636,course,gnp steered the middle course when it was in trouble
@@ -6358,6 +6358,7 @@
 636,course,the course of justice is difficult to practice
 636,course,well it was crowded of course
 636,course,the country remains of course divided
+637,grow,this year we expect to grow by more than dgdg
 637,grow,ive decided to become a minister when i grow up
 637,grow,people grow food on the land
 637,grow,children grow up at different rates
@@ -6367,7 +6368,6 @@
 637,grow,but if i water the lawn the grass will grow
 637,grow,what sorts of things do you grow
 637,grow,in todays world children grow up with so many problems
-637,grow,this tree will grow to a great size
 638,mouse,he lived with his parents father mouse and mother mouse
 638,mouse,the man is chasing a mouse
 638,mouse,the man is afraid of the mouse
@@ -6390,6 +6390,7 @@
 639,decide,it rests with you to decide
 640,dawn,i started at the first gray of dawn
 640,dawn,last night we caroused around till dawn
+640,dawn,until the dgdgdgdgs most laborers worked from dawn until dusk
 640,dawn,the birds for example start singing at dawn
 640,dawn,the military attack began at dawn
 640,dawn,the landing troops hit the beach at dawn
@@ -6397,7 +6398,6 @@
 640,dawn,at crack of day  at the crack of dawn
 640,dawn,no one knows the story of tomorrows dawn
 640,dawn,these days they were up at the crack of dawn
-640,dawn,the cock crowed at the crack of dawn
 641,day,how many times a day should we air our ad
 641,day,its five years ago to a day
 641,day,night and day for the past six months
@@ -6410,14 +6410,14 @@
 641,day,the previous daythe day before
 642,chapter,the final chapter of a book
 642,chapter,this word occurs twice in the first chapter
+642,chapter,i read chapter dg of my history book
 642,chapter,the book is tired to the end of the chapter
 642,chapter,the student has the chapter taped out
+642,chapter,i thought you already assigned chapter dgdg to us
 642,chapter,chapter books contain fewer pictures and a lot more text
 642,chapter,as we noted in the last chapter this is an important fact
 642,chapter,the final chapter on this is still not written
 642,chapter,she is president of her chapter of that committee
-642,chapter,a new paragraph has been prefixed to chapter three
-642,chapter,stop reading me a chapter i understand what you mean
 643,parent,there are some things a parent just cant miss
 643,parent,you must type a parent domain name
 643,parent,parent shape contains nested child shapes
@@ -6429,15 +6429,15 @@
 643,parent,moves to the first child of a parent control
 643,parent,the parent portal site now provides all shared services
 644,brother,he beat his brother home from school
+644,brother,my brother is dg years older than i
 644,brother,i argue with my brother all the time
 644,brother,my brother and i are only a year apart
 644,brother,the girl is waving to her brother
 644,brother,my brother lived in australia for five years
 644,brother,his brother swamped his way with him
 644,brother,you and your brother act in the same way
+644,brother,and dont forget brother irving dgdg years old
 644,brother,the boy messed around his brother
-644,brother,the old man is talking to my brother
-644,brother,he is helping the kid brother tie a necktie
 645,god,do you ever pray to god
 645,god,i offered up prayers to god the father
 645,god,in the sight of god all men are equal
@@ -6458,7 +6458,6 @@
 646,daughter,my daughter loves the story of emperors new clothes
 646,daughter,hows your daughter doing in college
 646,daughter,he brought his daughter with him
-647,belt,dont forget to fasten your seatbelt
 647,belt,the man is putting on a belt
 647,belt,the man is putting on his belt
 647,belt,i was really full and i had to loosen my belt
@@ -6468,6 +6467,7 @@
 647,belt,you didnt fasten your seat belt
 647,belt,do yourself a favor buckle up your safety belt
 647,belt,i am used to be tighten my belt in my life
+647,belt,could you tell me how to fasten this seat belt please
 648,ancient,the great captains of ancient times
 648,ancient,the sun was held sacred in ancient times
 648,ancient,in ancient times people trained it for sport and war
@@ -6522,12 +6522,12 @@
 653,emergency,wheres the emergency room please my son cut his arm
 653,emergency,a man can hardly sit tight in time of emergency
 653,emergency,attached is a list of emergency contact numbers
+653,emergency,in an emergency call dgdgdg for an ambulance
 653,emergency,emergency exits are located on both sides of the cabin
 653,emergency,what should a caller do in an emergency
 653,emergency,they said someone rang the emergency alarm as a joke
 653,emergency,there are two emergency exits on every floor
 653,emergency,jump in and pull the emergency brake
-653,emergency,it will be safe for you to prepare for emergency
 654,beef,i work out everyday to beef my body up
 654,beef,japan will stop imports of us beef starting from today
 654,beef,you have a choice of entree today beef or chicken
@@ -6561,13 +6561,13 @@
 657,divide,many people wanted to divide this land up
 657,divide,divide it into three equal parts
 657,divide,how do you suggest we divide the work
+657,divide,okif we divide it three ways we each owe dgdg dollars
 657,divide,divide the sick from the rest
 657,divide,lets divide this cake into three and each take one piece
 657,divide,the rocky mountains form the great divide in north america
 657,divide,ill divide this cake up fair and square
 657,divide,he wanted to unite not divide
 657,divide,they can divide their time between our homes
-657,divide,the idea is to divide up the country into four sectors
 658,chair,please seat yourself in a chair
 658,chair,the man is buying the chair
 658,chair,i need a covering for my chair
@@ -6600,6 +6600,7 @@
 660,portray,what kinds of efforts did you go through to portray her
 661,bus,people are sitting on the bus
 661,bus,the bus driver isnt here yet
+661,bus,that the bus is leaving at dg am the next day
 661,bus,the bus drivers are walking in front of the bus
 661,bus,bus use is increasing among the staff
 661,bus,the driver pushed his car into the bus
@@ -6607,17 +6608,16 @@
 661,bus,the bus drivers are standing by the bus
 661,bus,the bus drivers are standing behind the bus
 661,bus,i am looking for a bus stop
-661,bus,he was a few steps past the tree at the bus stop
 662,bring,bring your wife and children too
 662,bring,what documents do i need to bring with me
 662,bring,the boss helped bring this event on
 662,bring,a teacher told him to bring up the rear
 662,bring,cupid really can bring two people together
 662,bring,dont disappoint me dont bring me down
+662,bring,bring just to boiling stirring constantly dg minutes
 662,bring,i need something to bring down the fever
 662,bring,ill bring her to the press conference this afternoon
 662,bring,we left him with his grandmother well bring him next time
-662,bring,add sweet potatoes cover pan and bring water to boil
 663,analyze,he sat down to analyze his sales charts
 663,analyze,could you analyze the market situation in detail
 663,analyze,you can only analyze one sample at a time
@@ -6633,11 +6633,11 @@
 664,please,i need to cash a check please
 664,please,please do not bother me would you
 664,please,please reenter your personal code number
+664,please,please turn to page dg in your copy of the report
 664,please,you can do as you please
 664,please,do it just as you please
 664,please,you can do with it as you please
 664,please,please dont say any more about it
-664,please,please step to the rear of the car
 665,atmosphere,the atmosphere would be a nice change of pace
 665,atmosphere,the mind is the atmosphere of the soul
 665,atmosphere,a tense atmosphere could be felt in the village
@@ -6650,6 +6650,7 @@
 665,atmosphere,anthony felt the need to lighten the atmosphere
 666,president,she is the new secretary to help the president
 666,president,how many candidates are running for president
+666,president,it has its own president elected every dg years
 666,president,the president fell from the peoples favor
 666,president,im sorry the president is out at the present time
 666,president,the able president devised simple but effective solutions
@@ -6657,7 +6658,6 @@
 666,president,the president announced a new policy
 666,president,the problems confronting the new president
 666,president,reporters deluged the president with questions
-666,president,would you want your wife to be president some day
 667,booth,shes standing in a telephone booth
 667,booth,the man is waving from the phone booth
 667,booth,thank you for calling waters booth and samson
@@ -6694,20 +6694,20 @@
 670,cigar,visit the holt cigar shop and ask for the honduras specials
 670,cigar,the man struck a match and lit his cigar
 670,cigar,he was smoking a big cigar
-670,cigar,please clear the ashes from the fireplace
 670,cigar,on occasion he smokes a cigar after dinner
 670,cigar,would you care for a cigar
 670,cigar,just be careful with the cigar
+670,cigar,no i dont want a cigar
 671,appliance,ill be in the home appliance department
 671,appliance,five men are moving an appliance
 671,appliance,specifies a choice of appliance addresses
 671,appliance,the appliance supports download of files using http
+671,appliance,the appliance supports http version dgdg protocol
 671,appliance,the appliance does not authenticate users
 671,appliance,turns the appliance on and off
 671,appliance,specifies the time zone of the appliance
 671,appliance,action when appliance is in transparent mode
 671,appliance,specify the relevant network settings for your appliance
-671,appliance,configure basic settings on the appliance
 672,pray,do you ever pray to god
 672,pray,this is the day that i wait and pray
 672,pray,at the close of day we all gather up to pray
@@ -6750,6 +6750,7 @@
 675,television,the lamp is on top of the television
 676,think,im afraid not or i dont think so
 676,think,it is discouraging to think of my future
+676,think,honey i think i have the dg year itch
 676,think,i think it would be a nice time
 676,think,dont think about it any more or forget all about it
 676,think,i think its a little loud
@@ -6757,7 +6758,6 @@
 676,think,it depends on how you think
 676,think,i think ill buy a car next year
 676,think,try to think in english always
-676,think,you mustnt think ill of me
 677,meet,we can meet at your convenience any time next week
 677,meet,i wish i could meet more people
 677,meet,what time should we meet tonight
@@ -6783,11 +6783,11 @@
 679,please,i need to cash a check please
 679,please,please do not bother me would you
 679,please,please reenter your personal code number
+679,please,please turn to page dg in your copy of the report
 679,please,you can do as you please
 679,please,do it just as you please
 679,please,you can do with it as you please
 679,please,please dont say any more about it
-679,please,please step to the rear of the car
 680,differ,how does explain differ from describe
 680,differ,we differ from each other in many ways
 680,differ,how do the mens feelings differ
@@ -6865,9 +6865,9 @@
 687,buddy,link a buddy with a contact in the contacts application
 687,buddy,to specify a buddy group change the group name field
 687,buddy,for each user read the buddy list from userstorage
+687,buddy,ben adopted buddy dg years ago when he was only dg weeks old
 687,buddy,on the screen highlight a buddy
 687,buddy,starting user number for buddy list operations
-687,buddy,you now have no buddies in your buddy list
 688,guest,the woman is seating a guest
 688,guest,they put their guest to the door
 688,guest,the host of the show interviews the guest
@@ -6912,12 +6912,12 @@
 692,owe,how much do i owe on it
 692,owe,how much do i owe you then
 692,owe,how much does mr edwards owe the speaker
+692,owe,i owe the public house a dgdgdgdgdg won bill
 692,owe,okay ill work for you this time but you owe me
+692,owe,okif we divide it three ways we each owe dgdg dollars
 692,owe,i feel i owe you a big favor
 692,owe,lets split the bill what do i owe you
 692,owe,i owe him two season tickets for dodgers home games
-692,owe,we owe our parents a living
-692,owe,i owe you an apology for forgetting the books
 693,appear,the children appear on a poster in the park
 693,appear,i simply cannot appear before company looking like this
 693,appear,a recipient did not appear in the address list
@@ -6957,7 +6957,7 @@
 696,leave,i want to leave the city to live in the country
 696,leave,would you rather leave in the morning or the afternoon
 696,leave,you cannot leave now at the material time
-696,leave,leave the disk in drive a until the wizard is complete
+696,leave,if youre still around in dgdg minutes well leave together
 697,bell,were all so hungry by the time the lunch bell rings
 697,bell,dr morgan rings his own bell all the time
 697,bell,a sound of a bell is faintly heard
@@ -6965,9 +6965,9 @@
 697,bell,the man is putting a bell on his bicycle
 697,bell,a naughty boy rang a bell by way of experiment
 697,bell,bell ponced up as the hostess of the party
+697,bell,a bell tolls dgdg times in the first hour of the year
 697,bell,his parents taped a bell on a string to his bedroom window
 697,bell,the guest mashed on the bell
-697,bell,the name doesnt ring a bell
 698,fabric,the man is drawing on the fabric
 698,fabric,this is a beautiful fabric all right
 698,fabric,the ladies had never seen such beautiful fabric
@@ -7112,12 +7112,12 @@
 712,payment,be sure to complete the payment by the due date
 712,payment,im calling to say i sent my payment a week ago
 712,payment,the time for the payment expired
+712,payment,we can offer dg cash discount for prompt payment
 712,payment,they sent me a demand for immediate payment
 712,payment,id like to stop payment on a check
 712,payment,there is no record of the payment
 712,payment,failing payment we shall attach your property
 712,payment,whats the penalty for late payment
-712,payment,they want the downpayment of a million won
 713,salary,raise my salary and ill work even harder
 713,salary,he is highly paid or he draws a big salary
 713,salary,a salary adequate to support a family
@@ -7125,9 +7125,9 @@
 713,salary,he saves up part of his salary every month
 713,salary,may i ask about your starting salary
 713,salary,whose salary is most affected by the companys actions
+713,salary,after taxes her net salary comes to dgdgdg a week
 713,salary,her family depends upon her salary from that job
 713,salary,he received a measly raise in his salary
-713,salary,next time someone leaves early well dock their salary
 714,income,many people have lived above their income
 714,income,charge a tax on an income
 714,income,his earned income was small considering his work
@@ -7171,13 +7171,13 @@
 718,sure,well i am sure how did it happen
 718,sure,be sure you arrive at work on time every morning
 718,sure,sure how do you want it
+718,sure,sure ill be back in about dgdg minutes
 718,sure,sure how much do you need
 718,sure,im not sure i have enough to spare
 718,sure,dont be too sure of it
 718,sure,whats that it sure doesnt sound like one of my kids
 718,sure,its no fun betting on a sure thing
 718,sure,i am sure russia is the largest country in the world
-718,sure,these tinted windows sure keep your car cool in the summer
 719,wife,bring your wife and children too
 719,wife,hes two timing on his wife
 719,wife,he has a wife and children depending upon him
@@ -7202,12 +7202,12 @@
 721,make,please make an end of arguing with each other
 721,make,would you please move along and make room for this old man
 721,make,make a convert of a person
+721,make,i think youll make it in dgdg minutes
 721,make,do not be quiet and make words
 721,make,i will let you know my mind as soon as i make a decision
 721,make,dont say anything until you make your choice
 721,make,as you make your bed so you must lie upon it
 721,make,i dont care what i make at the beginning
-721,make,make it a condition that 
 722,build,you must obtain approval to build a highrise in this area
 722,build,it was these people that build the worlds first cities
 722,build,he attempted to build his own house
@@ -7221,13 +7221,13 @@
 723,imagine,no i dont and i cant imagine who would have needed them
 723,imagine,imagine this train moves the other way around
 723,imagine,nowadays people cannot imagine their life without it
+723,imagine,imagine what dgdgdgdgdg people do to me with their energy
 723,imagine,imagine falling for such a story
 723,imagine,a year ago i couldnt imagine all the freedom i have now
 723,imagine,imagine a place where its springtime all year round
 723,imagine,he even says he cant imagine the world without me
 723,imagine,i cant imagine what he is doing
 723,imagine,i hardly imagine that this war be over in a short time
-723,imagine,imagine how happy they must have been
 724,destroy,you want to destroy yourself you do it on your own
 724,destroy,destroy the peace of the world
 724,destroy,hurricanes destroy crops buildings bridges and roads
@@ -7245,11 +7245,12 @@
 725,salary,he saves up part of his salary every month
 725,salary,may i ask about your starting salary
 725,salary,whose salary is most affected by the companys actions
+725,salary,after taxes her net salary comes to dgdgdg a week
 725,salary,her family depends upon her salary from that job
 725,salary,he received a measly raise in his salary
-725,salary,next time someone leaves early well dock their salary
 726,capital,the cause of business failure is lack of capital
 726,capital,some people think capital punishment is barbaric
+726,capital,this former capital city dates back to about dgdgdg bc
 726,capital,a capital idea flashed into my mind
 726,capital,what is the capital of japan
 726,capital,it is of course the capital of france
@@ -7257,7 +7258,6 @@
 726,capital,he moved to the capital city oslo
 726,capital,i understand that he is the richest man in the capital city
 726,capital,its about the capital of china
-726,capital,eric moved to the capital city oslo
 727,diamond,he was wearing a large diamond ring on his finger
 727,diamond,a diamond of the first water
 727,diamond,a high gift tax has been imposed on the diamond
@@ -7280,7 +7280,6 @@
 728,pearl,the photo shows a pearl shinning inside one of the shells
 729,herb,he is ruined and he talks to herb and al
 729,herb,surichitteok is a wheel shaped herb rice cake
-729,herb,have you ever been to herb land
 729,herb,i think i know enough about this herb
 729,herb,herb is a very handsome man
 729,herb,herb hunter will tell you about the show
@@ -7288,6 +7287,7 @@
 729,herb,herb was trying to protect her
 729,herb,herb are you asking me out
 729,herb,he found some medicinal herb in a clearing of that forest
+729,herb,do you remember if the herb grows around here
 730,cabin,emergency exits are located on both sides of the cabin
 730,cabin,the rich family summered in a luxurious cabin in california
 730,cabin,the hermit lives in the woods in a log cabin
@@ -7373,11 +7373,11 @@
 738,employee,what time does the employee appreciation dinner start
 738,employee,the new employee reported sick and took the day off
 738,employee,im a new employee of the city bank
+738,employee,we have more than dgdgdg employee parking spaces on site
 738,employee,are the employee benefits good in your new job
 738,employee,what kind of employee benefits do you have
 738,employee,the employee was informed that he should leave
-738,employee,what do the speakers say about their new employee
-738,employee,business role with direct employee assignment
+738,employee,and you know were a dgdgdg employee organization
 739,funny,its funny how you havent mentioned him until now
 739,funny,he thinks its funny to insult people
 739,funny,computer talk can be funny at times
@@ -7434,10 +7434,10 @@
 744,endurance,to maintain endurance consistent training is essential
 744,endurance,courage and endurance are his good points
 744,endurance,every lot is to be overcome by endurance
+744,endurance,he holds dgdg guinness world records for endurance sports
 744,endurance,the rose of sharon means a sincere heart and endurance
 744,endurance,both practices build flexibility and endurance
 744,endurance,cross training is good for building speed and endurance
-744,endurance,the exercise obviously will improve strength and endurance
 745,order,perfect order reigned throughout the country
 745,order,they waited in ambush in order to attack the enemy
 745,order,please refer to our purchase order sheet
@@ -7480,6 +7480,7 @@
 748,flexible,only flexible animals have a backbone
 749,angle,a new angle on the problem
 749,angle,the plane interacts the circle at a right angle
+749,angle,the corner of a square is a dgdg degree angle
 749,angle,changes the vertical angle reference system
 749,angle,the angle of square are all right angles
 749,angle,lets view the matter from another angle
@@ -7487,17 +7488,16 @@
 749,angle,measure a length angle or cobb angle on the image
 749,angle,that guy has an angle in everything he does
 749,angle,angle the cover as shown below
-749,angle,a hat set at a rakish angle
 750,waist,the trousers are a bit tight around my waist
 750,waist,i felt the flab building up around my waist
 750,waist,the waist on that skirt is too small for the woman
+750,waist,i realized that my waist is about dgdg inches by measure
 750,waist,its a little tight around the waist
 750,waist,the dress is gathered at the waist
 750,waist,the man is tightening a belt around his waist
 750,waist,he even has love handles on his waist
 750,waist,lace your waist in before you try bungee jumping
 750,waist,fitted waist lines are out this season
-750,waist,his shoulders were broad and his waist narrow
 751,vein,i am not in the vein for working right now
 751,vein,he popped a vein at the news
 751,vein,dont ever try to jab a vein
@@ -7754,10 +7754,10 @@
 776,dominate,i am not going to let him dominate our meeting any more
 776,dominate,now the star hopes to once again dominate her home grounds
 776,dominate,the strong dominate over the weak
-776,dominate,how can we dominate a day
 776,dominate,now they are looking to dominate the japanese music market
 776,dominate,animated films dominate worlds box office
 776,dominate,psys new song gentleman continues to dominate the world
+776,dominate,she fears that one company might dominate the other
 777,discourage,this will discourage them from actively seeking jobs
 777,discourage,this idea can discourage the free loaders
 777,discourage,i dont want to discourage it
@@ -7849,15 +7849,15 @@
 785,news,the news blows my mind or the news knocks me for a loop
 785,news,then i guess you didnt find todays news unexpected
 786,age,be near sixty years of age
+786,age,after dgdg years of age wisdom teeth begin to emerge
 786,age,my father reached the age of sixty this year
+786,age,mickle will hang up his boots up at the age of dgdg years
 786,age,kids these days are advanced for their age
 786,age,the present age demands men of such type
 786,age,he looks old for his age
 786,age,he looks older than his age
 786,age,you look old for your age
 786,age,she looks old for her age
-786,age,he is twenty years of age
-786,age,the foremost men of his age
 787,wonderful,well whomever im just glad i had such a wonderful meal
 787,wonderful,the composition of your work is wonderful
 787,wonderful,just the tie looks wonderful dont you agree
@@ -7880,6 +7880,7 @@
 788,difficulty,we can always change the motor without any difficulty
 789,think,im afraid not or i dont think so
 789,think,it is discouraging to think of my future
+789,think,honey i think i have the dg year itch
 789,think,i think it would be a nice time
 789,think,dont think about it any more or forget all about it
 789,think,i think its a little loud
@@ -7887,7 +7888,6 @@
 789,think,it depends on how you think
 789,think,i think ill buy a car next year
 789,think,try to think in english always
-789,think,you mustnt think ill of me
 790,society,the members of a family are a cohesive unit in our society
 790,society,what do all arts society club members receive
 790,society,these are evils common to all the classes in society
@@ -7954,10 +7954,10 @@
 796,bring,a teacher told him to bring up the rear
 796,bring,cupid really can bring two people together
 796,bring,dont disappoint me dont bring me down
+796,bring,bring just to boiling stirring constantly dg minutes
 796,bring,i need something to bring down the fever
 796,bring,ill bring her to the press conference this afternoon
 796,bring,we left him with his grandmother well bring him next time
-796,bring,add sweet potatoes cover pan and bring water to boil
 797,engine,this engine is driven by steam
 797,engine,buy a new engine for her car
 797,engine,dirty oil can hurt a cars engine
@@ -8028,16 +8028,16 @@
 803,band,the band is soooo cute and the music is soooo cool
 803,band,the band was dressed in scarlet
 803,band,big band music is no longer in style
+804,century,puppets started to be used after the dgst century
+804,century,it started in the dgdgth century in the american colonies
 804,century,the second quarter of the century
+804,century,the middle part of the dgdgth century
 804,century,near the end of the century
+804,century,it was built in the middle of the dgth century
+804,century,a spirit of progress marked the dgdgth century
 804,century,humanism has flourished in this century
 804,century,this picture is referred to the sixth century
-804,century,the nineteenth century saw the industrial revolution
-804,century,the house will stand another century
-804,century,the drought there is the worst in a century
-804,century,entury europe
-804,century,axmpdetail
-804,century, naxmpdetail
+804,century,we see india as a strategic partner in the dgdgst century
 805,suds,we all decided to bust suds before breaking up
 805,suds,she was in the suds and did not know what to say
 805,suds,he squirted dish soap under the running water to make suds
@@ -8103,11 +8103,11 @@
 811,decade,thanks to a decade of effort he bought a detached house
 811,decade,the party also set its agenda for the next decade
 811,decade,china has been working on the project for nearly a decade
+811,decade,it marks a steep growth from dgdgdgdg a decade ago
 811,decade,approaching a new decade of bundang
 811,decade,the first digital decade has been tremendously successful
 811,decade,barely a decade ago the word virtual was harmless
 811,decade,that would mark the first annual drop in demand in a decade
-811,decade,a new decade stretches before us
 812,join,he wants to join the police force
 812,join,i will try to join the broadcasting club at school
 812,join,how can people join the club
@@ -8134,10 +8134,10 @@
 814,jet,due to jet lag mr shin left the reception early
 814,jet,jet airplanes travel at a great rate of speed
 814,jet,a jet of water poured through the windows
+814,jet,jet planes cruise at dgdgdg miles per hour
 814,jet,her private jet landed in the republic on the way to japan
 814,jet,he had arrived from key west by jet
 814,jet,how was your trip you must have jet lag
-814,jet,jetblue installed three book vending machines
 815,airport,what time did you arrive at the airport
 815,airport,we could reach the airport on time
 815,airport,i need to pick up my sister at the airport
@@ -8163,11 +8163,11 @@
 817,wide,korea is a country with a wide range of temperature
 817,wide,this teaching method of english has wide usage
 817,wide,the family of twelve scattered far and wide
+817,wide,tonights low will be in the dgdgs area wide
 817,wide,her answer sheet was all wool and a yard wide
 817,wide,stand with your legs wide apart
 817,wide,im glad that everything works high wide and handsome
 817,wide,the store sells wide range of goods
-817,wide,there is a wide variety of choices in sizes and types
 818,movement,the second movement was played at a quick tempo
 818,movement,its a worldwide movement to build houses for the homeless
 818,movement,he is a central person in the economic reform movement
@@ -8358,7 +8358,6 @@
 836,juice,the woman is pouring juice into the glass
 836,juice,the glass is full of fruit juice
 836,juice,just step on the juice so we wont be tardy for class
-837,candy,she held it and said i guess that it is some candy
 837,candy,he clapped a piece of candy into his mouth
 837,candy,if you really want to lose weight dont eat so much candy
 837,candy,he admitted to stealing a candy bar
@@ -8368,6 +8367,7 @@
 837,candy,my kids love these candy bars
 837,candy,did you eat five pieces of candy already
 837,candy,our store has a great assortment of candy
+837,candy,he has a magnificent world of chocolate and candy factory
 838,sauce,serve a person the same sauce
 838,sauce,a man is pouring sauce into the bowl
 838,sauce,he attempted to serve her with the same sauce
@@ -8397,7 +8397,7 @@
 840,bishop,santa was originally known as bishop nicolas of myra
 840,bishop,your father bishop was a gentleman
 840,bishop,the bishop seemed quite on his last legs
-840,bishop,bishop i die by your hand
+840,bishop,in dgdgdgdg he became the first black bishop in south africa
 841,rhythm,the rhythm of the music quickens
 841,rhythm,candence is a set of rhythm in a dance or a march
 841,rhythm,i started swinging my hips to the pulsating rhythm
@@ -8419,15 +8419,15 @@
 842,lawyer,a good lawyer should not forget
 842,lawyer,the lawyer touched on the issue on the windy side
 843,month,i have night duty several times a month
+843,month,my pa turns dgdg years old this month
 843,month,how many times do you eat out a month
 843,month,he skipped chemistry class three times last month
 843,month,ill let you slide this time but no mercy next month
+843,month,what service is offered for dgdgdg a month
 843,month,its as busy grand central station at the end of a month
 843,month,his contract is up at the end of the month
 843,month,rent is due by the end of the month
 843,month,they timed their visit at once per a month
-843,month,i understand youre leaving us at the end of the month
-843,month,ill have been here for three years next month
 844,nephew,id like to find a present for my nephew
 844,nephew,i dont think that he could be your nephew
 844,nephew,she has a nephew who is just ten years of age
@@ -8440,14 +8440,14 @@
 844,nephew,that man is not my nephew
 845,flight,his friends used every means to put him to flight
 845,flight,im leaving on the new york flight
+845,flight,your flight leaves from gate dgdg now
 845,flight,our flight leaves in about an hour
 845,flight,what time is the flight scheduled to land
 845,flight,what time does your flight leave tomorrow
 845,flight,what time is your next flight to london
 845,flight,im calling about the flight that i reserved a few days ago
-845,flight,what time will ms sewells flight arrive at lga
-845,flight,the flight is delayed due to bad weather
-845,flight,well the fog has delayed our flight another twenty minutes
+845,flight,i forgot that my flight leaves at dgdgdgdg
+845,flight,where is the flight leaving at dgdgdg going to
 846,bean,rice cakes are covered with bean flour
 846,bean,my fiancee is a bean counter at a high tech company
 846,bean,the old lady was evicted without a bean
@@ -8511,13 +8511,13 @@
 852,queen,the queen of england rules the kingdom of great britain
 852,queen,she was queen bee at the party
 852,queen,the queen worked her will upon traveling around the world
+852,queen,queen victorias reign reached into the dgdgth country
 852,queen,the queen acts in a majestic manner
 852,queen,the cake was named after the queen
 852,queen,that boy you dumped last month is engaged to a beauty queen
 852,queen,the queen is wearing a crown
 852,queen,the queen wanted to scratch snow whites eyes out
 852,queen,the queen traveled under armed escort
-852,queen,queen elizabeth said today she approves of the marriage
 853,ant,but why would a cow or an ant do such a thing
 853,ant,the boy is shaking an ant
 853,ant,the ant really started to dance in a lively way
@@ -8527,7 +8527,7 @@
 853,ant,no i havent is it ant easier to use than the old package
 853,ant,once upon a time there lived an ant
 853,ant,one day an ant passed by a chrysalis
-853,ant,this ant can move its jaw quicker than the blink of an eye
+853,ant,the queen ant can live up to dgdg years
 854,alcohol,never drink alcohol in broad day
 854,alcohol,he was fined for driving under the influence of alcohol
 854,alcohol,a little alcohol or tobacco will do you no harm
@@ -8554,10 +8554,10 @@
 856,champagne,lets have a bottle of champagne before lunch ok
 856,champagne,champagne houses owe their success to brand image
 856,champagne,larry was pouring out four glasses of champagne
+856,champagne,these dgdgk gold lix lollies taste like champagne
 856,champagne,could this really stop the champagne from going flat
 856,champagne,the popularity of champagne is on the rise
 856,champagne,the main issue is the fact that champagne is alcohol
-856,champagne,we ordered another bottle of champagne
 857,door,i felt my way to the door
 857,door,catch ones finger in a door
 857,door,the accident left a dent in my car door
@@ -8613,11 +8613,11 @@
 862,deck,to hit the deck early in the morning is not always easy
 862,deck,i hit the deck when the shooting started
 862,deck,a number of fish were flopping on the deck
+862,deck,there are dgdg cards in a deck
 862,deck,do you want just a radio or one with cassette deck
 862,deck,i think he is a few cards short of a full deck
 862,deck,the waves washed over the ships deck
 862,deck,all the crew members are walking on the deck
-862,deck,below the deck there were eleven little children sleeping
 863,car,im looking for a used car
 863,car,i hear youre in the market for a used car
 863,car,look in the yellow pages for used car dealers
@@ -8658,6 +8658,7 @@
 866,knee,he always trying to curry below the knee with the boss
 866,knee,he suffered a dislocation of his knee in an accident
 866,knee,one day i fell over by mistake and hurt my knee
+867,teeth,after dgdg years of age wisdom teeth begin to emerge
 867,teeth,i think he should brush his teeth three times a day
 867,teeth,brushing your teeth is one of a daily incident
 867,teeth,he doesnt brush his teeth as a daily routine
@@ -8667,7 +8668,6 @@
 867,teeth,the coldness made my teeth chatter
 867,teeth,the boy is brushing his teeth
 867,teeth,i grind my teeth in bed
-867,teeth,a dog fastened its teeth in another dogs ear
 868,ankle,ankle leather boots are much sought after these days
 868,ankle,she fell in water ankle deep in
 868,ankle,i sprained my ankle playing basketball
@@ -8700,6 +8700,7 @@
 870,neck,she locked her arms about his neck
 871,container,hes pouring water from the container
 871,container,its a container for storing objects from out time
+871,container,container traffic has increased by dgdg percent
 871,container,the horse is eating from the container
 871,container,how are adults supposed to open the container
 871,container,select the container you want to search
@@ -8707,7 +8708,6 @@
 871,container,the container is full of corns
 871,container,newcreates a new object in this container
 871,container,a gas container is beside the wall
-871,container,the start time of the container
 872,supper,i knew i shouldnt have eaten so much at supper
 872,supper,of course you can stay for supper such as it is
 872,supper,i just enjoy supper so much that i overeat
@@ -8730,6 +8730,7 @@
 873,bacon,bacon with eggs and toast is good for breakfast
 874,princess,now be happy as a beautiful princess night and day
 874,princess,the princess take her stand in a castle all days
+874,princess,charles was divorced from princess dianna in dgdgdgdg
 874,princess,some friends thought i was a princess from korea
 874,princess,princess fell in deep sleep in isolated tower under a curse
 874,princess,i dont bow and i dont know you as a princess
@@ -8737,7 +8738,6 @@
 874,princess,a long time ago i dressed up like a princess for halloween
 874,princess,of course princess at your convenience
 874,princess,princess christina burst into tears of joy
-874,princess,the main character is a young princess named aerin
 875,eye,its friday and time for eye on hollywood
 875,eye,why are you looking at me from the tail of your eye
 875,eye,look at him hes a drop in ones eye
@@ -8780,6 +8780,7 @@
 878,bull,a red rag arouses the anger of a bull
 879,president,she is the new secretary to help the president
 879,president,how many candidates are running for president
+879,president,it has its own president elected every dg years
 879,president,the president fell from the peoples favor
 879,president,im sorry the president is out at the present time
 879,president,the able president devised simple but effective solutions
@@ -8787,7 +8788,6 @@
 879,president,the president announced a new policy
 879,president,the problems confronting the new president
 879,president,reporters deluged the president with questions
-879,president,would you want your wife to be president some day
 880,valley,a valley is an area of low land between two mountains
 880,valley,a house deep in the valley
 880,valley,what should the valley restaurant do
@@ -8816,8 +8816,8 @@
 882,cathedral,the original color scheme for notre dame cathedral
 882,cathedral,try to finish your cathedral now
 882,cathedral,the original version of the boston cathedral
+882,cathedral,the cathedral was destroyed by the great fire of dgdgdgdg ad
 882,cathedral,a blue and white version of notre dame cathedral
-882,cathedral,he lived in the cathedral and had a special technique
 883,wife,bring your wife and children too
 883,wife,hes two timing on his wife
 883,wife,he has a wife and children depending upon him
@@ -8842,12 +8842,12 @@
 885,wheat,wheat production has increased this years
 885,wheat,wheat is a big export for canada
 885,wheat,in how many years have wheat exports fallen
+885,wheat,wheat averages dgdg pounds to a bushel
 885,wheat,a field of wheat flattened by a rain storm
 885,wheat,the farmers surplus wheat had to be sold at a loss
 885,wheat,they seeded their fields with wheat
 885,wheat,the storm left the wheat flat
 885,wheat,analysis of world wheat trade flows
-885,wheat,the storm left the wheat flat
 886,bench,a worker is resting on a bench by the street
 886,bench,isnt it on the work bench
 886,bench,people are sitting on a park bench
@@ -8881,23 +8881,23 @@
 889,steak,ill have the chef cook the steak a bit more
 889,steak,id like a glass of house wine with my steak
 889,steak,ah this steak is great it really fills the bill
+889,steak,cut the steak into dg even pieces
 889,steak,yes id like to have a beef steak
 889,steak,does the soup come after the steak in your town how weird
 889,steak,you know i know that this steak doesnt exist
 889,steak,would you like to try my steak maybe yours is bad
 889,steak,how would you like your steak
 889,steak,i think your steak is tough too
-889,steak,you wont find steak houses in this corner of oklahoma city
 890,rice,the rice plants are doing nicely this year
 890,rice,the rice crops are early this year
 890,rice,the rice crop is early this year
 890,rice,we feast on rice cake soup on the new years day
 890,rice,the price of rice shows a steady advance
+890,rice,the price of rice is dgdgdgdgdgdg won a bag
 890,rice,the rice plants will all come into ears in a few days
 890,rice,several farmers grow rice for their families to consume
 890,rice,the rice crop will be very large
 890,rice,turn on the gas to boil the rice
-890,rice,rice is an integral part of the korean diet
 891,pie,this pie is just out of this world
 891,pie,he tried to have a finger in every pie
 891,pie,then your pie must be at your house
@@ -8912,12 +8912,12 @@
 892,choir,i used to sing in the church choir
 892,choir,she used to be a member of the snu choir
 892,choir,the choir performs regularly both at home and abroad
-892,choir,they became the trapp family choir
 892,choir,she joined her church choir as a young girl
 892,choir,what is learned about the choir
 892,choir,i used to sing in the church choir every sunday
 892,choir,the people in the picture are choir singers
 892,choir,i keep my name on the books of the school choir
+892,choir,paul started singing by joining a choir
 893,hallway,theres a fire in my building and its in my hallway
 893,hallway,he started down the long hallway
 893,hallway,you know we cant leave all this stuff out in the hallway
@@ -8982,12 +8982,12 @@
 899,sheriff,they were one step ahead of the sheriff
 899,sheriff,he becomes the new sheriff of the town
 899,sheriff,i decided i dont wanna be sheriff
-899,sheriff,sheriffdo you need your coffee
 899,sheriff,the sheriff is on his way
 899,sheriff,sheriff does this wound look familiar
 899,sheriff,he used to be a sheriff
 899,sheriff,i used to be sheriff here
 899,sheriff,what do you mean ew sheriff
+899,sheriff,hand it to the sheriff please
 900,baseball,the baseball game started with our teams batting first
 900,baseball,i am a huge fan of the baseball player
 900,baseball,i spend every saturday playing baseball
@@ -9015,9 +9015,9 @@
 902,cattle,if as cattle trespass on bs land b can impound them
 902,cattle,the price of cattle on the hoof is low
 902,cattle,he had sought work as a cowboy rounding up cattle
+902,cattle,he has dgdg cattle on his farm
 902,cattle,projects expressly designed to support cattle farmers
 902,cattle,cowboys on horseback drove the cattle to market
-902,cattle,africans also began to raise sheep and cattle
 903,goat,the goat butted the man in the stomach
 903,goat,the drunken man skinned a goat
 903,goat,mrs goat is caught in a trap
@@ -9058,16 +9058,16 @@
 906,kid,i remember feeling that way when i was a kid
 906,kid,the game drove the kid mad
 906,kid,whenever i talk to her i need to wear kid gloves
+907,century,puppets started to be used after the dgst century
+907,century,it started in the dgdgth century in the american colonies
 907,century,the second quarter of the century
+907,century,the middle part of the dgdgth century
 907,century,near the end of the century
+907,century,it was built in the middle of the dgth century
+907,century,a spirit of progress marked the dgdgth century
 907,century,humanism has flourished in this century
 907,century,this picture is referred to the sixth century
-907,century,the nineteenth century saw the industrial revolution
-907,century,the house will stand another century
-907,century,the drought there is the worst in a century
-907,century,entury europe
-907,century,axmpdetail
-907,century, naxmpdetail
+907,century,we see india as a strategic partner in the dgdgst century
 908,colonel,paul advanced to the rank of colonel
 908,colonel,the colonel lifted the phone and dialed his superior
 908,colonel,the colonel rushed up to earle and shook his gun at him
@@ -9249,15 +9249,15 @@
 925,coat,why didnt you wear a coat today
 925,coat,cover this sleeping child with your coat
 926,turkey,i want you to talk turkey
+926,turkey,turkey and greece came near to a war about dgdg years ago
 926,turkey,please talk turkey i want to know the truth
+926,turkey,dg eat more chicken turkey and fish in place of red meat
 926,turkey,lets stop kidding around now and talk turkey
 926,turkey,since he was promoted he walked turkey
 926,turkey,now lets sit down and talk turkey
 926,turkey,turkey meat is used as food at christmas
 926,turkey,tom brought them back from his trip to turkey
 926,turkey,she carved the turkey at the table
-926,turkey,it also wanted turkey to have its own special culture
-926,turkey,his face turns red as turkey cock when he drinks alcohol
 927,lip,i dont need any of your lip
 927,lip,i dont understand why she always flap her lip
 927,lip,he screwed it up between cup and lip
@@ -9316,8 +9316,8 @@
 932,camera,what kind of film do you use in your camera
 932,camera,now camera phones are doing the same for photojournalism
 932,camera,a man is focusing his camera
+932,camera,what is true regarding camera sales for dgdgdgdg
 932,camera,she did a camera and phone all in her power
-932,camera,the smallest digital camera will come into the market soon
 933,fabric,the man is drawing on the fabric
 933,fabric,this is a beautiful fabric all right
 933,fabric,the ladies had never seen such beautiful fabric
@@ -9351,13 +9351,13 @@
 936,waist,the trousers are a bit tight around my waist
 936,waist,i felt the flab building up around my waist
 936,waist,the waist on that skirt is too small for the woman
+936,waist,i realized that my waist is about dgdg inches by measure
 936,waist,its a little tight around the waist
 936,waist,the dress is gathered at the waist
 936,waist,the man is tightening a belt around his waist
 936,waist,he even has love handles on his waist
 936,waist,lace your waist in before you try bungee jumping
 936,waist,fitted waist lines are out this season
-936,waist,his shoulders were broad and his waist narrow
 937,fraternity,the fraternity may bid five new men
 937,fraternity,the spread of stolen guns among the criminal fraternity
 937,fraternity,no i didnt belong to a fraternity
@@ -9405,19 +9405,19 @@
 941,fur,polar bears have a dense coat of white fur
 941,fur,this is a sample of the fur coat i have in mind
 941,fur,his fur and tail are catching on fire
-941,fur,the issue for me is not dont wear fur
 941,fur,when a koala is born he has no fur
 941,fur,he is swathed in fur with only his face exposed
+941,fur,sheep provide thick fur for people
 942,inn,she named them toll house cookies after her inn
 942,inn,what is learned about the wye knot inn
 942,inn,what has metro inn offered to affected guests
+942,inn,my first job was back in dgdgdgdg at the calgary inn in alberta
 942,inn,do you want to meet for lunch at the red door inn tomorrow
 942,inn,the nearer the inn the longer the road
 942,inn,tell me more about this inn
+942,inn,in the dgdgdgdgs ruth wakefield ran the toll house inn
 942,inn,seek the truth behind the inn
 942,inn,it is only a step to the inn
-942,inn,looking after your inn wasnt part of our agreement
-942,inn,the inn lies above on the path to the right
 943,engine,this engine is driven by steam
 943,engine,buy a new engine for her car
 943,engine,dirty oil can hurt a cars engine
@@ -9428,6 +9428,7 @@
 943,engine,i need to have the engine oil changed
 943,engine,this is the help center full text search engine
 943,engine,the engine jumped the rails but the other cars stayed on
+944,boat,the sailing time of the boat is dg pm
 944,boat,people are sitting on the boat
 944,boat,people are having lunch in a boat
 944,boat,we are all in the same boat for the time being
@@ -9437,7 +9438,6 @@
 944,boat,id buy a big boat and sail around the world
 944,boat,the man is riding in a boat
 944,boat,the water is about to overflow the side of the boat
-944,boat,the boat was on the step
 945,cat,the cat slept for two hours
 945,cat,the drunken man shot the cat
 945,cat,this house is not room to swing a cat
@@ -9591,13 +9591,13 @@
 960,floor,tony spilled the water on the floor
 960,floor,the office is on the sixth floor
 960,floor,what floor do you live on
+960,floor,reference books are in the dgrd floor reading room
 960,floor,the office is on the third floor
 960,floor,the office is up on the top floor
 960,floor,what floor is your office located on
 960,floor,what floor is their office on
 960,floor,i will dust the floor with him
 960,floor,a child is scampering around on the floor
-960,floor,this floor is made of high quality wood
 961,vinegar,three parts of vinegar to one of oil
 961,vinegar,infuse a little salt and a dash of wine mixed with vinegar
 961,vinegar,then she added a drop of vinegar and six eggs
@@ -9635,9 +9635,9 @@
 964,cattle,if as cattle trespass on bs land b can impound them
 964,cattle,the price of cattle on the hoof is low
 964,cattle,he had sought work as a cowboy rounding up cattle
+964,cattle,he has dgdg cattle on his farm
 964,cattle,projects expressly designed to support cattle farmers
 964,cattle,cowboys on horseback drove the cattle to market
-964,cattle,africans also began to raise sheep and cattle
 965,saint,saint it you are a holy man
 965,saint,a teacher has to be patient as a saint
 965,saint,his word tries the patience of a saint
@@ -9704,10 +9704,10 @@
 971,meat,this is meat this meat is big
 971,meat,he ate less meat and placed importance on vegetables
 971,meat,the meat is frozen to a block of ice
-971,meat,meatpacking is a big industry in the us
 971,meat,she chewed on a piece of meat
 971,meat,one mans meat is another mans poison
 971,meat,are you bringing any meat plants or fruit into the country
+971,meat,community service is the meat and potatoes of this program
 972,chapel,at that school students attend chapel every night
 972,chapel,they were detailed to search the chapel
 972,chapel,this is margaret from the chapel service department
@@ -9718,6 +9718,7 @@
 972,chapel,we wanted to visit the chapel
 972,chapel,we go to chapel at nine
 972,chapel,theres a large crowd of people in front of this chapel
+973,honey,honey i think i have the dg year itch
 973,honey,she had no honey so she used sugar instead
 973,honey,some people drink lemon juice with honey or hot tea
 973,honey,do not miss milk and honey of your life
@@ -9727,7 +9728,6 @@
 973,honey,he must have liked honey too much
 973,honey,do you want me to rock you in the rocking chair honey
 973,honey,where do you put the honey
-973,honey,the last two things are vinegar and honey
 974,sky,a rainbow hangs in the sky
 974,sky,there is barely a cloud in the sky
 974,sky,a rainbow hung in the sky
@@ -9761,13 +9761,13 @@
 977,cab,most people often have to share a cab with other passengers
 977,cab,he works as a cab driver at night
 977,cab,just look under yellow cab in the yellow pages
+977,cab,i called a cab dgdg minutes ago but it hasnt arrived
 977,cab,an error occurred when trying to use the upload cab file
 977,cab,system information cannot open this cab file
 977,cab,standing on the sidewalk i hailed a passing cab
 977,cab,the cab pulled up and the driver jumped out
 977,cab,i had a heck of a time flagging down a cab
 977,cab,all the men are riding in the trucks cab
-977,cab,they climbed back into the cab
 978,nose,his guilt is as plain as the nose on his face
 978,nose,the people looked down their nose at the criminal
 978,nose,dont rub your eyes or nose
@@ -9811,13 +9811,13 @@
 982,finger,people pointed the finger at the mayor
 982,finger,catch ones finger in a door
 982,finger,he caught his finger in the door
+982,finger,finger says chinas exports grew by dgdg percent last year
 982,finger,every thing will be solved by the finger of god
 982,finger,he was wearing a large diamond ring on his finger
 982,finger,she accomplished her mission for the lifting of a finger
 982,finger,i pricked my finger on a rose
 982,finger,he couldnt remember the time he lifted the little finger
 982,finger,he tried to have a finger in every pie
-982,finger,she turned her son round her little finger
 983,maple,maple language college salmon arm bc wanted
 983,maple,the sap is beginning to rise in the maple trees
 983,maple,the canadian flag has a maple leaf on it
@@ -9862,12 +9862,12 @@
 987,iron,the man in the iron mask
 987,iron,the price of iron is on a downtrend
 987,iron,their teacher rules the children with a rod of iron
+987,iron,japan ruled korea with an iron hand for dgdg years
 987,iron,living cells needs iron to funtion
 987,iron,ill iron your skirt for you while you change your clothes
 987,iron,the contraction of iron by cold
 987,iron,pieces of iron move towards a magnet due to magnetic force
 987,iron,an iron fence stands in front of a plant
-987,iron,john grew up to pump iron
 988,carriage,the last carriage on a train
 988,carriage,someone is seated on the horse beside the carriage
 988,carriage,the people are riding a carriage
@@ -9880,6 +9880,7 @@
 988,carriage,he rolled past in his carriage
 989,container,hes pouring water from the container
 989,container,its a container for storing objects from out time
+989,container,container traffic has increased by dgdg percent
 989,container,the horse is eating from the container
 989,container,how are adults supposed to open the container
 989,container,select the container you want to search
@@ -9887,7 +9888,6 @@
 989,container,the container is full of corns
 989,container,newcreates a new object in this container
 989,container,a gas container is beside the wall
-989,container,the start time of the container
 990,week,well i exercise four days a week
 990,week,starting tomorrow ill be working out three times a week
 990,week,we traveled night and day for a week
@@ -9914,10 +9914,10 @@
 992,champagne,lets have a bottle of champagne before lunch ok
 992,champagne,champagne houses owe their success to brand image
 992,champagne,larry was pouring out four glasses of champagne
+992,champagne,these dgdgk gold lix lollies taste like champagne
 992,champagne,could this really stop the champagne from going flat
 992,champagne,the popularity of champagne is on the rise
 992,champagne,the main issue is the fact that champagne is alcohol
-992,champagne,we ordered another bottle of champagne
 993,door,i felt my way to the door
 993,door,catch ones finger in a door
 993,door,the accident left a dent in my car door

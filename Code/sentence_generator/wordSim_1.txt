@@ -1,0 +1,3530 @@
+1,love,simba falls in love with his childhood friend nala
+1,love,love in a cottage is also included in a happy life
+1,love,he probably does not love me any longer
+1,love,my love life is nonexistence at the moment
+1,love,i love tom in my heart
+1,love,two students in my english class fell in love
+1,love,the memories of your first love last so long
+1,love,thin people in london love parks
+1,love,i love my husband who always digs down into my mind
+1,love,people love having cats as pets
+2,tiger,i hope you keep your health despite riding the tiger
+2,tiger,the hunter skinned the tiger alive
+2,tiger,tiger woods added a new page to the history of golf
+2,tiger,the tiger bit off a piece of meat
+2,tiger,when she works like a tiger she looks angry
+2,tiger,the tiger was captive so he turned nasty
+2,tiger,he stood glaring at me like a tiger
+2,tiger,the year dgdg was the year of the white tiger
+2,tiger,his father is a lion and mother is a tiger
+2,tiger,his parents put a tiger in his tank
+3,tiger,i hope you keep your health despite riding the tiger
+3,tiger,the hunter skinned the tiger alive
+3,tiger,tiger woods added a new page to the history of golf
+3,tiger,the tiger bit off a piece of meat
+3,tiger,when she works like a tiger she looks angry
+3,tiger,the tiger was captive so he turned nasty
+3,tiger,he stood glaring at me like a tiger
+3,tiger,the year dgdg was the year of the white tiger
+3,tiger,his father is a lion and mother is a tiger
+3,tiger,his parents put a tiger in his tank
+4,book,a freak copy of a book
+4,book,the school year book will be published soon
+4,book,i am reading a book now
+4,book,he is still reading a book
+4,book,facts alone do not compose a book
+4,book,this book contains a lot of useful information
+4,book,secure the copyright on a book
+4,book,the final chapter of a book
+4,book,there is no need to dwell upon the value of this book
+4,book,the book is divided into two volumes
+5,computer,im using the same computer and it works just fine
+5,computer,ive heard computer art is a promising job
+5,computer,this cd doesnt suit your computer
+5,computer,i bought the same computer as you did
+5,computer,that company is a giant in the computer industry
+5,computer,the new computer system will include most branch offices
+5,computer,the woman is using the computer
+5,computer,the woman is using a computer
+5,computer,computer talk can be funny at times
+5,computer,a new computer would be very expensive
+6,computer,im using the same computer and it works just fine
+6,computer,ive heard computer art is a promising job
+6,computer,this cd doesnt suit your computer
+6,computer,i bought the same computer as you did
+6,computer,that company is a giant in the computer industry
+6,computer,the new computer system will include most branch offices
+6,computer,the woman is using the computer
+6,computer,the woman is using a computer
+6,computer,computer talk can be funny at times
+6,computer,a new computer would be very expensive
+7,plane,their plane will arrive first thing in the morning
+7,plane,can we exit the plane during that time
+7,plane,actually he took the company plane
+7,plane,i sat next to a very chatty man on the plane
+7,plane,a desperate man hijacked a plane from new york to cuba
+7,plane,the plane interacts the circle at a right angle
+7,plane,the plane landed at the airport
+7,plane,the plane is landing at the airport
+7,plane,the plane lifted off on time
+7,plane,the plane flew in a beeline across the city
+8,train,the train started an hour late
+8,train,there are a lot of people on the train
+8,train,the train was twenty minutes behind time
+8,train,the fore part of a train
+8,train,the train arrived ten minutes ahead of time
+8,train,what time is the first train to washington
+8,train,what time does the next train arrive
+8,train,there are some people in the train
+8,train,a train is in the station
+8,train,imagine this train moves the other way around
+9,telephone,a person calls you on the telephone
+9,telephone,a button on the telephone is being pressed
+9,telephone,hes pressing the buttons on the telephone
+9,telephone,im so confused by the changes to the telephone system
+9,telephone,speed less time on the telephone
+9,telephone,he prefers using the telephone to writing
+9,telephone,what is your home telephone number
+9,telephone,our telephone exchange was changed last week
+9,telephone,the man is using the telephone
+9,telephone,i want my telephone number removed from telephone directory
+10,television,i do nothing but watch television on weekends
+10,television,in those days television was still unknown to us
+10,television,i watched the game on television yesterday
+10,television,could you please turn down that television
+10,television,we watched the game on television
+10,television,he has also won four emmys for his work with television
+10,television,is the display model of this television for sale
+10,television,the television is a top priority
+10,television,i can barely remember life without television
+10,television,the lamp is on top of the television
+11,media,they also have a media message targeted at specific groups
+11,media,we depend upon the mass media for daily news
+11,media,the corporations control the media too
+11,media,a user request media be exported
+11,media,a user request media be imported into a library
+11,media,she uses the media to help her exact a terrible revenge
+11,media,use updated or existing media information
+11,media,external file system encrypt media files
+11,media,news is true and the news media only reports facts
+11,media,all the media has been talking about the movie for months
+12,drug,the drug addicted man scored a connection
+12,drug,sports can also deliver the addictive qualities of a drug
+12,drug,many doctors now use a drug called stretokinse
+12,drug,he stood back from the drug
+12,drug,when does the company expect the drug to be approved
+12,drug,that company was licensed to sell the new drug
+12,drug,experts say this drug may weaken the immune system
+12,drug,a large bank laundered money from drug sales
+12,drug,the drug had a cathartic effect
+12,drug,right now small computers are a drug on the market
+13,bread,this food is the best thing since sliced bread
+13,bread,it would be much easier if you use your loaf of bread
+13,bread,wheat was of use to the fox because he ate bread
+13,bread,he has quarreled with his bread and butter
+13,bread,man cannot live by bread alone
+13,bread,a kind man cast his bread upon the waters for the poor
+13,bread,bread is the staff of life
+13,bread,the bread is covered with mold
+13,bread,he is free from bread and butter worry
+13,bread,i eat seven servings of bread and cereals a day
+14,cucumber,he played it cool or he acted cool as a cucumber
+14,cucumber,during the fire the homeowner was cool as a cucumber
+14,cucumber,after a few weeks the cucumber plants will have grown
+14,cucumber,bess stabbed a slice of cucumber
+14,cucumber,he was as cool as a cucumber
+14,cucumber,she is as cool as a cucumber
+14,cucumber,but how long is the longest cucumber in the world
+14,cucumber,i brought you some cucumber water
+14,cucumber,what if i use a cucumber
+14,cucumber,i dont care if its a movie about a dancing cucumber
+15,doctor,there is a doctor on call dgdg hours a day
+15,doctor,the doctor is measuring the old mans pulse rate
+15,doctor,i dismissed an idea from my mind of becoming a doctor
+15,doctor,he wants to be a doctor when he grows up
+15,doctor,she wants to be a doctor when she grows up
+15,doctor,he spent years studying to be a doctor
+15,doctor,a doctor brought a child through fever
+15,doctor,that doctor is their last hope
+15,doctor,the sick man entreated the doctor to ease his pain
+15,doctor,the doctor said rest without help heal my leg wound
+16,professor,the professor is a man of letters
+16,professor,he is a professor at harvard and a man of letters
+16,professor,i have to hand it in to the professor today
+16,professor,what did you think about professor elkins lecture
+16,professor,our biology professor lives just across from my house
+16,professor,your grades lie beyond my power ask your professor
+16,professor,i guess the professor will know this report is plagiarized
+16,professor,she is studying under professor kim
+16,professor,the professor studied up for the seminar
+16,professor,the professor turned my flank in a class
+17,student,one student split on his friend
+17,student,at that time i was an elementary school student
+17,student,how much does married student housing cost
+17,student,the young student began the world
+17,student,the school sent the idle student down
+17,student,id like to ask you about student housing
+17,student,the big problem is that youre here on a student visa
+17,student,the student was sitting on high cotton
+17,student,a welcome party was held for freshmen at the student hall
+17,student,how much does the student ticket cost
+18,smart,buying a clunker like that wasnt such a smart thing to do
+18,smart,its the magazine smart people read
+18,smart,the boy played it smart regardless of threats
+18,smart,hes every bit as smart as you
+18,smart,my eyes smart from the smoke
+18,smart,she is so smart that her future holds unlimited horizons
+18,smart,it was very smart of him not to miss the chance
+18,smart,at frans a smart shopper is our best customer
+18,smart,as he was so smart he walked over the race
+18,smart,minister or no he shall smart for it
+19,smart,buying a clunker like that wasnt such a smart thing to do
+19,smart,its the magazine smart people read
+19,smart,the boy played it smart regardless of threats
+19,smart,hes every bit as smart as you
+19,smart,my eyes smart from the smoke
+19,smart,she is so smart that her future holds unlimited horizons
+19,smart,it was very smart of him not to miss the chance
+19,smart,at frans a smart shopper is our best customer
+19,smart,as he was so smart he walked over the race
+19,smart,minister or no he shall smart for it
+20,company,her compensation from the company is dgdgdgdgdg per year
+20,company,hes been with this company only for a couple of years
+20,company,that company sells three billion dollars of sneakers a year
+20,company,i prefer my room to his company
+20,company,i work in chinatown for the li trading company
+20,company,i worked for dgdg years at the company
+20,company,he is on the staff of a publishing company
+20,company,hes been working for this company for dgdg years
+20,company,hes only been with the company two years
+20,company,actually he joined this company the same year i did
+21,stock,that stock pays me four percent
+21,stock,a certificate of stock was bought on margin
+21,stock,seoul banks stock gained five percent today
+21,stock,her income increased when she changed jobs and bought stock
+21,stock,he isnt interested in a stock that is dividend off
+21,stock,stock prices showed a suddenly rising tendency
+21,stock,the product was in stock last week wasnt it
+21,stock,you dont suppose he suddenly buys the stock
+21,stock,i need lock stock and barrel to repair this
+21,stock,a larger stock will produce more proceeds
+22,stock,that stock pays me four percent
+22,stock,a certificate of stock was bought on margin
+22,stock,seoul banks stock gained five percent today
+22,stock,her income increased when she changed jobs and bought stock
+22,stock,he isnt interested in a stock that is dividend off
+22,stock,stock prices showed a suddenly rising tendency
+22,stock,the product was in stock last week wasnt it
+22,stock,you dont suppose he suddenly buys the stock
+22,stock,i need lock stock and barrel to repair this
+22,stock,a larger stock will produce more proceeds
+23,stock,that stock pays me four percent
+23,stock,a certificate of stock was bought on margin
+23,stock,seoul banks stock gained five percent today
+23,stock,her income increased when she changed jobs and bought stock
+23,stock,he isnt interested in a stock that is dividend off
+23,stock,stock prices showed a suddenly rising tendency
+23,stock,the product was in stock last week wasnt it
+23,stock,you dont suppose he suddenly buys the stock
+23,stock,i need lock stock and barrel to repair this
+23,stock,a larger stock will produce more proceeds
+24,stock,that stock pays me four percent
+24,stock,a certificate of stock was bought on margin
+24,stock,seoul banks stock gained five percent today
+24,stock,her income increased when she changed jobs and bought stock
+24,stock,he isnt interested in a stock that is dividend off
+24,stock,stock prices showed a suddenly rising tendency
+24,stock,the product was in stock last week wasnt it
+24,stock,you dont suppose he suddenly buys the stock
+24,stock,i need lock stock and barrel to repair this
+24,stock,a larger stock will produce more proceeds
+25,stock,that stock pays me four percent
+25,stock,a certificate of stock was bought on margin
+25,stock,seoul banks stock gained five percent today
+25,stock,her income increased when she changed jobs and bought stock
+25,stock,he isnt interested in a stock that is dividend off
+25,stock,stock prices showed a suddenly rising tendency
+25,stock,the product was in stock last week wasnt it
+25,stock,you dont suppose he suddenly buys the stock
+25,stock,i need lock stock and barrel to repair this
+25,stock,a larger stock will produce more proceeds
+26,fertility,the sea of fertility is the dark surface of the moon
+26,fertility,old notions of asian fertility are similarly false
+26,fertility,south korea has the lowest fertility rate in the world
+26,fertility,the fertility of his mind is impressive
+26,fertility,the fertility figure suggests that more babies will be born
+26,fertility,hormones which control fertility and body growth
+26,fertility,the national fertility rate has fallen to a record low
+26,fertility,the national fertility rate is pretty high
+26,fertility,theres a lot of concern over declining fertility rates
+26,fertility,there s a lot of concern over declining fertility rates
+27,stock,that stock pays me four percent
+27,stock,a certificate of stock was bought on margin
+27,stock,seoul banks stock gained five percent today
+27,stock,her income increased when she changed jobs and bought stock
+27,stock,he isnt interested in a stock that is dividend off
+27,stock,stock prices showed a suddenly rising tendency
+27,stock,the product was in stock last week wasnt it
+27,stock,you dont suppose he suddenly buys the stock
+27,stock,i need lock stock and barrel to repair this
+27,stock,a larger stock will produce more proceeds
+28,stock,that stock pays me four percent
+28,stock,a certificate of stock was bought on margin
+28,stock,seoul banks stock gained five percent today
+28,stock,her income increased when she changed jobs and bought stock
+28,stock,he isnt interested in a stock that is dividend off
+28,stock,stock prices showed a suddenly rising tendency
+28,stock,the product was in stock last week wasnt it
+28,stock,you dont suppose he suddenly buys the stock
+28,stock,i need lock stock and barrel to repair this
+28,stock,a larger stock will produce more proceeds
+29,book,a freak copy of a book
+29,book,the school year book will be published soon
+29,book,i am reading a book now
+29,book,he is still reading a book
+29,book,facts alone do not compose a book
+29,book,this book contains a lot of useful information
+29,book,secure the copyright on a book
+29,book,the final chapter of a book
+29,book,there is no need to dwell upon the value of this book
+29,book,the book is divided into two volumes
+30,bank,what time does the bank close today
+30,bank,my current bank is seoul bank
+30,bank,i am employed in a bank
+30,bank,i committed all my money to the bank
+30,bank,your money is as safe as houses with this bank
+30,bank,he won the lottery and laughed all the way to the bank
+30,bank,hes a bigwig in that bank
+30,bank,i am inclined to be very careful about what bank i use
+30,bank,restrict the currency of bank notes
+30,bank,each week he deposited his pay in the bank
+31,wood,a drill is lying on top of some wood
+31,wood,this floor is made of high quality wood
+31,wood,the car accident sported a wood
+31,wood,the table is made of wood
+31,wood,this house is made of wood
+31,wood,carpenter was the name for a person who worked with wood
+31,wood,the building is made of wood
+31,wood,i believe its made of wood
+31,wood,the horse is made of wood
+31,wood,the student is square to the wood when he exercises
+32,money,every moment is precious or time is money
+32,money,i know i feel the same way but the extra money is great
+32,money,i need to put some money into my account
+32,money,the two laid paper to buy lots of things with no money
+32,money,his loss of a lot of money in real estate chastened him
+32,money,its just waste of time and money
+32,money,people have more money to spend
+32,money,i consider time more important than money
+32,money,people used money to trade things
+32,money,money enables one to do a lot of things
+33,professor,the professor is a man of letters
+33,professor,he is a professor at harvard and a man of letters
+33,professor,i have to hand it in to the professor today
+33,professor,what did you think about professor elkins lecture
+33,professor,our biology professor lives just across from my house
+33,professor,your grades lie beyond my power ask your professor
+33,professor,i guess the professor will know this report is plagiarized
+33,professor,she is studying under professor kim
+33,professor,the professor studied up for the seminar
+33,professor,the professor turned my flank in a class
+34,king,the king holds dominion over the people of his nation
+34,king,he is the rightful king of this country
+34,king,now the king looks around another village
+34,king,the king looks out over his domain
+34,king,zeus is the king of the gods in greek mythology
+34,king,as is the king so is the people
+34,king,the king promoted him to the rank of a minister
+34,king,with a great battle cry the king let slip the dogs of war
+34,king,the crown prince is in training for becoming king one day
+34,king,a cat may look at a king
+35,king,the king holds dominion over the people of his nation
+35,king,he is the rightful king of this country
+35,king,now the king looks around another village
+35,king,the king looks out over his domain
+35,king,zeus is the king of the gods in greek mythology
+35,king,as is the king so is the people
+35,king,the king promoted him to the rank of a minister
+35,king,with a great battle cry the king let slip the dogs of war
+35,king,the crown prince is in training for becoming king one day
+35,king,a cat may look at a king
+36,king,the king holds dominion over the people of his nation
+36,king,he is the rightful king of this country
+36,king,now the king looks around another village
+36,king,the king looks out over his domain
+36,king,zeus is the king of the gods in greek mythology
+36,king,as is the king so is the people
+36,king,the king promoted him to the rank of a minister
+36,king,with a great battle cry the king let slip the dogs of war
+36,king,the crown prince is in training for becoming king one day
+36,king,a cat may look at a king
+37,bishop,right reverend father in god bishop
+37,bishop,i talked about it as the actress said to the bishop
+37,bishop,the right rev the bishop of 
+37,bishop,the bishop invested the king with the crown
+37,bishop,bishop rock is actually a very small rock
+37,bishop,the bishop anointed the priests head with holy oil
+37,bishop,santa was originally known as bishop nicolas of myra
+37,bishop,your father bishop was a gentleman
+37,bishop,the bishop seemed quite on his last legs
+37,bishop,in dgdgdgdg he became the first black bishop in south africa
+38,Jerusalem,he met israeli president simon peres in jerusalem
+38,Jerusalem,jerusalem has a long history of conflict
+38,Jerusalem,hundreds of pilgrims gathered in jerusalem
+38,Jerusalem,jerusalem is the mountainous capital city of israel
+38,Jerusalem,kaine well let me talk about the jerusalem issue
+38,Jerusalem,jerusalem for us is a major issue
+38,Jerusalem,the jerusalem post contributed to this story
+38,Jerusalem,jerusalem day is affected by floods
+38,Jerusalem,click here to read more from the jerusalem post
+38,Jerusalem,god has plans for zion amp jerusalem
+39,Jerusalem,he met israeli president simon peres in jerusalem
+39,Jerusalem,jerusalem has a long history of conflict
+39,Jerusalem,hundreds of pilgrims gathered in jerusalem
+39,Jerusalem,jerusalem is the mountainous capital city of israel
+39,Jerusalem,kaine well let me talk about the jerusalem issue
+39,Jerusalem,jerusalem for us is a major issue
+39,Jerusalem,the jerusalem post contributed to this story
+39,Jerusalem,jerusalem day is affected by floods
+39,Jerusalem,click here to read more from the jerusalem post
+39,Jerusalem,god has plans for zion amp jerusalem
+40,holy,he is clerk in holy orders
+40,holy,saint it you are a holy man
+40,holy,the holy roman empire ended in dgdgdgdg
+40,holy,bless the elements at holy communion
+40,holy,god the father god the son god the holy ghost amen
+40,holy,it will happen by the holy poker
+40,holy,holy cow look at the size of that set
+40,holy,a pilgrim to the holy land
+40,holy,dgrd statement every holy book is filled with errors
+40,holy,he is also the source of the quran the holy book of islam
+41,fuck,dont fuck with him
+41,fuck,why dont you just fuck off
+41,fuck,why dont you just fuck off
+41,fuck,why dont you just fuck off
+41,fuck,why dont you just fuck off
+41,fuck,why dont you just fuck off
+41,fuck,why dont you just fuck off
+41,fuck,why dont you just fuck off
+41,fuck,why dont you just fuck off
+41,fuck,why dont you just fuck off
+42,Maradona,its like asking if you would want pele or maradona
+42,Maradona,his name was diego maradona and you remind me of him a lot
+42,Maradona,diego maradona is the shock choice as manager of argentina
+42,Maradona,i dont want a life like maradona
+42,Maradona,the second best is probably maradona
+42,Maradona,also maradona scored a historic goal in this game
+42,Maradona,also maradona proved himself in europe unlike pele
+42,Maradona,yes maradona scored a goal with his hand
+42,Maradona,diego maradona is still treated as a hero by scotland fans
+42,Maradona,in this art maradona and pele were supreme
+43,football,he played football in his junior years
+43,football,he was the greatest player in the annals of football
+43,football,he won a spot on the football team
+43,football,he announces the football games on tv
+43,football,the captain of the football team encouraged the players
+43,football,association football is called different names
+43,football,yes hes been training hard for the football team
+43,football,the boy was in awe of the famous football player
+43,football,the football coach charged up the team to win the game
+43,football,he is a terrific football player
+44,football,he played football in his junior years
+44,football,he was the greatest player in the annals of football
+44,football,he won a spot on the football team
+44,football,he announces the football games on tv
+44,football,the captain of the football team encouraged the players
+44,football,association football is called different names
+44,football,yes hes been training hard for the football team
+44,football,the boy was in awe of the famous football player
+44,football,the football coach charged up the team to win the game
+44,football,he is a terrific football player
+45,football,he played football in his junior years
+45,football,he was the greatest player in the annals of football
+45,football,he won a spot on the football team
+45,football,he announces the football games on tv
+45,football,the captain of the football team encouraged the players
+45,football,association football is called different names
+45,football,yes hes been training hard for the football team
+45,football,the boy was in awe of the famous football player
+45,football,the football coach charged up the team to win the game
+45,football,he is a terrific football player
+46,tennis,i challenged her to a game of tennis
+46,tennis,i like playing tennis and skiing
+46,tennis,the tennis game was at love
+46,tennis,playing tennis will muscle your arms
+46,tennis,would you like to join me for a game of tennis
+46,tennis,a man wanted to buy in the tennis club
+46,tennis,im a part of the tennis club
+46,tennis,he likes playing tennis very much
+46,tennis,im not really too crazy about playing tennis
+46,tennis,i played varsity basketball and tennis in high school
+47,Arafat,but to many people yasser arafat seemed entirely different
+47,Arafat,you dont want to reward arafat
+47,Arafat,i felt that the spirit of yasser arafat
+47,Arafat,arafat expressed conditional acceptance of the idea
+47,Arafat,arafat apparently still has not recovered from that illness
+47,Arafat,and yasser arafat was part of the problem
+47,Arafat,yasser arafat called netanyahu to wish him a happy new year
+47,Arafat,in other cases arafat cronies absconded with the cash
+47,Arafat,president bush knows arafat is a liar and a fraud
+47,Arafat,he added that arafat has not declared a war on terrorism
+48,Arafat,but to many people yasser arafat seemed entirely different
+48,Arafat,you dont want to reward arafat
+48,Arafat,i felt that the spirit of yasser arafat
+48,Arafat,arafat expressed conditional acceptance of the idea
+48,Arafat,arafat apparently still has not recovered from that illness
+48,Arafat,and yasser arafat was part of the problem
+48,Arafat,yasser arafat called netanyahu to wish him a happy new year
+48,Arafat,in other cases arafat cronies absconded with the cash
+48,Arafat,president bush knows arafat is a liar and a fraud
+48,Arafat,he added that arafat has not declared a war on terrorism
+49,Arafat,but to many people yasser arafat seemed entirely different
+49,Arafat,you dont want to reward arafat
+49,Arafat,i felt that the spirit of yasser arafat
+49,Arafat,arafat expressed conditional acceptance of the idea
+49,Arafat,arafat apparently still has not recovered from that illness
+49,Arafat,and yasser arafat was part of the problem
+49,Arafat,yasser arafat called netanyahu to wish him a happy new year
+49,Arafat,in other cases arafat cronies absconded with the cash
+49,Arafat,president bush knows arafat is a liar and a fraud
+49,Arafat,he added that arafat has not declared a war on terrorism
+50,law,she handles all of the billing for the law firm
+50,law,the new law is in effect as of tomorrow
+50,law,it is ruled by its own law
+50,law,the country has a law prohibiting employees from striking
+50,law,the long arm of the law helps poor people
+50,law,a law is a law however undesirable it may be
+50,law,the law is no longer effective
+50,law,judges worked through a new law yesterday
+50,law,ignorance of the law excuses no man
+50,law,admission to the practice of law
+51,movie,when do you show the movie
+51,movie,i worked at a movie theater to pay my living expenses
+51,movie,there is a movie theater near here my house
+51,movie,everyone cried when the movie showed hearts and flowers
+51,movie,the movie has been showing for three months
+51,movie,journalists always regard movie stars as fair game
+51,movie,teens model themselves after the movie stars
+51,movie,the movie stinks or the movie is no good
+51,movie,the movie started ten minutes late
+51,movie,its mostly the movie stars who lead the fashion
+52,movie,when do you show the movie
+52,movie,i worked at a movie theater to pay my living expenses
+52,movie,there is a movie theater near here my house
+52,movie,everyone cried when the movie showed hearts and flowers
+52,movie,the movie has been showing for three months
+52,movie,journalists always regard movie stars as fair game
+52,movie,teens model themselves after the movie stars
+52,movie,the movie stinks or the movie is no good
+52,movie,the movie started ten minutes late
+52,movie,its mostly the movie stars who lead the fashion
+53,movie,when do you show the movie
+53,movie,i worked at a movie theater to pay my living expenses
+53,movie,there is a movie theater near here my house
+53,movie,everyone cried when the movie showed hearts and flowers
+53,movie,the movie has been showing for three months
+53,movie,journalists always regard movie stars as fair game
+53,movie,teens model themselves after the movie stars
+53,movie,the movie stinks or the movie is no good
+53,movie,the movie started ten minutes late
+53,movie,its mostly the movie stars who lead the fashion
+54,movie,when do you show the movie
+54,movie,i worked at a movie theater to pay my living expenses
+54,movie,there is a movie theater near here my house
+54,movie,everyone cried when the movie showed hearts and flowers
+54,movie,the movie has been showing for three months
+54,movie,journalists always regard movie stars as fair game
+54,movie,teens model themselves after the movie stars
+54,movie,the movie stinks or the movie is no good
+54,movie,the movie started ten minutes late
+54,movie,its mostly the movie stars who lead the fashion
+55,physics,yesterday i had class in the physics laboratory
+55,physics,physics was right up marie curies alley
+55,physics,they talked me into studying physics chemistry and biology
+55,physics,albert einstein was a genius in physics
+55,physics,i majored in chemistry and minored in physics
+55,physics,einsteins theory marked a new epoch in physics
+55,physics,i have a major in physics with a minor in chemistry
+55,physics,that means he studies the physics of outer space
+55,physics,these scientists discovered a new plane of physics
+55,physics,at the sorbonne she met pierre curie a physics professor
+56,physics,yesterday i had class in the physics laboratory
+56,physics,physics was right up marie curies alley
+56,physics,they talked me into studying physics chemistry and biology
+56,physics,albert einstein was a genius in physics
+56,physics,i majored in chemistry and minored in physics
+56,physics,einsteins theory marked a new epoch in physics
+56,physics,i have a major in physics with a minor in chemistry
+56,physics,that means he studies the physics of outer space
+56,physics,these scientists discovered a new plane of physics
+56,physics,at the sorbonne she met pierre curie a physics professor
+57,space,korea has too many people for its limited land space
+57,space,for the space of two years
+57,space,the people are looking for a parking space
+57,space,there is not enough space between the two houses
+57,space,there are no barriers of time and space in cyberspace
+57,space,the worker will size down the space
+57,space,russian cosmonauts were the first people in space
+57,space,just look at the closet space in here
+57,space,provides the ability to conserve disk space
+57,space,even from space the earth looks familiar
+58,alcohol,never drink alcohol in broad day
+58,alcohol,he was fined for driving under the influence of alcohol
+58,alcohol,a little alcohol or tobacco will do you no harm
+58,alcohol,the new micro fuel cells use a safe type of alcohol
+58,alcohol,all the sugar turned into alcohol
+58,alcohol,i cant stand a bar of drinking alcohol
+58,alcohol,the band of hope told him not to drink alcohol
+58,alcohol,her face turns red as a beet when she drinks alcohol
+58,alcohol,he does not touch alcohol or hes off the alcohol
+58,alcohol,hes always mean when he drinks alcohol
+59,vodka,taggart debated whether to have yet another double vodka
+59,vodka,im on a journey to the end of vodka
+59,vodka,of course i remembered the vodka
+59,vodka,vodka and ice hold the coffee
+59,vodka,did you mean beer or vodka
+59,vodka,bring me a cup of vodka
+59,vodka,so i dont want water i dont want vodka
+59,vodka,this is the best russian vodka
+59,vodka,and a little vodka im specially looking forward to
+59,vodka,i think i drank like a whole bottle of vodka
+60,vodka,taggart debated whether to have yet another double vodka
+60,vodka,im on a journey to the end of vodka
+60,vodka,of course i remembered the vodka
+60,vodka,vodka and ice hold the coffee
+60,vodka,did you mean beer or vodka
+60,vodka,bring me a cup of vodka
+60,vodka,so i dont want water i dont want vodka
+60,vodka,this is the best russian vodka
+60,vodka,and a little vodka im specially looking forward to
+60,vodka,i think i drank like a whole bottle of vodka
+61,drink,why did you drink so much
+61,drink,no i dont drink it often
+61,drink,you must drink as have brewed
+61,drink,he does not drink any more
+61,drink,lets drink the toast of the happy new year
+61,drink,his failure in business caused him to drink and smoke
+61,drink,all around the world people drink tea
+61,drink,your friend looks on the drink all the time
+61,drink,would you care for a drink to celebrate the new year
+61,drink,he doesnt drink so much anymore
+62,drink,why did you drink so much
+62,drink,no i dont drink it often
+62,drink,you must drink as have brewed
+62,drink,he does not drink any more
+62,drink,lets drink the toast of the happy new year
+62,drink,his failure in business caused him to drink and smoke
+62,drink,all around the world people drink tea
+62,drink,your friend looks on the drink all the time
+62,drink,would you care for a drink to celebrate the new year
+62,drink,he doesnt drink so much anymore
+63,drink,why did you drink so much
+63,drink,no i dont drink it often
+63,drink,you must drink as have brewed
+63,drink,he does not drink any more
+63,drink,lets drink the toast of the happy new year
+63,drink,his failure in business caused him to drink and smoke
+63,drink,all around the world people drink tea
+63,drink,your friend looks on the drink all the time
+63,drink,would you care for a drink to celebrate the new year
+63,drink,he doesnt drink so much anymore
+64,drink,why did you drink so much
+64,drink,no i dont drink it often
+64,drink,you must drink as have brewed
+64,drink,he does not drink any more
+64,drink,lets drink the toast of the happy new year
+64,drink,his failure in business caused him to drink and smoke
+64,drink,all around the world people drink tea
+64,drink,your friend looks on the drink all the time
+64,drink,would you care for a drink to celebrate the new year
+64,drink,he doesnt drink so much anymore
+65,baby,an extra member was added to his family he adopted a baby
+65,baby,when are you expecting your baby
+65,baby,the baby knocked his cup over and spilled the water
+65,baby,the birth rate of baby boys in la increased last year
+65,baby,the baby is on all fours most of the time
+65,baby,would you mind looking after the baby for a while
+65,baby,please look after the baby while im away
+65,baby,the baby woke up crying several times every night to be fed
+65,baby,she looks exactly the same as she did before the baby
+65,baby,the father laid his baby on the bed
+66,drink,why did you drink so much
+66,drink,no i dont drink it often
+66,drink,you must drink as have brewed
+66,drink,he does not drink any more
+66,drink,lets drink the toast of the happy new year
+66,drink,his failure in business caused him to drink and smoke
+66,drink,all around the world people drink tea
+66,drink,your friend looks on the drink all the time
+66,drink,would you care for a drink to celebrate the new year
+66,drink,he doesnt drink so much anymore
+67,car,im looking for a used car
+67,car,i hear youre in the market for a used car
+67,car,look in the yellow pages for used car dealers
+67,car,my car is in the parking lot
+67,car,there is a car waiting for you this way please
+67,car,his clothes are covered with crud from working on his car
+67,car,my car stopped suddenly on the way to the hospital
+67,car,as a matter of fact my mother wants to sell her car
+67,car,please step to the rear of the car
+67,car,the car is in front of the truck
+68,gem,he is a gem in our office
+68,gem,this is the gem of my record collection
+68,gem,love is having your own little gem
+68,gem,he is a gem of a boy
+68,gem,tell me where this gem is
+68,gem,explore through video the gem of big sky country
+68,gem,press a to equip or unequip a gem
+68,gem,that little hummer runs like a gem
+68,gem,the gem of the whole collection
+68,gem,an uncut gem does not sparkle as the proverb says
+69,journey,the day when i start for my journey is drawing near
+69,journey,a journey of a thousand miles starts with but a single step
+69,journey,the old man finally went on his last journey
+69,journey,we started our journey in high spirits
+69,journey,love is beginning a journey together
+69,journey,fix on a date for a journey
+69,journey,a journey of a thousand miles begins with one step
+69,journey,do the journey in a day
+69,journey,if you break your journey this ticket will not be valid
+69,journey,a journey of a thousand miles begins with a single step
+70,boy,the man and boy are tuning the guitar
+70,boy,the boy from the country looked gawky in the big city
+70,boy,he didnt want to become friends with the new boy
+70,boy,the boy stuck his tongue in his cheek before his friends
+70,boy,dont underestimate him just because he is a boy
+70,boy,fear conditioned the boy to behave in such a way
+70,boy,im kind of surprised you dont have a boy friend
+70,boy,a old man bullied a little boy out of candies
+70,boy,the boy is using the glue
+70,boy,the woman is helping the boy walk up the stairs
+71,coast,the waves swept over the coast
+71,coast,the storm destroyed every house on the coast
+71,coast,are you still looking for a job on the west coast
+71,coast,what is true of the gold coast indy car race
+71,coast,cheap return tickets are issued to all south coast resorts
+71,coast,cheap return tickets are issued to all south coast resorts
+71,coast,the coast is full of indentations
+71,coast,the ship came to the north coast
+71,coast,a fishing boat was cast away on the coast of busan
+71,coast,a fishing boat was cast away on the coast of pohang
+72,asylum,the countrys liberal political asylum law
+72,asylum,france had agreed to his request for political asylum
+72,asylum,france has agreed to grant him political asylum
+72,asylum,its an insane asylum this time of year
+72,asylum,he sought asylum in a third country
+72,asylum,my friend was in an asylum
+72,asylum,we work in an insane asylum
+72,asylum,he was soon sent to an asylum
+72,asylum,that we offer his family asylum
+72,asylum,our asylum policy needs to match our values
+73,magician,that magician uses magic to pull rabbits out of a hat
+73,magician,i want to be a magician
+73,magician,the magician changed the scarf into a white rabbit
+73,magician,the magician threw pepper in the eye of spectators
+73,magician,the magician cast a spell on his wife
+73,magician,a magician can call many things his own
+73,magician,why did you decide to become a magician
+73,magician,the magician was done by mirrors with card
+73,magician,she looks like a magician making fire
+73,magician,the magician showed several marvelous tricks on the stage
+74,midday,people were beginning to tire in the midday heat
+74,midday,motorists were forced to turn on their headlights at midday
+74,midday,call me saturday midday and ill tell you
+74,midday,the sun during midday will light up the dark night
+74,midday,but for a long time i struggled with a midday lag
+74,midday,he flakes out in the midday heat
+74,midday,treasury bond prices were mostly higher at midday
+74,midday,more than dgdg million shares had traded on amex by midday
+74,midday,we resume after midday sun has past
+74,midday,limit time in the midday sun when uv rays are most intense
+75,furnace,the family was tried in the furnace
+75,furnace,with parts stolen from some great celestial furnace
+75,furnace,that train is a blast furnace
+75,furnace,surely you looked in the furnace
+75,furnace,measures how efficiently a gas furnace or boiler operates
+75,furnace,i just want to return to lord laos furnace
+75,furnace,its like a furnace in here can we open windows
+75,furnace,for ordinary men its a burning fiery furnace
+75,furnace,lets talk about lord laos furnace
+75,furnace,he needed a new furnace for his house
+76,food,issue food and clothing to soldiers
+76,food,they used up his reserve of food
+76,food,i dont like your idea very much but its food for thought
+76,food,and the net effect is a rapid change in food culture
+76,food,our dog stuck his muzzle in his food dish to eat
+76,food,the man is looking for food
+76,food,we eat the same food every day
+76,food,im used to eating spicy food
+76,food,this food is the best thing since sliced bread
+76,food,i work in a fast food restaurant
+77,bird,heres hoping that i were a bird
+77,bird,it is the largest bird in the world
+77,bird,i drew a bead on a bird
+77,bird,jane is always happy and free as a bird
+77,bird,a bird darted through the air
+77,bird,the bird fell prey to the eagle
+77,bird,the bird showed up in a cartoon for the first time in dgdgdgdg
+77,bird,the bird is behind the car
+77,bird,a bird perches on a twig
+77,bird,he does his bird for murder
+78,bird,heres hoping that i were a bird
+78,bird,it is the largest bird in the world
+78,bird,i drew a bead on a bird
+78,bird,jane is always happy and free as a bird
+78,bird,a bird darted through the air
+78,bird,the bird fell prey to the eagle
+78,bird,the bird showed up in a cartoon for the first time in dgdgdgdg
+78,bird,the bird is behind the car
+78,bird,a bird perches on a twig
+78,bird,he does his bird for murder
+79,tool,the carpenter is working with a power tool
+79,tool,the man is holding a tool
+79,tool,one workman is handing the other a tool
+79,tool,in present day life fire is a very useful tool
+79,tool,this tool serves for many purposes
+79,tool,music is a tool to express mans emotion
+79,tool,he is a tool of the party boss
+79,tool,thank you for calling the stanley power tool company
+79,tool,complete the procedure using the dbdg server enablement tool
+79,tool,saves changes and exits the tool
+80,brother,he beat his brother home from school
+80,brother,my brother is dg years older than i
+80,brother,i argue with my brother all the time
+80,brother,my brother and i are only a year apart
+80,brother,the girl is waving to her brother
+80,brother,my brother lived in australia for five years
+80,brother,his brother swamped his way with him
+80,brother,you and your brother act in the same way
+80,brother,and dont forget brother irving dgdg years old
+80,brother,the boy messed around his brother
+81,crane,the crane could help us in many ways in the future
+81,crane,the crane is lifting a car
+81,crane,the piano was lifted by means of a crane
+81,crane,a crane has long slender legs
+81,crane,a crane has long slender legs
+81,crane,the man is being lifted by a crane
+81,crane,wall tie member force curve for the construction tower crane
+81,crane,a study on gps application for tower crane
+81,crane,a crane that can easily lift several tons at a time
+81,crane,a crane had to be used to haul the car out of the stream
+82,lad,hes a bit of a lad
+82,lad,act as an office lad in a lawyers office
+82,lad,hes a great lad he is
+82,lad,youre a member of the club now lad
+82,lad,hes a sharp lad your son
+82,lad,kindness was never thrown away upon the lad
+82,lad,so show a little respect lad
+82,lad,hes a slight lad but hes stronger than he looks
+82,lad,i dont need their names lad
+82,lad,i do not think hell listen lad
+83,journey,the day when i start for my journey is drawing near
+83,journey,a journey of a thousand miles starts with but a single step
+83,journey,the old man finally went on his last journey
+83,journey,we started our journey in high spirits
+83,journey,love is beginning a journey together
+83,journey,fix on a date for a journey
+83,journey,a journey of a thousand miles begins with one step
+83,journey,do the journey in a day
+83,journey,if you break your journey this ticket will not be valid
+83,journey,a journey of a thousand miles begins with a single step
+84,monk,the monk was called insane due to his absurd behavior
+84,monk,being a buddhist monk is his calling in life
+84,monk,speak up in defense the exiled monk
+84,monk,so the monk kicked the dog
+84,monk,the monk had only a small bed in his cell
+84,monk,it was always her goal to become a monk she said
+84,monk,he talked jobs out of becoming a monk
+84,monk,i dont want to be a monk
+84,monk,now he lives in nepal as a buddhist monk
+84,monk,you will be a great monk
+85,cemetery,there are a number of new features in this cemetery
+85,cemetery,part of a churchyard is often used as a cemetery
+85,cemetery,be buried in the family cemetery
+85,cemetery,the black hearse entered the cemetery
+85,cemetery,the mount royal park is home to the mount royal cemetery
+85,cemetery,we visit the national cemetery on memorial day every year
+85,cemetery,a plot of ground has been allotted for the cemetery
+85,cemetery,people visit a national cemetery on memorial day
+85,cemetery,the body was interred at cemetery
+85,cemetery,the war victims will be buried in national cemetery
+86,food,issue food and clothing to soldiers
+86,food,they used up his reserve of food
+86,food,i dont like your idea very much but its food for thought
+86,food,and the net effect is a rapid change in food culture
+86,food,our dog stuck his muzzle in his food dish to eat
+86,food,the man is looking for food
+86,food,we eat the same food every day
+86,food,im used to eating spicy food
+86,food,this food is the best thing since sliced bread
+86,food,i work in a fast food restaurant
+87,coast,the waves swept over the coast
+87,coast,the storm destroyed every house on the coast
+87,coast,are you still looking for a job on the west coast
+87,coast,what is true of the gold coast indy car race
+87,coast,cheap return tickets are issued to all south coast resorts
+87,coast,cheap return tickets are issued to all south coast resorts
+87,coast,the coast is full of indentations
+87,coast,the ship came to the north coast
+87,coast,a fishing boat was cast away on the coast of busan
+87,coast,a fishing boat was cast away on the coast of pohang
+88,forest,one day a chicken was out in the forest
+88,forest,the trees in fruit are standing in the forest
+88,forest,he enjoyed walking in the forest with his family
+88,forest,choose the functional level of the new forest
+88,forest,he did a guy in the forest
+88,forest,the road runs through the forest
+88,forest,and they both stop at forest hills
+88,forest,campers are camping in the forest
+88,forest,army hid in forest under arms to have surprise attack
+88,forest,a study of forest timber demands by use in korea
+89,shore,i lived near the shore last year
+89,shore,some people are walking along the shore
+89,shore,i brought her back to the shore
+89,shore,the waves were driving the ship to the shore
+89,shore,the waves lash against the shore
+89,shore,large waves are hitting the shore
+89,shore,he was rowed to the shore
+89,shore,dont swim too far out stay near the shore
+89,shore,i was watching her walking along the lake shore
+89,shore,he was rowed to the shore
+90,monk,the monk was called insane due to his absurd behavior
+90,monk,being a buddhist monk is his calling in life
+90,monk,speak up in defense the exiled monk
+90,monk,so the monk kicked the dog
+90,monk,the monk had only a small bed in his cell
+90,monk,it was always her goal to become a monk she said
+90,monk,he talked jobs out of becoming a monk
+90,monk,i dont want to be a monk
+90,monk,now he lives in nepal as a buddhist monk
+90,monk,you will be a great monk
+91,coast,the waves swept over the coast
+91,coast,the storm destroyed every house on the coast
+91,coast,are you still looking for a job on the west coast
+91,coast,what is true of the gold coast indy car race
+91,coast,cheap return tickets are issued to all south coast resorts
+91,coast,cheap return tickets are issued to all south coast resorts
+91,coast,the coast is full of indentations
+91,coast,the ship came to the north coast
+91,coast,a fishing boat was cast away on the coast of busan
+91,coast,a fishing boat was cast away on the coast of pohang
+92,lad,hes a bit of a lad
+92,lad,act as an office lad in a lawyers office
+92,lad,hes a great lad he is
+92,lad,youre a member of the club now lad
+92,lad,hes a sharp lad your son
+92,lad,kindness was never thrown away upon the lad
+92,lad,so show a little respect lad
+92,lad,hes a slight lad but hes stronger than he looks
+92,lad,i dont need their names lad
+92,lad,i do not think hell listen lad
+93,chord,his speech struck a sympathetic chord
+93,chord,to create a curve using the chord bearing
+93,chord,to create a curve using the chord azimuth
+93,chord,to create a curve using the chord deflection
+93,chord,the book strikes a chord with all readers
+93,chord,draws the bottom chord of the truss family
+93,chord,draws the top chord of the truss family
+93,chord,specifies the end release condition for the top truss chord
+93,chord,specifies the family and type of the bottom truss chord
+93,chord,pick a spline chord to add spline control
+94,glass,he drank a glass of milk
+94,glass,the sitting people paint on glass
+94,glass,the team swallowed with a glass of water
+94,glass,i dropped a glass and it burst into fragments
+94,glass,shes pouring liquid into a glass
+94,glass,he tipped off a glass of water
+94,glass,yes id like a glass of water
+94,glass,ill fetch you a glass of water
+94,glass,the man is putting tape around a glass
+94,glass,people at the party raised their glass to the couple
+95,noon,we guarantee delivery by noon on the next business day
+95,noon,i thought about sleeping morning noon and night
+95,noon,he tried to finish his work by noon
+95,noon,i landed in busan at noon
+95,noon,the banks close at noon you know
+95,noon,noon isnt good i have business lunch
+95,noon,he cried morning noon and night
+95,noon,the results of the election will be clear by noon tomorrow
+95,noon,since he left at noon he should have arrived there
+95,noon,the mail arrives at noon every day except sunday
+96,rooster,in the picture a monkey is waving to a rooster
+96,rooster,we all know that last year was the year of the rooster
+96,rooster,to celebrate chinese people made a huge rooster with snow
+96,rooster,this year will be the year of the wood rooster
+96,rooster,once upon a time a dog made friends with a rooster
+96,rooster,the rooster crows every morning at sunrise
+96,rooster,this violent rooster used to attack its owner and his kids
+96,rooster,a rooster is an adult male chicken
+96,rooster,the rooster in the farm always crows early in the morning
+96,rooster,the year dgdgdgdg is the year of the rooster
+97,money,every moment is precious or time is money
+97,money,i know i feel the same way but the extra money is great
+97,money,i need to put some money into my account
+97,money,the two laid paper to buy lots of things with no money
+97,money,his loss of a lot of money in real estate chastened him
+97,money,its just waste of time and money
+97,money,people have more money to spend
+97,money,i consider time more important than money
+97,money,people used money to trade things
+97,money,money enables one to do a lot of things
+98,money,every moment is precious or time is money
+98,money,i know i feel the same way but the extra money is great
+98,money,i need to put some money into my account
+98,money,the two laid paper to buy lots of things with no money
+98,money,his loss of a lot of money in real estate chastened him
+98,money,its just waste of time and money
+98,money,people have more money to spend
+98,money,i consider time more important than money
+98,money,people used money to trade things
+98,money,money enables one to do a lot of things
+99,money,every moment is precious or time is money
+99,money,i know i feel the same way but the extra money is great
+99,money,i need to put some money into my account
+99,money,the two laid paper to buy lots of things with no money
+99,money,his loss of a lot of money in real estate chastened him
+99,money,its just waste of time and money
+99,money,people have more money to spend
+99,money,i consider time more important than money
+99,money,people used money to trade things
+99,money,money enables one to do a lot of things
+100,money,every moment is precious or time is money
+100,money,i know i feel the same way but the extra money is great
+100,money,i need to put some money into my account
+100,money,the two laid paper to buy lots of things with no money
+100,money,his loss of a lot of money in real estate chastened him
+100,money,its just waste of time and money
+100,money,people have more money to spend
+100,money,i consider time more important than money
+100,money,people used money to trade things
+100,money,money enables one to do a lot of things
+101,money,every moment is precious or time is money
+101,money,i know i feel the same way but the extra money is great
+101,money,i need to put some money into my account
+101,money,the two laid paper to buy lots of things with no money
+101,money,his loss of a lot of money in real estate chastened him
+101,money,its just waste of time and money
+101,money,people have more money to spend
+101,money,i consider time more important than money
+101,money,people used money to trade things
+101,money,money enables one to do a lot of things
+102,money,every moment is precious or time is money
+102,money,i know i feel the same way but the extra money is great
+102,money,i need to put some money into my account
+102,money,the two laid paper to buy lots of things with no money
+102,money,his loss of a lot of money in real estate chastened him
+102,money,its just waste of time and money
+102,money,people have more money to spend
+102,money,i consider time more important than money
+102,money,people used money to trade things
+102,money,money enables one to do a lot of things
+103,money,every moment is precious or time is money
+103,money,i know i feel the same way but the extra money is great
+103,money,i need to put some money into my account
+103,money,the two laid paper to buy lots of things with no money
+103,money,his loss of a lot of money in real estate chastened him
+103,money,its just waste of time and money
+103,money,people have more money to spend
+103,money,i consider time more important than money
+103,money,people used money to trade things
+103,money,money enables one to do a lot of things
+104,money,every moment is precious or time is money
+104,money,i know i feel the same way but the extra money is great
+104,money,i need to put some money into my account
+104,money,the two laid paper to buy lots of things with no money
+104,money,his loss of a lot of money in real estate chastened him
+104,money,its just waste of time and money
+104,money,people have more money to spend
+104,money,i consider time more important than money
+104,money,people used money to trade things
+104,money,money enables one to do a lot of things
+105,money,every moment is precious or time is money
+105,money,i know i feel the same way but the extra money is great
+105,money,i need to put some money into my account
+105,money,the two laid paper to buy lots of things with no money
+105,money,his loss of a lot of money in real estate chastened him
+105,money,its just waste of time and money
+105,money,people have more money to spend
+105,money,i consider time more important than money
+105,money,people used money to trade things
+105,money,money enables one to do a lot of things
+106,money,every moment is precious or time is money
+106,money,i know i feel the same way but the extra money is great
+106,money,i need to put some money into my account
+106,money,the two laid paper to buy lots of things with no money
+106,money,his loss of a lot of money in real estate chastened him
+106,money,its just waste of time and money
+106,money,people have more money to spend
+106,money,i consider time more important than money
+106,money,people used money to trade things
+106,money,money enables one to do a lot of things
+107,money,every moment is precious or time is money
+107,money,i know i feel the same way but the extra money is great
+107,money,i need to put some money into my account
+107,money,the two laid paper to buy lots of things with no money
+107,money,his loss of a lot of money in real estate chastened him
+107,money,its just waste of time and money
+107,money,people have more money to spend
+107,money,i consider time more important than money
+107,money,people used money to trade things
+107,money,money enables one to do a lot of things
+108,tiger,i hope you keep your health despite riding the tiger
+108,tiger,the hunter skinned the tiger alive
+108,tiger,tiger woods added a new page to the history of golf
+108,tiger,the tiger bit off a piece of meat
+108,tiger,when she works like a tiger she looks angry
+108,tiger,the tiger was captive so he turned nasty
+108,tiger,he stood glaring at me like a tiger
+108,tiger,the year dgdg was the year of the white tiger
+108,tiger,his father is a lion and mother is a tiger
+108,tiger,his parents put a tiger in his tank
+109,tiger,i hope you keep your health despite riding the tiger
+109,tiger,the hunter skinned the tiger alive
+109,tiger,tiger woods added a new page to the history of golf
+109,tiger,the tiger bit off a piece of meat
+109,tiger,when she works like a tiger she looks angry
+109,tiger,the tiger was captive so he turned nasty
+109,tiger,he stood glaring at me like a tiger
+109,tiger,the year dgdg was the year of the white tiger
+109,tiger,his father is a lion and mother is a tiger
+109,tiger,his parents put a tiger in his tank
+110,tiger,i hope you keep your health despite riding the tiger
+110,tiger,the hunter skinned the tiger alive
+110,tiger,tiger woods added a new page to the history of golf
+110,tiger,the tiger bit off a piece of meat
+110,tiger,when she works like a tiger she looks angry
+110,tiger,the tiger was captive so he turned nasty
+110,tiger,he stood glaring at me like a tiger
+110,tiger,the year dgdg was the year of the white tiger
+110,tiger,his father is a lion and mother is a tiger
+110,tiger,his parents put a tiger in his tank
+111,tiger,i hope you keep your health despite riding the tiger
+111,tiger,the hunter skinned the tiger alive
+111,tiger,tiger woods added a new page to the history of golf
+111,tiger,the tiger bit off a piece of meat
+111,tiger,when she works like a tiger she looks angry
+111,tiger,the tiger was captive so he turned nasty
+111,tiger,he stood glaring at me like a tiger
+111,tiger,the year dgdg was the year of the white tiger
+111,tiger,his father is a lion and mother is a tiger
+111,tiger,his parents put a tiger in his tank
+112,tiger,i hope you keep your health despite riding the tiger
+112,tiger,the hunter skinned the tiger alive
+112,tiger,tiger woods added a new page to the history of golf
+112,tiger,the tiger bit off a piece of meat
+112,tiger,when she works like a tiger she looks angry
+112,tiger,the tiger was captive so he turned nasty
+112,tiger,he stood glaring at me like a tiger
+112,tiger,the year dgdg was the year of the white tiger
+112,tiger,his father is a lion and mother is a tiger
+112,tiger,his parents put a tiger in his tank
+113,tiger,i hope you keep your health despite riding the tiger
+113,tiger,the hunter skinned the tiger alive
+113,tiger,tiger woods added a new page to the history of golf
+113,tiger,the tiger bit off a piece of meat
+113,tiger,when she works like a tiger she looks angry
+113,tiger,the tiger was captive so he turned nasty
+113,tiger,he stood glaring at me like a tiger
+113,tiger,the year dgdg was the year of the white tiger
+113,tiger,his father is a lion and mother is a tiger
+113,tiger,his parents put a tiger in his tank
+114,tiger,i hope you keep your health despite riding the tiger
+114,tiger,the hunter skinned the tiger alive
+114,tiger,tiger woods added a new page to the history of golf
+114,tiger,the tiger bit off a piece of meat
+114,tiger,when she works like a tiger she looks angry
+114,tiger,the tiger was captive so he turned nasty
+114,tiger,he stood glaring at me like a tiger
+114,tiger,the year dgdg was the year of the white tiger
+114,tiger,his father is a lion and mother is a tiger
+114,tiger,his parents put a tiger in his tank
+115,tiger,i hope you keep your health despite riding the tiger
+115,tiger,the hunter skinned the tiger alive
+115,tiger,tiger woods added a new page to the history of golf
+115,tiger,the tiger bit off a piece of meat
+115,tiger,when she works like a tiger she looks angry
+115,tiger,the tiger was captive so he turned nasty
+115,tiger,he stood glaring at me like a tiger
+115,tiger,the year dgdg was the year of the white tiger
+115,tiger,his father is a lion and mother is a tiger
+115,tiger,his parents put a tiger in his tank
+116,psychology,psychology books are full of mumbo jumbo
+116,psychology,you think you know human psychology but really you dont
+116,psychology,i received counseling from a doctor of psychology
+116,psychology,sigmund freud the founder of modern psychology
+116,psychology,review of color psychology and color therapy
+116,psychology,they contested my right to publish the psychology book
+116,psychology,i am very interested in psychology
+116,psychology,he is a generalist in the field of psychology
+116,psychology,mark was studying psychology and computer science
+116,psychology,theres a powerful psychology of belief going on here
+117,psychology,psychology books are full of mumbo jumbo
+117,psychology,you think you know human psychology but really you dont
+117,psychology,i received counseling from a doctor of psychology
+117,psychology,sigmund freud the founder of modern psychology
+117,psychology,review of color psychology and color therapy
+117,psychology,they contested my right to publish the psychology book
+117,psychology,i am very interested in psychology
+117,psychology,he is a generalist in the field of psychology
+117,psychology,mark was studying psychology and computer science
+117,psychology,theres a powerful psychology of belief going on here
+118,psychology,psychology books are full of mumbo jumbo
+118,psychology,you think you know human psychology but really you dont
+118,psychology,i received counseling from a doctor of psychology
+118,psychology,sigmund freud the founder of modern psychology
+118,psychology,review of color psychology and color therapy
+118,psychology,they contested my right to publish the psychology book
+118,psychology,i am very interested in psychology
+118,psychology,he is a generalist in the field of psychology
+118,psychology,mark was studying psychology and computer science
+118,psychology,theres a powerful psychology of belief going on here
+119,psychology,psychology books are full of mumbo jumbo
+119,psychology,you think you know human psychology but really you dont
+119,psychology,i received counseling from a doctor of psychology
+119,psychology,sigmund freud the founder of modern psychology
+119,psychology,review of color psychology and color therapy
+119,psychology,they contested my right to publish the psychology book
+119,psychology,i am very interested in psychology
+119,psychology,he is a generalist in the field of psychology
+119,psychology,mark was studying psychology and computer science
+119,psychology,theres a powerful psychology of belief going on here
+120,psychology,psychology books are full of mumbo jumbo
+120,psychology,you think you know human psychology but really you dont
+120,psychology,i received counseling from a doctor of psychology
+120,psychology,sigmund freud the founder of modern psychology
+120,psychology,review of color psychology and color therapy
+120,psychology,they contested my right to publish the psychology book
+120,psychology,i am very interested in psychology
+120,psychology,he is a generalist in the field of psychology
+120,psychology,mark was studying psychology and computer science
+120,psychology,theres a powerful psychology of belief going on here
+121,psychology,psychology books are full of mumbo jumbo
+121,psychology,you think you know human psychology but really you dont
+121,psychology,i received counseling from a doctor of psychology
+121,psychology,sigmund freud the founder of modern psychology
+121,psychology,review of color psychology and color therapy
+121,psychology,they contested my right to publish the psychology book
+121,psychology,i am very interested in psychology
+121,psychology,he is a generalist in the field of psychology
+121,psychology,mark was studying psychology and computer science
+121,psychology,theres a powerful psychology of belief going on here
+122,psychology,psychology books are full of mumbo jumbo
+122,psychology,you think you know human psychology but really you dont
+122,psychology,i received counseling from a doctor of psychology
+122,psychology,sigmund freud the founder of modern psychology
+122,psychology,review of color psychology and color therapy
+122,psychology,they contested my right to publish the psychology book
+122,psychology,i am very interested in psychology
+122,psychology,he is a generalist in the field of psychology
+122,psychology,mark was studying psychology and computer science
+122,psychology,theres a powerful psychology of belief going on here
+123,psychology,psychology books are full of mumbo jumbo
+123,psychology,you think you know human psychology but really you dont
+123,psychology,i received counseling from a doctor of psychology
+123,psychology,sigmund freud the founder of modern psychology
+123,psychology,review of color psychology and color therapy
+123,psychology,they contested my right to publish the psychology book
+123,psychology,i am very interested in psychology
+123,psychology,he is a generalist in the field of psychology
+123,psychology,mark was studying psychology and computer science
+123,psychology,theres a powerful psychology of belief going on here
+124,psychology,psychology books are full of mumbo jumbo
+124,psychology,you think you know human psychology but really you dont
+124,psychology,i received counseling from a doctor of psychology
+124,psychology,sigmund freud the founder of modern psychology
+124,psychology,review of color psychology and color therapy
+124,psychology,they contested my right to publish the psychology book
+124,psychology,i am very interested in psychology
+124,psychology,he is a generalist in the field of psychology
+124,psychology,mark was studying psychology and computer science
+124,psychology,theres a powerful psychology of belief going on here
+125,psychology,psychology books are full of mumbo jumbo
+125,psychology,you think you know human psychology but really you dont
+125,psychology,i received counseling from a doctor of psychology
+125,psychology,sigmund freud the founder of modern psychology
+125,psychology,review of color psychology and color therapy
+125,psychology,they contested my right to publish the psychology book
+125,psychology,i am very interested in psychology
+125,psychology,he is a generalist in the field of psychology
+125,psychology,mark was studying psychology and computer science
+125,psychology,theres a powerful psychology of belief going on here
+126,psychology,psychology books are full of mumbo jumbo
+126,psychology,you think you know human psychology but really you dont
+126,psychology,i received counseling from a doctor of psychology
+126,psychology,sigmund freud the founder of modern psychology
+126,psychology,review of color psychology and color therapy
+126,psychology,they contested my right to publish the psychology book
+126,psychology,i am very interested in psychology
+126,psychology,he is a generalist in the field of psychology
+126,psychology,mark was studying psychology and computer science
+126,psychology,theres a powerful psychology of belief going on here
+127,psychology,psychology books are full of mumbo jumbo
+127,psychology,you think you know human psychology but really you dont
+127,psychology,i received counseling from a doctor of psychology
+127,psychology,sigmund freud the founder of modern psychology
+127,psychology,review of color psychology and color therapy
+127,psychology,they contested my right to publish the psychology book
+127,psychology,i am very interested in psychology
+127,psychology,he is a generalist in the field of psychology
+127,psychology,mark was studying psychology and computer science
+127,psychology,theres a powerful psychology of belief going on here
+128,planet,when do you plan to visit the planet
+128,planet,life on this planet would not be possible without it
+128,planet,a planet can be visualized as a stone tied to a string
+128,planet,right now about dg billion people live on the planet
+128,planet,a planet orbiting a star in the constellation of cepheus
+128,planet,what is the biggest planet in the solar system
+128,planet,what would they think about our planet
+128,planet,saturn is the second biggest planet in the solar system
+128,planet,this led them to rethink the definition of a planet
+128,planet,the new planet is about ten times the size of the earth
+129,planet,when do you plan to visit the planet
+129,planet,life on this planet would not be possible without it
+129,planet,a planet can be visualized as a stone tied to a string
+129,planet,right now about dg billion people live on the planet
+129,planet,a planet orbiting a star in the constellation of cepheus
+129,planet,what is the biggest planet in the solar system
+129,planet,what would they think about our planet
+129,planet,saturn is the second biggest planet in the solar system
+129,planet,this led them to rethink the definition of a planet
+129,planet,the new planet is about ten times the size of the earth
+130,planet,when do you plan to visit the planet
+130,planet,life on this planet would not be possible without it
+130,planet,a planet can be visualized as a stone tied to a string
+130,planet,right now about dg billion people live on the planet
+130,planet,a planet orbiting a star in the constellation of cepheus
+130,planet,what is the biggest planet in the solar system
+130,planet,what would they think about our planet
+130,planet,saturn is the second biggest planet in the solar system
+130,planet,this led them to rethink the definition of a planet
+130,planet,the new planet is about ten times the size of the earth
+131,planet,when do you plan to visit the planet
+131,planet,life on this planet would not be possible without it
+131,planet,a planet can be visualized as a stone tied to a string
+131,planet,right now about dg billion people live on the planet
+131,planet,a planet orbiting a star in the constellation of cepheus
+131,planet,what is the biggest planet in the solar system
+131,planet,what would they think about our planet
+131,planet,saturn is the second biggest planet in the solar system
+131,planet,this led them to rethink the definition of a planet
+131,planet,the new planet is about ten times the size of the earth
+132,planet,when do you plan to visit the planet
+132,planet,life on this planet would not be possible without it
+132,planet,a planet can be visualized as a stone tied to a string
+132,planet,right now about dg billion people live on the planet
+132,planet,a planet orbiting a star in the constellation of cepheus
+132,planet,what is the biggest planet in the solar system
+132,planet,what would they think about our planet
+132,planet,saturn is the second biggest planet in the solar system
+132,planet,this led them to rethink the definition of a planet
+132,planet,the new planet is about ten times the size of the earth
+133,planet,when do you plan to visit the planet
+133,planet,life on this planet would not be possible without it
+133,planet,a planet can be visualized as a stone tied to a string
+133,planet,right now about dg billion people live on the planet
+133,planet,a planet orbiting a star in the constellation of cepheus
+133,planet,what is the biggest planet in the solar system
+133,planet,what would they think about our planet
+133,planet,saturn is the second biggest planet in the solar system
+133,planet,this led them to rethink the definition of a planet
+133,planet,the new planet is about ten times the size of the earth
+134,planet,when do you plan to visit the planet
+134,planet,life on this planet would not be possible without it
+134,planet,a planet can be visualized as a stone tied to a string
+134,planet,right now about dg billion people live on the planet
+134,planet,a planet orbiting a star in the constellation of cepheus
+134,planet,what is the biggest planet in the solar system
+134,planet,what would they think about our planet
+134,planet,saturn is the second biggest planet in the solar system
+134,planet,this led them to rethink the definition of a planet
+134,planet,the new planet is about ten times the size of the earth
+135,precedent,this course of action is quite without precedent
+135,precedent,the period precedent to the event
+135,precedent,it has no precedent in history
+135,precedent,a precedent study on the photonic switching technology
+135,precedent,there is no precedent for it
+135,precedent,no legal system can establish such a precedent
+135,precedent,is there any precedent in law
+135,precedent,this kind of case is without precedent
+135,precedent,i hope that it does not constitute a precedent
+135,precedent,we are setting a precedent for the entire country
+136,precedent,this course of action is quite without precedent
+136,precedent,the period precedent to the event
+136,precedent,it has no precedent in history
+136,precedent,a precedent study on the photonic switching technology
+136,precedent,there is no precedent for it
+136,precedent,no legal system can establish such a precedent
+136,precedent,is there any precedent in law
+136,precedent,this kind of case is without precedent
+136,precedent,i hope that it does not constitute a precedent
+136,precedent,we are setting a precedent for the entire country
+137,precedent,this course of action is quite without precedent
+137,precedent,the period precedent to the event
+137,precedent,it has no precedent in history
+137,precedent,a precedent study on the photonic switching technology
+137,precedent,there is no precedent for it
+137,precedent,no legal system can establish such a precedent
+137,precedent,is there any precedent in law
+137,precedent,this kind of case is without precedent
+137,precedent,i hope that it does not constitute a precedent
+137,precedent,we are setting a precedent for the entire country
+138,precedent,this course of action is quite without precedent
+138,precedent,the period precedent to the event
+138,precedent,it has no precedent in history
+138,precedent,a precedent study on the photonic switching technology
+138,precedent,there is no precedent for it
+138,precedent,no legal system can establish such a precedent
+138,precedent,is there any precedent in law
+138,precedent,this kind of case is without precedent
+138,precedent,i hope that it does not constitute a precedent
+138,precedent,we are setting a precedent for the entire country
+139,precedent,this course of action is quite without precedent
+139,precedent,the period precedent to the event
+139,precedent,it has no precedent in history
+139,precedent,a precedent study on the photonic switching technology
+139,precedent,there is no precedent for it
+139,precedent,no legal system can establish such a precedent
+139,precedent,is there any precedent in law
+139,precedent,this kind of case is without precedent
+139,precedent,i hope that it does not constitute a precedent
+139,precedent,we are setting a precedent for the entire country
+140,precedent,this course of action is quite without precedent
+140,precedent,the period precedent to the event
+140,precedent,it has no precedent in history
+140,precedent,a precedent study on the photonic switching technology
+140,precedent,there is no precedent for it
+140,precedent,no legal system can establish such a precedent
+140,precedent,is there any precedent in law
+140,precedent,this kind of case is without precedent
+140,precedent,i hope that it does not constitute a precedent
+140,precedent,we are setting a precedent for the entire country
+141,precedent,this course of action is quite without precedent
+141,precedent,the period precedent to the event
+141,precedent,it has no precedent in history
+141,precedent,a precedent study on the photonic switching technology
+141,precedent,there is no precedent for it
+141,precedent,no legal system can establish such a precedent
+141,precedent,is there any precedent in law
+141,precedent,this kind of case is without precedent
+141,precedent,i hope that it does not constitute a precedent
+141,precedent,we are setting a precedent for the entire country
+142,cup,the world cup amused the people across the country
+142,cup,i need a cup of water
+142,cup,the baby knocked his cup over and spilled the water
+142,cup,you look a cup too low today
+142,cup,i need a cup of strong coffee
+142,cup,i feel like a cup of water
+142,cup,lynn plopped a paper cup down beside her
+142,cup,i dawdled over a cup of coffee instead of working
+142,cup,would you care for another cup of coffee
+142,cup,the pistil looks like a thin tube or cup
+143,cup,the world cup amused the people across the country
+143,cup,i need a cup of water
+143,cup,the baby knocked his cup over and spilled the water
+143,cup,you look a cup too low today
+143,cup,i need a cup of strong coffee
+143,cup,i feel like a cup of water
+143,cup,lynn plopped a paper cup down beside her
+143,cup,i dawdled over a cup of coffee instead of working
+143,cup,would you care for another cup of coffee
+143,cup,the pistil looks like a thin tube or cup
+144,cup,the world cup amused the people across the country
+144,cup,i need a cup of water
+144,cup,the baby knocked his cup over and spilled the water
+144,cup,you look a cup too low today
+144,cup,i need a cup of strong coffee
+144,cup,i feel like a cup of water
+144,cup,lynn plopped a paper cup down beside her
+144,cup,i dawdled over a cup of coffee instead of working
+144,cup,would you care for another cup of coffee
+144,cup,the pistil looks like a thin tube or cup
+145,cup,the world cup amused the people across the country
+145,cup,i need a cup of water
+145,cup,the baby knocked his cup over and spilled the water
+145,cup,you look a cup too low today
+145,cup,i need a cup of strong coffee
+145,cup,i feel like a cup of water
+145,cup,lynn plopped a paper cup down beside her
+145,cup,i dawdled over a cup of coffee instead of working
+145,cup,would you care for another cup of coffee
+145,cup,the pistil looks like a thin tube or cup
+146,cup,the world cup amused the people across the country
+146,cup,i need a cup of water
+146,cup,the baby knocked his cup over and spilled the water
+146,cup,you look a cup too low today
+146,cup,i need a cup of strong coffee
+146,cup,i feel like a cup of water
+146,cup,lynn plopped a paper cup down beside her
+146,cup,i dawdled over a cup of coffee instead of working
+146,cup,would you care for another cup of coffee
+146,cup,the pistil looks like a thin tube or cup
+147,cup,the world cup amused the people across the country
+147,cup,i need a cup of water
+147,cup,the baby knocked his cup over and spilled the water
+147,cup,you look a cup too low today
+147,cup,i need a cup of strong coffee
+147,cup,i feel like a cup of water
+147,cup,lynn plopped a paper cup down beside her
+147,cup,i dawdled over a cup of coffee instead of working
+147,cup,would you care for another cup of coffee
+147,cup,the pistil looks like a thin tube or cup
+148,cup,the world cup amused the people across the country
+148,cup,i need a cup of water
+148,cup,the baby knocked his cup over and spilled the water
+148,cup,you look a cup too low today
+148,cup,i need a cup of strong coffee
+148,cup,i feel like a cup of water
+148,cup,lynn plopped a paper cup down beside her
+148,cup,i dawdled over a cup of coffee instead of working
+148,cup,would you care for another cup of coffee
+148,cup,the pistil looks like a thin tube or cup
+149,cup,the world cup amused the people across the country
+149,cup,i need a cup of water
+149,cup,the baby knocked his cup over and spilled the water
+149,cup,you look a cup too low today
+149,cup,i need a cup of strong coffee
+149,cup,i feel like a cup of water
+149,cup,lynn plopped a paper cup down beside her
+149,cup,i dawdled over a cup of coffee instead of working
+149,cup,would you care for another cup of coffee
+149,cup,the pistil looks like a thin tube or cup
+150,cup,the world cup amused the people across the country
+150,cup,i need a cup of water
+150,cup,the baby knocked his cup over and spilled the water
+150,cup,you look a cup too low today
+150,cup,i need a cup of strong coffee
+150,cup,i feel like a cup of water
+150,cup,lynn plopped a paper cup down beside her
+150,cup,i dawdled over a cup of coffee instead of working
+150,cup,would you care for another cup of coffee
+150,cup,the pistil looks like a thin tube or cup
+151,cup,the world cup amused the people across the country
+151,cup,i need a cup of water
+151,cup,the baby knocked his cup over and spilled the water
+151,cup,you look a cup too low today
+151,cup,i need a cup of strong coffee
+151,cup,i feel like a cup of water
+151,cup,lynn plopped a paper cup down beside her
+151,cup,i dawdled over a cup of coffee instead of working
+151,cup,would you care for another cup of coffee
+151,cup,the pistil looks like a thin tube or cup
+152,jaguar,the black jaguar feeds on a wide range of animals
+152,jaguar,it is a jaguar with a yellow body and cool green hair
+152,jaguar,a baby jaguar is waiting to meet you
+152,jaguar,the little animal is a jaguar
+152,jaguar,an adult black jaguar can grow to be dg to dg meters long
+152,jaguar,a jaguar belongs to the cat family
+152,jaguar,humans hunt the jaguar for sport and for its fur
+152,jaguar,the black jaguar is a very good hunter
+152,jaguar,jaguar land rover and aston martin
+152,jaguar,scotto is heavier than venz and costlier to jaguar
+153,jaguar,the black jaguar feeds on a wide range of animals
+153,jaguar,it is a jaguar with a yellow body and cool green hair
+153,jaguar,a baby jaguar is waiting to meet you
+153,jaguar,the little animal is a jaguar
+153,jaguar,an adult black jaguar can grow to be dg to dg meters long
+153,jaguar,a jaguar belongs to the cat family
+153,jaguar,humans hunt the jaguar for sport and for its fur
+153,jaguar,the black jaguar is a very good hunter
+153,jaguar,jaguar land rover and aston martin
+153,jaguar,scotto is heavier than venz and costlier to jaguar
+154,energy,as usual she looked fresh and full of energy
+154,energy,some cells change chemical energy into electrical energy
+154,energy,nuclear energy is used to produce electricity
+154,energy,plants on earth need this energy
+154,energy,her work consumes most of her time and energy
+154,energy,the object of this study is to research energy use
+154,energy,imagine what dgdgdgdgdg people do to me with their energy
+154,energy,it was a waste of energy
+154,energy,its a waste of time and energy
+154,energy,sleep restores energy to the tired body
+155,secretary,she is the new secretary to help the president
+155,secretary,he dictated his speech to his secretary
+155,secretary,i was referred to the secretary for information
+155,secretary,the boss eased out his secretary
+155,secretary,he dropped his secretary into his lap
+155,secretary,ill put you through to his secretary
+155,secretary,the government appointed him to the post of secretary
+155,secretary,my secretary addressed the envelopes before mailing them
+155,secretary,ask his secretary just to be sure
+155,secretary,he dropped his secretary on his lap
+156,energy,as usual she looked fresh and full of energy
+156,energy,some cells change chemical energy into electrical energy
+156,energy,nuclear energy is used to produce electricity
+156,energy,plants on earth need this energy
+156,energy,her work consumes most of her time and energy
+156,energy,the object of this study is to research energy use
+156,energy,imagine what dgdgdgdgdg people do to me with their energy
+156,energy,it was a waste of energy
+156,energy,its a waste of time and energy
+156,energy,sleep restores energy to the tired body
+157,computer,im using the same computer and it works just fine
+157,computer,ive heard computer art is a promising job
+157,computer,this cd doesnt suit your computer
+157,computer,i bought the same computer as you did
+157,computer,that company is a giant in the computer industry
+157,computer,the new computer system will include most branch offices
+157,computer,the woman is using the computer
+157,computer,the woman is using a computer
+157,computer,computer talk can be funny at times
+157,computer,a new computer would be very expensive
+158,weapon,use the secret weapon as a counsel of despair
+158,weapon,heres a new weapon in the war on fat
+158,weapon,it seems you brought us a powerful weapon
+158,weapon,the said weapon was later found in the defendants home
+158,weapon,no weapon can match this one in fire power
+158,weapon,the west fears tehran wants to develop a nuclear weapon
+158,weapon,activate this secret weapon last of all
+158,weapon,pike was a main weapon of foot soldier in former times
+158,weapon,a nuclear weapon can lay waste a whole city
+158,weapon,the report outlined possible uses for the new weapon
+159,FBI,he is an agent for the fbi
+159,FBI,the story is about two fbi agents
+159,FBI,fbi agents stole in the criminals house
+159,FBI,the murder of the governor brought the fbi into action
+159,FBI,he had fallen foul of the fbi
+159,FBI,fbi spun the drum to catch up with the murder
+159,FBI,the fbi profile of the anthrax killer
+159,FBI,fbi is on their way over
+159,FBI,he was turned over to the fbi yesterday
+159,FBI,fbi thinks theyre working on a dirty bomb
+160,FBI,he is an agent for the fbi
+160,FBI,the story is about two fbi agents
+160,FBI,fbi agents stole in the criminals house
+160,FBI,the murder of the governor brought the fbi into action
+160,FBI,he had fallen foul of the fbi
+160,FBI,fbi spun the drum to catch up with the murder
+160,FBI,the fbi profile of the anthrax killer
+160,FBI,fbi is on their way over
+160,FBI,he was turned over to the fbi yesterday
+160,FBI,fbi thinks theyre working on a dirty bomb
+161,investigation,other companies are still under investigation
+161,investigation,after all the investigation police find what oclock it is
+161,investigation,i realized she was telling the truth on investigation
+161,investigation,a investigation on the actual management of apartment house
+161,investigation,a wide area of scientific investigation
+161,investigation,upon investigation it was found to be a mere rumor
+161,investigation,his name came up during the investigation
+161,investigation,he charged himself with the investigation
+161,investigation,an investigation of environmental colours of cbd in seoul
+161,investigation,investigation on the demand side management of energy source
+162,Mars,i can tell the mars and the venus apart
+162,Mars,it is conceivable that man will someday reach mars
+162,Mars,many people hope that there is life on mars
+162,Mars,the question was about mars but i didnt know the answer
+162,Mars,mars is the color of blood
+162,Mars,it is part of a new project to colonize mars
+162,Mars,nasa finds new evidence of liquid water on mars
+162,Mars,this information shaped the worlds beliefs about mars
+162,Mars,they found a big discovery about water on the mars
+162,Mars,whats the big deal about going to mars
+163,Mars,i can tell the mars and the venus apart
+163,Mars,it is conceivable that man will someday reach mars
+163,Mars,many people hope that there is life on mars
+163,Mars,the question was about mars but i didnt know the answer
+163,Mars,mars is the color of blood
+163,Mars,it is part of a new project to colonize mars
+163,Mars,nasa finds new evidence of liquid water on mars
+163,Mars,this information shaped the worlds beliefs about mars
+163,Mars,they found a big discovery about water on the mars
+163,Mars,whats the big deal about going to mars
+164,news,his speech was reported in news bulletin
+164,news,the news reported there were no injuries
+164,news,what news is reported regarding keppler inc
+164,news,that information is news to me
+164,news,reporters with a flair for news
+164,news,the news checks out with the facts in every detail
+164,news,the news of the disaster cast a chill over the party
+164,news,today is a slow news day
+164,news,the news blows my mind or the news knocks me for a loop
+164,news,then i guess you didnt find todays news unexpected
+165,canyon,the only way to cross the canyon is over a wooden bridge
+165,canyon,we feasted our eyes on grand canyon
+165,canyon,fight your way to the canyon floor
+165,canyon,over dg million people visit the grand canyon every year
+165,canyon,the grand canyon was formed by the colorado river
+165,canyon,from the top the view of the grand canyon is spectacular
+165,canyon,now there is a new way to view the canyon
+165,canyon,i went sightseeing around the grand canyon today
+165,canyon,about dgdgdgdg people even used to live in the grand canyon
+165,canyon,was there water in that canyon
+166,image,why is airtran using elton johns image
+166,image,dr ride believes part of the problem is image
+166,image,an image of the virgin mary
+166,image,hes an absolute spitting image of carl
+166,image,you are the image of your mom
+166,image,using the image processing preference editor
+166,image,the image of his visage still haunts me
+166,image,techniques used to capture an image
+166,image,the express image of a person
+166,image,tom and jack are spit and image
+167,discovery,a report on a new discovery
+167,discovery,his discovery resounded through the world
+167,discovery,let me show you my discovery
+167,discovery,i loved sharing my passion for discovery
+167,discovery,industry grew quickly after the discovery of electricity
+167,discovery,the teacher credits the discovery to the entire class
+167,discovery,this discovery was reserved for newton
+167,discovery,the scientist reported a new discovery
+167,discovery,this discovery has enhanced his reputation
+167,discovery,heuristics is called the discovery approach in education
+168,water,a man urged on people the need of water
+168,water,they supply water on alternate days
+168,water,distill fresh water from sea water
+168,water,the water filmed over with ice
+168,water,he drew water with a sieve in a shack without running water
+168,water,boil a lot of water in a pot
+168,water,the water cycle happens every day
+168,water,public systems provide water at little or no cost
+168,water,absorption of water by the earth
+168,water,the water whirled around the rocks
+169,sign,i teach sign language to gorillas
+169,sign,dont worry i can sign for you
+169,sign,id like to sign up for one year subscription to the forbes
+169,sign,i need you to sign for this delivery
+169,sign,the deaf and dumb talk in sign language
+169,sign,no and i didnt sign it either
+169,sign,dont forget to sign your name
+169,sign,anyone whos attending the party should sign up
+169,sign,the sign is over the doorway
+169,sign,yawning is a sign of sleepiness
+170,Wednesday,do you think i could borrow your notes from wednesday
+170,Wednesday,therell be a fire drill on wednesday afternoon
+170,Wednesday,please have your reports on my desk by dg am wednesday
+170,Wednesday,is our meeting on tuesday or wednesday
+170,Wednesday,the woman will leave for japan on wednesday
+170,Wednesday,we have to resolve this problem by next wednesday
+170,Wednesday,ill be taking the dgdgdg flight to dallas next wednesday
+170,Wednesday,wednesday afternoon would be better for me
+170,Wednesday,do you think they will deliver the new copier by wednesday
+170,Wednesday,we cant fill the order until wednesday
+171,mile,the man traveled mile upon mile
+171,mile,in a triathlon the people must first swim for a mile
+171,mile,we talked a mile a minute
+171,mile,the lake is a mile about
+171,mile,i jog about dg mile or so
+171,mile,you talk a mile a minute so it hardly registered with me
+171,mile,his jaw dropped a mile when he heard the surprising news
+171,mile,we rode a mile further before we stopped
+171,mile,it would be about a mile from here to town
+171,mile,a mile is equivalent to about dgdg kilometers
+172,computer,im using the same computer and it works just fine
+172,computer,ive heard computer art is a promising job
+172,computer,this cd doesnt suit your computer
+172,computer,i bought the same computer as you did
+172,computer,that company is a giant in the computer industry
+172,computer,the new computer system will include most branch offices
+172,computer,the woman is using the computer
+172,computer,the woman is using a computer
+172,computer,computer talk can be funny at times
+172,computer,a new computer would be very expensive
+173,territory,a territory overrun by enemy forces
+173,territory,sometimes the boring work comes with the territory
+173,territory,erect a territory into a state
+173,territory,the seizure of territory through force
+173,territory,in dgdgdg bc the persian empire was expanding its territory
+173,territory,the country ceded territory to a bigger nation
+173,territory,a study on living territory of children in apartment sites
+173,territory,most countries in south america have a vast territory
+173,territory,the troops rested on the confines of the territory
+173,territory,the territory and people are the objects of the state
+174,atmosphere,the atmosphere would be a nice change of pace
+174,atmosphere,the mind is the atmosphere of the soul
+174,atmosphere,a tense atmosphere could be felt in the village
+174,atmosphere,the atmosphere is becoming more polluted each day
+174,atmosphere,i dont like the atmosphere of this restaurant
+174,atmosphere,the atmosphere mellows whenever shes around
+174,atmosphere,it circles the globe high in the atmosphere
+174,atmosphere,the restaurant has a familial atmosphere
+174,atmosphere,how is the atmosphere at mahoney amp porcellis described
+174,atmosphere,anthony felt the need to lighten the atmosphere
+175,president,she is the new secretary to help the president
+175,president,how many candidates are running for president
+175,president,it has its own president elected every dg years
+175,president,the president fell from the peoples favor
+175,president,im sorry the president is out at the present time
+175,president,the able president devised simple but effective solutions
+175,president,the president is the symbol of the state
+175,president,the president announced a new policy
+175,president,the problems confronting the new president
+175,president,reporters deluged the president with questions
+176,war,he is in the trade of war
+176,war,ill try the fortune of war
+176,war,the tide of war turned in our favor
+176,war,american troops and supplies helped end the war
+176,war,after war lots of slaves kicked over the traces
+176,war,there was another war on the heels of the conflict
+176,war,a cloud of wara war cloud
+176,war,my heart bleeds for those people in a civil war
+176,war,world war ii had been raging for more than four years
+176,war,the civil war was a long war
+177,record,was a moment in time it was a perfect record
+177,record,that record numbers among the top ten
+177,record,check your phone record thatll be a clue
+177,record,success depends on the report of ones school record
+177,record,i need to look at each record before i visit my patients
+177,record,he currently holds the world record
+177,record,no one is beyond his record
+177,record,where is the closest record shop around here
+177,record,do i just record those expenses on my expense report
+177,record,let me put myself on record about the topic
+178,skin,they use ointments on peoples skin
+178,skin,shes a pretty bit of skin
+178,skin,this is no skin off my nose
+178,skin,thats no skin off my nose
+178,skin,that old horse is all skin and bones i wont ride it
+178,skin,bill was so startled he almost flew out of his skin
+178,skin,they were just all skin and bones
+178,skin,bill was so startled he almost jumped out of his skin
+178,skin,he stuck dozens of needles into my skin
+178,skin,after fasting for a whole month she was all skin and bones
+179,Japanese,there is even a special room for it in japanese homes
+179,Japanese,an advanced unit of japanese soldiers is on its way to iraq
+179,Japanese,hello kitty is the japanese cat exported to the world
+179,Japanese,what is true about the japanese garden lecture series
+179,Japanese,japanese dont wear kimonos as often as they used to
+179,Japanese,i can speak japanese a little
+179,Japanese,where did you learn to speak japanese
+179,Japanese,its the fact that japanese love our products
+179,Japanese,the japanese army lowered their flag
+179,Japanese,id rather have some japanese food
+180,theater,there is a movie theater near here my house
+180,theater,i worked at a movie theater to pay my living expenses
+180,theater,please exit the theater by the side doors
+180,theater,well i havent been to the movie theater for a long time
+180,theater,you mean the theater right across from the gas station
+180,theater,a large number of people queued up before the theater
+180,theater,what is true of the omalley theater
+180,theater,after a wave of people the theater turns into a dump
+180,theater,our college theater group did macbeth
+180,theater,for information about movies and theater events press one
+181,volunteer,i dont know how many will volunteer to help with this
+181,volunteer,she had an invaluable experience as a community volunteer
+181,volunteer,dgdg of the students volunteer at childrens centers
+181,volunteer,youd better volunteer for the first song
+181,volunteer,volunteer doctors are offering free pap tests
+181,volunteer,one volunteer is better than ten forced men
+181,volunteer,arent they going to volunteer for the committee
+181,volunteer,however she didnt show up for the volunteer work
+181,volunteer,many students do volunteer works these days
+181,volunteer,i plan to do volunteer work during the vacation
+182,prejudice,one of them is pride and prejudice
+182,prejudice,i have a prejudice against the country
+182,prejudice,a judge must be free from prejudice
+182,prejudice,he has a prejudice in our favor
+182,prejudice,the best safeguard against prejudice is knowledge
+182,prejudice,she terminated the president of usa with extreme prejudice
+182,prejudice,a subjective judgment can sometimes lead to prejudice
+182,prejudice,ive spent a lifetime fighting against racism and prejudice
+182,prejudice,she has a prejudice against you
+182,prejudice,the attack worked to the prejudice of his reputation
+183,decoration,invest a person with a decoration
+183,decoration,the same decoration on the other shoe is missing
+183,decoration,lastly i sprinkled the colored paper on as decoration
+183,decoration,the medal is the highest decoration in the country
+183,decoration,adds a new decoration text to this plot or plot template
+183,decoration,his recent decoration by france ofwith the order of
+183,decoration,draw the cross section decoration geometry
+183,decoration,my entire decoration staff just quit
+183,decoration,in the cs decoration container click new
+183,decoration,you wouldnt have much left over for decoration
+184,century,puppets started to be used after the dgst century
+184,century,it started in the dgdgth century in the american colonies
+184,century,the second quarter of the century
+184,century,the middle part of the dgdgth century
+184,century,near the end of the century
+184,century,it was built in the middle of the dgth century
+184,century,a spirit of progress marked the dgdgth century
+184,century,humanism has flourished in this century
+184,century,this picture is referred to the sixth century
+184,century,we see india as a strategic partner in the dgdgst century
+185,century,puppets started to be used after the dgst century
+185,century,it started in the dgdgth century in the american colonies
+185,century,the second quarter of the century
+185,century,the middle part of the dgdgth century
+185,century,near the end of the century
+185,century,it was built in the middle of the dgth century
+185,century,a spirit of progress marked the dgdgth century
+185,century,humanism has flourished in this century
+185,century,this picture is referred to the sixth century
+185,century,we see india as a strategic partner in the dgdgst century
+186,delay,we must delay our decision for a day
+186,delay,the delay furnished me with the time i needed
+186,delay,there is no reason for delay
+186,delay,the troops were called out without delay
+186,delay,there is no reason for delay
+186,delay,we must allow for some delay
+186,delay,there is no time to lose or it admits of no delay
+186,delay,the delay is due to the bad weather
+186,delay,waste no time or dont delay or theres no time to lose
+186,delay,i want this work finished without delay
+187,delay,we must delay our decision for a day
+187,delay,the delay furnished me with the time i needed
+187,delay,there is no reason for delay
+187,delay,the troops were called out without delay
+187,delay,there is no reason for delay
+187,delay,we must allow for some delay
+187,delay,there is no time to lose or it admits of no delay
+187,delay,the delay is due to the bad weather
+187,delay,waste no time or dont delay or theres no time to lose
+187,delay,i want this work finished without delay
+188,minister,he charged the minister with lying about the economy
+188,minister,the prime minister mounted the platform
+188,minister,ive decided to become a minister when i grow up
+188,minister,the story about the new finance minister
+188,minister,the king promoted him to the rank of a minister
+188,minister,the minister put in his clutch for a moment
+188,minister,the minister authorized him to do it
+188,minister,the minister let daylight into new political measures
+188,minister,the minister of construction stuck to his last
+188,minister,but the british prime minister dismissed those claims
+189,peace,i hope paula rest in peace
+189,peace,may your noble soul rest in peace
+189,peace,the peace of the rural life
+189,peace,only the just man enjoys peace of mind
+189,peace,they formed a treaty of peace and goodwill this year
+189,peace,may peace and happiness be yours in the new year
+189,peace,destroy the peace of the world
+189,peace,old joe laid down lifes burden and is now resting in peace
+189,peace,all the world is at peace
+189,peace,leave an old man in peace to let him enjoy his last days
+190,minority,we are in the minority or we are a minority group
+190,minority,they are in a decided minority
+190,minority,blacks in the city formed a minority political party
+190,minority,so far only a tiny minority strikes it rich in china
+190,minority,therefore the white south africans are the minority
+190,minority,the minority must be ruled by the majority
+190,minority,should there be a law to protect minority languages
+190,minority,a small minority of thoughtless and inconsiderate people
+190,minority,minority in number doesnt mean less important
+190,minority,biracial children are a minority in the nation
+191,attempt,he is the last man to succeed in the attempt
+191,attempt,an attempt on a persons life
+191,attempt,it approaches madness to attempt such a thing
+191,attempt,the attempt was rather a failure
+191,attempt,she managed to pass her driving test on the eighth attempt
+191,attempt,click cancel to attempt to continue
+191,attempt,his first attempt came to a failure
+191,attempt,attempt to update system reserved property
+191,attempt,attempt to compute the expression failed
+191,attempt,you can lose everything when you attempt too much
+192,government,the government exists for the sum of things
+192,government,the booklet was issued by the government
+192,government,we are working for government offices
+192,government,my daddy works for the government
+192,government,the government faces a key test of voter sentiment may dg
+192,government,the government is pushing to lower mobile phone charges
+192,government,mr lagos says that his government may also investigate
+192,government,she is an examiner for the state government
+192,government,the government wont allow you to stir up the poor people
+192,government,the uzbekistan government puts the death toll at dgdgdg
+193,deployment,starts the expected deployment results wizard
+193,deployment,upgrading agents using product deployment task
+193,deployment,the deployment of american forces in the region
+193,deployment,agile service delivery for faster deployment
+193,deployment,upgrading agents using the deployment task
+193,deployment,use your own deployment tools to push configuration changes
+193,deployment,trained staff on the solution deployment
+193,deployment,faster deployment of new business initiatives
+193,deployment,permissions deploying agents using deployment wizard
+193,deployment,accelerate deployment to meet aggressive timelines
+194,deployment,starts the expected deployment results wizard
+194,deployment,upgrading agents using product deployment task
+194,deployment,the deployment of american forces in the region
+194,deployment,agile service delivery for faster deployment
+194,deployment,upgrading agents using the deployment task
+194,deployment,use your own deployment tools to push configuration changes
+194,deployment,trained staff on the solution deployment
+194,deployment,faster deployment of new business initiatives
+194,deployment,permissions deploying agents using deployment wizard
+194,deployment,accelerate deployment to meet aggressive timelines
+195,energy,as usual she looked fresh and full of energy
+195,energy,some cells change chemical energy into electrical energy
+195,energy,nuclear energy is used to produce electricity
+195,energy,plants on earth need this energy
+195,energy,her work consumes most of her time and energy
+195,energy,the object of this study is to research energy use
+195,energy,imagine what dgdgdgdgdg people do to me with their energy
+195,energy,it was a waste of energy
+195,energy,its a waste of time and energy
+195,energy,sleep restores energy to the tired body
+196,announcement,she held back the announcement for a week
+196,announcement,did you hear the captains announcement
+196,announcement,he made a shock announcement last night
+196,announcement,did you hear what the announcement said just now
+196,announcement,didnt you listen to the announcement in the school today
+196,announcement,what did you do when you heard the announcement
+196,announcement,did you hear the announcement just a minute ago
+196,announcement,to whom is the announcement directed
+196,announcement,we interrupt this program for a special announcement
+196,announcement,what does the announcement say about flight ngdgdgdg
+197,announcement,she held back the announcement for a week
+197,announcement,did you hear the captains announcement
+197,announcement,he made a shock announcement last night
+197,announcement,did you hear what the announcement said just now
+197,announcement,didnt you listen to the announcement in the school today
+197,announcement,what did you do when you heard the announcement
+197,announcement,did you hear the announcement just a minute ago
+197,announcement,to whom is the announcement directed
+197,announcement,we interrupt this program for a special announcement
+197,announcement,what does the announcement say about flight ngdgdgdg
+198,stroke,he would stroke the way of his girlfriend
+198,stroke,he fell victim to a stroke
+198,stroke,dont stroke her fur the wrong way
+198,stroke,i didnt mean to put you off your stroke
+198,stroke,spoiled kids stroke parents the wrong way
+198,stroke,kim stroke a happy medium at the debate competition
+198,stroke,turning the factory into a museum was a stroke of genius
+198,stroke,bush stroke a warning against terrorism
+198,stroke,how to improve your breast stroke
+198,stroke,she is a stroke above him
+199,disability,use of illegal drugs can lead to disability and death
+199,disability,issues on the disability discrimination act in korea
+199,disability,paper file or separate disability system
+199,disability,raise a child with a disability
+199,disability,she was determined to overcome her disability
+199,disability,frequently a person with a disability has multiple needs
+199,disability,integrating the management of disability benefits
+199,disability,current approach to applying for disability benefits
+199,disability,revised approach to applying for disability benefits
+199,disability,can you imagine the life of a person with a disability
+200,victim,he fell victim to a stroke
+200,victim,she fell a victim to his schemes
+200,victim,the police still doesnt know what hit the victim
+200,victim,the man has become a victim of their scheme
+200,victim,the criminal attacked his victim with a club
+200,victim,the accident victim fell helpless on the street
+200,victim,the accident victim has amnesia and cant remember her name
+200,victim,the victim finally had her revenge on the criminal
+200,victim,the snake coiled around its victim
+200,victim,the victim had been stabbed three times in the chest
+201,treatment,he must be sent to hospital for treatment
+201,treatment,the first treatment didnt do much
+201,treatment,in a treatment room another doctor put his leg in a cast
+201,treatment,do you think hair treatment is necessary
+201,treatment,i want to receive fair treatment
+201,treatment,the best service nature provides is the treatment of waste
+201,treatment,he is indignant with them over the treatment he received
+201,treatment,man what is your opinion on provenge as a cancer treatment
+201,treatment,she is receiving a new noninvasive cancer treatment
+201,treatment,prevention is thought to be more important than treatment
+202,journal,the journalist turned a phrase for the journal
+202,journal,the report appeared in the journal psychopharmacology
+202,journal,his ideas were lifted from an article in a journal
+202,journal,change of aik journal submission procedure
+202,journal,stop recording journal file stop journal
+202,journal,dgdg years contents of journal of kief
+202,journal,the study was published in the journal nature
+202,journal,before the test the first group wrote in a journal
+202,journal,he keeps a journal of daily events
+202,journal,the study is published in the journal plos one
+203,doctor,there is a doctor on call dgdg hours a day
+203,doctor,the doctor is measuring the old mans pulse rate
+203,doctor,i dismissed an idea from my mind of becoming a doctor
+203,doctor,he wants to be a doctor when he grows up
+203,doctor,she wants to be a doctor when she grows up
+203,doctor,he spent years studying to be a doctor
+203,doctor,a doctor brought a child through fever
+203,doctor,that doctor is their last hope
+203,doctor,the sick man entreated the doctor to ease his pain
+203,doctor,the doctor said rest without help heal my leg wound
+204,doctor,there is a doctor on call dgdg hours a day
+204,doctor,the doctor is measuring the old mans pulse rate
+204,doctor,i dismissed an idea from my mind of becoming a doctor
+204,doctor,he wants to be a doctor when he grows up
+204,doctor,she wants to be a doctor when she grows up
+204,doctor,he spent years studying to be a doctor
+204,doctor,a doctor brought a child through fever
+204,doctor,that doctor is their last hope
+204,doctor,the sick man entreated the doctor to ease his pain
+204,doctor,the doctor said rest without help heal my leg wound
+205,liability,his lack of education is his biggest liability
+205,liability,liability statement assumed by the distributor
+205,liability,effects of product liability on construction industry
+205,liability,poor handwriting is a liability in getting a job
+205,liability,exposure to liability because of safety issues
+205,liability,poor handwriting is a liability in getting a job
+205,liability,this could limit or exclude liability in your case
+205,liability,there are liability issues donor concerns
+205,liability,lastly there is also administrative liability
+205,liability,they said im too much of a liability
+206,school,he was a year ahead of me in school
+206,school,what is the students special plan for the new school year
+206,school,a new school year began today
+206,school,the school year book will be published soon
+206,school,he is on the staff of the middle school
+206,school,he beat his brother home from school
+206,school,he is planning to return to school next year
+206,school,he graduated from the school one year ahead of me
+206,school,this school was founded a hundred years ago
+206,school,they put him on the teaching staff of the school
+207,reason,lets reason whether your answer is correct or not
+207,reason,the reason for this lies in the buildings themselves
+207,reason,people use airbags for safety reason
+207,reason,for no other reason than that
+207,reason,is there some reason why youre here
+207,reason,the probable reason for the fire
+207,reason,this is the reason why im here
+207,reason,his opinion is accordant to reason
+207,reason,there is reason to believe that
+207,reason,reason distinguishes man from the animals
+208,reason,lets reason whether your answer is correct or not
+208,reason,the reason for this lies in the buildings themselves
+208,reason,people use airbags for safety reason
+208,reason,for no other reason than that
+208,reason,is there some reason why youre here
+208,reason,the probable reason for the fire
+208,reason,this is the reason why im here
+208,reason,his opinion is accordant to reason
+208,reason,there is reason to believe that
+208,reason,reason distinguishes man from the animals
+209,hundred,this school was founded a hundred years ago
+209,hundred,few live to be one hundred years old
+209,hundred,the newspaper has been in existence for one hundred years
+209,hundred,a few hundred years ago all servants were all found
+209,hundred,four hundred new toilets a year through dgdgdgdg
+209,hundred,were expecting about one hundred people
+209,hundred,this is priced at five hundred won
+209,hundred,four hundred years ago korea had a war with japan
+209,hundred,marys one in a hundred such a hard worker
+209,hundred,that company owes the bank over a hundred million won
+210,Harvard,he is a professor at harvard and a man of letters
+210,Harvard,a harvard medical school study backs that up
+210,Harvard,he is a graduate of harvard business school
+210,Harvard,you can never enter harvard university suppose i do
+210,Harvard,people at harvard and mit read a lot
+210,Harvard,to enter harvard university want some doing
+210,Harvard,he also works at harvard medical school
+210,Harvard,harvard is the oldest university in the united states
+210,Harvard,harvard scientists have reversed aging in mice
+210,Harvard,she also applied to harvard university
+211,hospital,my car stopped suddenly on the way to the hospital
+211,hospital,they drove the injured people to the hospital
+211,hospital,my mother worked nights in a hospital
+211,hospital,the man is in the hospital
+211,hospital,that hospital has an inpatient clinic for people with aids
+211,hospital,i worked in the hospital snack bar then
+211,hospital,no way well end up in the hospital
+211,hospital,you must stay in the hospital for another week
+211,hospital,the nurses felt concern about cuts in hospital funds
+211,hospital,he was discharged from the hospital
+212,death,what was mr crosbys profession at the time of his death
+212,death,the father was inconsolable after the death of his child
+212,death,people put the witch to death
+212,death,the us death rate from cancer increased last year
+212,death,death like birth a secret of nature
+212,death,thousands of people died a violent death in the earthquake
+212,death,the bells tolled a death knell
+212,death,the uzbekistan government puts the death toll at dgdgdg
+212,death,she saved money like grim death
+212,death,use of illegal drugs can lead to disability and death
+213,death,what was mr crosbys profession at the time of his death
+213,death,the father was inconsolable after the death of his child
+213,death,people put the witch to death
+213,death,the us death rate from cancer increased last year
+213,death,death like birth a secret of nature
+213,death,thousands of people died a violent death in the earthquake
+213,death,the bells tolled a death knell
+213,death,the uzbekistan government puts the death toll at dgdgdg
+213,death,she saved money like grim death
+213,death,use of illegal drugs can lead to disability and death
+214,lawyer,he turned the information over to the lawyer
+214,lawyer,i handed the contract to my lawyer
+214,lawyer,the committee struck the sentenced lawyer off the rolls
+214,lawyer,i drafted a letter and showed it to my lawyer
+214,lawyer,will the contract be reviewed by a lawyer
+214,lawyer,after law school he passed the exam and became a lawyer
+214,lawyer,the lawyer appear before the bench
+214,lawyer,her lawyer requested a change of venue
+214,lawyer,a good lawyer should not forget
+214,lawyer,the lawyer touched on the issue on the windy side
+215,life,some religions teach pacifism as a way of life
+215,life,love in a cottage is also included in a happy life
+215,life,we prize liberty more than life
+215,life,the judge condemned the criminal to life in prison
+215,life,she rescued the man at the hazard of her own life
+215,life,two were sentenced on saturday to life in prison
+215,life,youth is the flower of life or youth is a treasure
+215,life,my love life is nonexistence at the moment
+215,life,he was sentenced to dgdg years to life in prison
+215,life,the peace of the rural life
+216,life,some religions teach pacifism as a way of life
+216,life,love in a cottage is also included in a happy life
+216,life,we prize liberty more than life
+216,life,the judge condemned the criminal to life in prison
+216,life,she rescued the man at the hazard of her own life
+216,life,two were sentenced on saturday to life in prison
+216,life,youth is the flower of life or youth is a treasure
+216,life,my love life is nonexistence at the moment
+216,life,he was sentenced to dgdg years to life in prison
+216,life,the peace of the rural life
+217,word,word has it that they arent together anymore
+217,word,the kind man was better than his word and helped us
+217,word,i pledge my word to loving you
+217,word,thanks for the word of encouragement
+217,word,the figurative use of a word
+217,word,it is not the proper word or the word is misleading
+217,word,an exceptional use of a word
+217,word,it was a word that two cheers i was happy
+217,word,both of them were so shook up they couldnt utter a word
+217,word,use a comma between words or word groups
+218,board,the carpenter bored out a hole through a thick board
+218,board,the girl is looking at the board
+218,board,they are looking at the board
+218,board,the several members of the board
+218,board,two ships were board and board in the harbor
+218,board,the board of directors turned down the proposal
+218,board,she was up to every move of the board
+218,board,would you please post this on the bulletin board for me
+218,board,shoot the edge of a board
+218,board,the company increased the salaries by dgdg across the board
+219,governor,the murder of the governor brought the fbi into action
+219,governor,governor wolfowitz is still an unknown character
+219,governor,the governor of the bank of england
+219,governor,the governor called on state residents to conserve water
+219,governor,the governor will attend the dedication of the new park
+219,governor,the governor has jurisdiction over his state
+219,governor,i know i will be an excellent governor
+219,governor,the judge swore in the new governor
+219,governor,the governor called the police officer to account
+219,governor,the governor had to bite his cheeks in public
+220,OPEC,opec oil prices soared to above dgdg a barrel
+220,OPEC,opec accounts for about dgdg percent of the global oil supply
+220,OPEC,opec has reason to be cautious
+220,OPEC,the truth is i know people involved with opec
+220,OPEC,opec is not scheduled to meet until december
+220,OPEC,opec still has an impact on the market
+220,OPEC,then we cannot be held hostage by the opec countries
+220,OPEC,opec decided to increase its output of oil
+220,OPEC,opec is not looking out for us
+220,OPEC,meanwhile today opec sits on the fence
+221,peace,i hope paula rest in peace
+221,peace,may your noble soul rest in peace
+221,peace,the peace of the rural life
+221,peace,only the just man enjoys peace of mind
+221,peace,they formed a treaty of peace and goodwill this year
+221,peace,may peace and happiness be yours in the new year
+221,peace,destroy the peace of the world
+221,peace,old joe laid down lifes burden and is now resting in peace
+221,peace,all the world is at peace
+221,peace,leave an old man in peace to let him enjoy his last days
+222,peace,i hope paula rest in peace
+222,peace,may your noble soul rest in peace
+222,peace,the peace of the rural life
+222,peace,only the just man enjoys peace of mind
+222,peace,they formed a treaty of peace and goodwill this year
+222,peace,may peace and happiness be yours in the new year
+222,peace,destroy the peace of the world
+222,peace,old joe laid down lifes burden and is now resting in peace
+222,peace,all the world is at peace
+222,peace,leave an old man in peace to let him enjoy his last days
+223,territory,a territory overrun by enemy forces
+223,territory,sometimes the boring work comes with the territory
+223,territory,erect a territory into a state
+223,territory,the seizure of territory through force
+223,territory,in dgdgdg bc the persian empire was expanding its territory
+223,territory,the country ceded territory to a bigger nation
+223,territory,a study on living territory of children in apartment sites
+223,territory,most countries in south america have a vast territory
+223,territory,the troops rested on the confines of the territory
+223,territory,the territory and people are the objects of the state
+224,travel,book your passage early if you want to travel to japan
+224,travel,what service is not offered by atevo travel
+224,travel,i want to meet many people and travel all over the world
+224,travel,there was a time when people didnt travel around so much
+224,travel,an alternative way would be to travel by railroad
+224,travel,how fast does the eurotrain travel
+224,travel,i want to travel around the world
+224,travel,i like to travel by train
+224,travel,i love to travel by train
+224,travel,hes in bad health so he cant travel
+225,competition,competition for such jobs will be strong
+225,competition,theres a lot of competition in the domestic market
+225,competition,the losing team was eliminated from further competition
+225,competition,what does the speaker say about foreign competition
+225,competition,the competition between the powers is growing in intensity
+225,competition,she ended up winning the competition
+225,competition,kim stroke a happy medium at the debate competition
+225,competition,the competition for the dgdgdgdg games is as fierce as ever
+225,competition,we must win the competition at any price
+225,competition,that means the strong survive through competition
+226,consumer,let the business respond to consumer demand
+226,consumer,what is said about consumer prices
+226,consumer,what drives the consumer to consume
+226,consumer,sales of consumer durables increased last quarter
+226,consumer,what do tests show about consumer preferences
+226,consumer,consumer perceived reduction in service quality
+226,consumer,consumer products end user license agreement
+226,consumer,the price of consumer goods has risen
+226,consumer,minor power consumer like mobile antenna
+226,consumer,increased consumer content creation and feedback
+227,consumer,let the business respond to consumer demand
+227,consumer,what is said about consumer prices
+227,consumer,what drives the consumer to consume
+227,consumer,sales of consumer durables increased last quarter
+227,consumer,what do tests show about consumer preferences
+227,consumer,consumer perceived reduction in service quality
+227,consumer,consumer products end user license agreement
+227,consumer,the price of consumer goods has risen
+227,consumer,minor power consumer like mobile antenna
+227,consumer,increased consumer content creation and feedback
+228,problem,their questions focused on the problem
+228,problem,pollution will be a very big problem in the future
+228,problem,in many countries overcrowded cities face a major problem
+228,problem,what did the company do after solving the problem of flavor
+228,problem,he with some problem speak his mind to his true friend
+228,problem,i think we have to overcome the pollution problem first
+228,problem,the problem is easy within capacity
+228,problem,he solved this problem in no time at all
+228,problem,what is the man s problem
+228,problem,six years later i no longer have that problem
+229,car,im looking for a used car
+229,car,i hear youre in the market for a used car
+229,car,look in the yellow pages for used car dealers
+229,car,my car is in the parking lot
+229,car,there is a car waiting for you this way please
+229,car,his clothes are covered with crud from working on his car
+229,car,my car stopped suddenly on the way to the hospital
+229,car,as a matter of fact my mother wants to sell her car
+229,car,please step to the rear of the car
+229,car,the car is in front of the truck
+230,credit,indeed many people use credit cards
+230,credit,people tend to overuse credit cards
+230,credit,credit a person with dgdgcredit dgdg to a person
+230,credit,i paid by credit card for the present
+230,credit,you deserve a lot of credit for that
+230,credit,one problem is that people tend to overuse credit cards
+230,credit,will you pay in cash or by credit card
+230,credit,well i would just look at these credit ratings
+230,credit,credit a person with rare intelligence
+230,credit,they deserve some degree of credit
+231,credit,indeed many people use credit cards
+231,credit,people tend to overuse credit cards
+231,credit,credit a person with dgdgcredit dgdg to a person
+231,credit,i paid by credit card for the present
+231,credit,you deserve a lot of credit for that
+231,credit,one problem is that people tend to overuse credit cards
+231,credit,will you pay in cash or by credit card
+231,credit,well i would just look at these credit ratings
+231,credit,credit a person with rare intelligence
+231,credit,they deserve some degree of credit
+232,hotel,im looking for the park view hotel
+232,hotel,did you reserve our hotel room yet
+232,hotel,the people are leaving the hotel
+232,hotel,people are sitting in front of the hotel
+232,hotel,put it on my hotel bill please
+232,hotel,right now im working at the regal hotel as a receptionist
+232,hotel,which hotel is said to be near central park
+232,hotel,he assigned us the best room of the hotel
+232,hotel,itll be added to your hotel bill
+232,hotel,i booked in a hotel room
+233,grocery,theres a grocery store across the way
+233,grocery,there is a grocery store in way of the main gate
+233,grocery,yes i ran into him at the grocery store last week
+233,grocery,she summed up bills at the grocery store
+233,grocery,can you think of anything we need from the grocery store
+233,grocery,paul stopped by the grocery store
+233,grocery,a grocery store is on the third floor
+233,grocery,i need to get grocery shopping done this afternoon
+233,grocery,i need to get some grocery shopping done this afternoon
+233,grocery,in large city they opened small grocery stores
+234,registration,please fill out this registration form
+234,registration,please fill in this registration form
+234,registration,would you fill in this registration form please
+234,registration,i need you to complete this registration card
+234,registration,please fill out this registration card
+234,registration,the university has a large registration of chinese students
+234,registration,will you fill out this registration form
+234,registration,may i have your license and registration please
+234,registration,will you fill out this registration card
+234,registration,registration for the class is first come first serve basis
+235,arrangement,the arrangement of stars in ursa major looks like a bear
+235,arrangement,an arrangement in silver and gold
+235,arrangement,im trying to figure out the seating arrangement
+235,arrangement,the students walked across the street in arrangement
+235,arrangement,did they conclude upon an arrangement with each other
+235,arrangement,the changing characteristics of campus arrangement system
+235,arrangement,are you comfortable with the arrangement
+235,arrangement,the guitarist wrote a new arrangement of the old song
+235,arrangement,ill leave the arrangement of time and place to you
+235,arrangement,this arrangement necessitated our early start
+236,month,i have night duty several times a month
+236,month,my pa turns dgdg years old this month
+236,month,how many times do you eat out a month
+236,month,he skipped chemistry class three times last month
+236,month,ill let you slide this time but no mercy next month
+236,month,what service is offered for dgdgdg a month
+236,month,its as busy grand central station at the end of a month
+236,month,his contract is up at the end of the month
+236,month,rent is due by the end of the month
+236,month,they timed their visit at once per a month
+237,type,he is a man of the athletic type
+237,type,type the name of the city or town where you live here
+237,type,would you type these letters for me
+237,type,the present age demands men of such type
+237,type,the new teacher is a different type of man
+237,type,the woman is the type who sits on her desk
+237,type,what type of work are the listeners training for
+237,type,diffusion is a type of cultural change
+237,type,what type of publication is everyday life
+237,type,the general is the type of man who battles his way
+238,arrival,the expected time of arrival is dgdgdgdgpm
+238,arrival,the new arrival is a girl
+238,arrival,its estimated arrival time is now dgdgdg
+238,arrival,please send me word of your safe arrival
+238,arrival,congrats on the arrival of your new son
+238,arrival,how long will the flight s arrival in paris be delayed
+238,arrival,her late arrival delayed the start of the meeting
+238,arrival,the doctor said toms family that tom was dead on arrival
+238,arrival,the press is waiting for presidents arrival
+238,arrival,the new arrival time for los angeles will be dgdgdg pm
+239,bed,there is a sick bed within the enclosure of this school
+239,bed,he put the children to bed
+239,bed,theres a bed a table and two chairs in this room
+239,bed,working in a coal mine is no bed of roses
+239,bed,she is lying in her bed she looks sick
+239,bed,the father laid his baby on the bed
+239,bed,the bed room of the model apartment has elegant furniture
+239,bed,the hat is on the bed
+239,bed,i expect you to treat the bed of honor with respect
+239,bed,hell stay in bed for at least half a month
+240,closet,just look at the closet space in here
+240,closet,its the skeleton in our family closet
+240,closet,the papersre stored in the hall closet
+240,closet,we should stop this kind of debate of the closet
+240,closet,he emptied the closet of all its things
+240,closet,i combed through the closet looking for my ring
+240,closet,what were you doing in the closet of all places
+240,closet,the shirts are hanging on the chair in front of the closet
+240,closet,i hang my clothes in the closet every night
+240,closet,dad put the hat in the closet
+241,situation,it looks like youre in a very tough situation
+241,situation,that situation is common in a broad way
+241,situation,he says the situation in his state is reaching a crisis
+241,situation,is there another way to solve the situation here
+241,situation,a delightful situation for a house
+241,situation,the times are favorable or the situation is opportune
+241,situation,the situation is in no way serious
+241,situation,korea was in miserable situation in those days
+241,situation,there was a sudden change in the situation
+241,situation,many people say my situation is hopeless
+242,situation,it looks like youre in a very tough situation
+242,situation,that situation is common in a broad way
+242,situation,he says the situation in his state is reaching a crisis
+242,situation,is there another way to solve the situation here
+242,situation,a delightful situation for a house
+242,situation,the times are favorable or the situation is opportune
+242,situation,the situation is in no way serious
+242,situation,korea was in miserable situation in those days
+242,situation,there was a sudden change in the situation
+242,situation,many people say my situation is hopeless
+243,impartiality,impartiality is essential to a judge
+243,impartiality,the official said the eu has an image of impartiality
+243,impartiality,a reputation for political neutrality and impartiality
+243,impartiality,impartiality is absolutely essential to a judge
+243,impartiality,justice is defined as fairness and impartiality
+243,impartiality,a man of eminent impartiality
+243,impartiality,newspapers do not generally impair broadcast impartiality
+243,impartiality,some of us are losing faith in bbc impartiality
+243,impartiality,impartiality is the bbcs major strength and trumph card
+243,impartiality,i wish people would not ascribe impartiality to the bbc
+244,direction,theyre looking in the same direction
+244,direction,its really quite a necessary and natural direction
+244,direction,im not quite sure you even have a direction
+244,direction,which direction are you going in
+244,direction,which direction were you going in
+244,direction,im afraid youre going in the wrong direction
+244,direction,i called the buyer under a my boss direction
+244,direction,a new direction in language teaching
+244,direction,in which direction was the shore
+244,direction,we are driving in a westward direction
+245,street,she joined a street gang when she was dgdg years old
+245,street,the man left his machine in the street
+245,street,theres lots of parking on the street
+245,street,a worker is resting on a bench by the street
+245,street,the people are crossing the street
+245,street,there are people crossing the street
+245,street,people are walking on the street
+245,street,the man is parking his car on the street
+245,street,a lot of people are on the street
+245,street,a worker is crossing the street
+246,street,she joined a street gang when she was dgdg years old
+246,street,the man left his machine in the street
+246,street,theres lots of parking on the street
+246,street,a worker is resting on a bench by the street
+246,street,the people are crossing the street
+246,street,there are people crossing the street
+246,street,people are walking on the street
+246,street,the man is parking his car on the street
+246,street,a lot of people are on the street
+246,street,a worker is crossing the street
+247,street,she joined a street gang when she was dgdg years old
+247,street,the man left his machine in the street
+247,street,theres lots of parking on the street
+247,street,a worker is resting on a bench by the street
+247,street,the people are crossing the street
+247,street,there are people crossing the street
+247,street,people are walking on the street
+247,street,the man is parking his car on the street
+247,street,a lot of people are on the street
+247,street,a worker is crossing the street
+248,street,she joined a street gang when she was dgdg years old
+248,street,the man left his machine in the street
+248,street,theres lots of parking on the street
+248,street,a worker is resting on a bench by the street
+248,street,the people are crossing the street
+248,street,there are people crossing the street
+248,street,people are walking on the street
+248,street,the man is parking his car on the street
+248,street,a lot of people are on the street
+248,street,a worker is crossing the street
+249,listing,report personal information in a listing
+249,listing,im sorry i dont have any listing for him
+249,listing,show listing count for the part
+249,listing,email address you used to submit your business listing
+249,listing,address address format listing failed search
+249,listing,the specified listing does not exist
+249,listing,a listing of all networks in your account
+249,listing,a listing of network ports in your account
+249,listing,remove computer from the computer listing
+249,listing,this example uses an event listing
+250,listing,report personal information in a listing
+250,listing,im sorry i dont have any listing for him
+250,listing,show listing count for the part
+250,listing,email address you used to submit your business listing
+250,listing,address address format listing failed search
+250,listing,the specified listing does not exist
+250,listing,a listing of all networks in your account
+250,listing,a listing of network ports in your account
+250,listing,remove computer from the computer listing
+250,listing,this example uses an event listing
+251,cell,the cell split up many pieces
+251,cell,the cell is filled with a gas called hydrogen
+251,cell,the nucleus of a cell controls its vital functions
+251,cell,confine a person in a cell
+251,cell,what were you doing in class with this cell phone
+251,cell,another kind of car runs on a special fuel cell
+251,cell,dont use a cell phone in the library
+251,cell,no thanks ill just use my cell phone
+251,cell,the fuel cell cars are also more efficient in another way
+251,cell,love is turning your cell phone off during your dinner date
+252,production,why did the publisher increase production of the book
+252,production,what time does the manager want the production schedule
+252,production,over the study period overall production rose dgdg
+252,production,wheat production has increased this years
+252,production,texas now ranks number two in wind production for usa
+252,production,he was able to observe the process of film production
+252,production,inflation can be offset by increased production
+252,production,iowa leads the nation in corn production
+252,production,america ranks top in the production of automobiles
+252,production,for how long do they want us to decrease production
+253,benchmark,generate benchmark statistics for a product
+253,benchmark,product benchmark calculations for each component
+253,benchmark,generate various benchmark statistics for a product
+253,benchmark,generates various benchmark statistics for the product
+253,benchmark,details of the finishing operations covered by the benchmark
+253,benchmark,benchmark the factors by which you are being measured
+253,benchmark,select the benchmark to use when generating this report
+253,benchmark,it will also serve as a benchmark of your progression
+253,benchmark,employment is the benchmark in reducing poverty
+253,benchmark,we benchmark toyota in a variety of areas of the business
+254,media,they also have a media message targeted at specific groups
+254,media,we depend upon the mass media for daily news
+254,media,the corporations control the media too
+254,media,a user request media be exported
+254,media,a user request media be imported into a library
+254,media,she uses the media to help her exact a terrible revenge
+254,media,use updated or existing media information
+254,media,external file system encrypt media files
+254,media,news is true and the news media only reports facts
+254,media,all the media has been talking about the movie for months
+255,media,they also have a media message targeted at specific groups
+255,media,we depend upon the mass media for daily news
+255,media,the corporations control the media too
+255,media,a user request media be exported
+255,media,a user request media be imported into a library
+255,media,she uses the media to help her exact a terrible revenge
+255,media,use updated or existing media information
+255,media,external file system encrypt media files
+255,media,news is true and the news media only reports facts
+255,media,all the media has been talking about the movie for months
+256,dividend,a dividend of dg percent on the common shares was paid
+256,dividend,he isnt interested in a stock that is dividend off
+256,dividend,the shareholders received a low dividend of dg per share
+256,dividend,he is interested in a stock that is dividend on
+256,dividend,how much of a dividend can we afford to pay
+256,dividend,divisor is the number by which to divide the dividend
+256,dividend,the announcer declared a dividend of lottery ticket
+256,dividend,for recent dividend and interest activity press three
+256,dividend,the shares brought no dividend last term
+256,dividend,his dividend was copiously increased in this horse racing
+257,dividend,a dividend of dg percent on the common shares was paid
+257,dividend,he isnt interested in a stock that is dividend off
+257,dividend,the shareholders received a low dividend of dg per share
+257,dividend,he is interested in a stock that is dividend on
+257,dividend,how much of a dividend can we afford to pay
+257,dividend,divisor is the number by which to divide the dividend
+257,dividend,the announcer declared a dividend of lottery ticket
+257,dividend,for recent dividend and interest activity press three
+257,dividend,the shares brought no dividend last term
+257,dividend,his dividend was copiously increased in this horse racing
+258,calculation,confuse reason with calculation and disaster lies ahead
+258,calculation,history of air conditioning load calculation methods
+258,calculation,or use the calculation project menu
+258,calculation,the calculation length measured in meters
+258,calculation,area and volume calculation area and volume calculation
+258,calculation,to perform a calculation using a function
+258,calculation,to perform a calculation using an operator
+258,calculation,adds calculation formulas to schedule cells
+258,calculation,provides tools to manage calculation projects
+258,calculation,continue cant calculation results may be unexpected
+259,currency,restrict the currency of bank notes
+259,currency,how much foreign currency do you have
+259,currency,socialist ideas have little currency in the usa
+259,currency,i hope the rumor doesnt acquire currency
+259,currency,it is the main currency used to conduct foreign trade
+259,currency,the currency of this country exchanges at par
+259,currency,chinas currency will trade within a dg percent band
+259,currency,the mark lost currency as the euro appeared
+259,currency,you keep up with the currency markets dont you
+259,currency,the new currency has been circulated since june dg
+260,OPEC,opec oil prices soared to above dgdg a barrel
+260,OPEC,opec accounts for about dgdg percent of the global oil supply
+260,OPEC,opec has reason to be cautious
+260,OPEC,the truth is i know people involved with opec
+260,OPEC,opec is not scheduled to meet until december
+260,OPEC,opec still has an impact on the market
+260,OPEC,then we cannot be held hostage by the opec countries
+260,OPEC,opec decided to increase its output of oil
+260,OPEC,opec is not looking out for us
+260,OPEC,meanwhile today opec sits on the fence
+261,oil,oil prices reached their peak last year
+261,oil,the oil is used up or we are out of oil
+261,oil,there was a film of oil on the water
+261,oil,i was burning the midnight oil last night
+261,oil,dirty oil can hurt a cars engine
+261,oil,the oil cartel controls the prices of crude oil
+261,oil,she was tired after burning the midnight oil last night
+261,oil,olive oil has been used for cooking for thousands of years
+261,oil,you look ugly when you try to oil the wheels
+261,oil,oil and water do not blend
+262,announcement,she held back the announcement for a week
+262,announcement,did you hear the captains announcement
+262,announcement,he made a shock announcement last night
+262,announcement,did you hear what the announcement said just now
+262,announcement,didnt you listen to the announcement in the school today
+262,announcement,what did you do when you heard the announcement
+262,announcement,did you hear the announcement just a minute ago
+262,announcement,to whom is the announcement directed
+262,announcement,we interrupt this program for a special announcement
+262,announcement,what does the announcement say about flight ngdgdgdg
+263,announcement,she held back the announcement for a week
+263,announcement,did you hear the captains announcement
+263,announcement,he made a shock announcement last night
+263,announcement,did you hear what the announcement said just now
+263,announcement,didnt you listen to the announcement in the school today
+263,announcement,what did you do when you heard the announcement
+263,announcement,did you hear the announcement just a minute ago
+263,announcement,to whom is the announcement directed
+263,announcement,we interrupt this program for a special announcement
+263,announcement,what does the announcement say about flight ngdgdgdg
+264,profit,the woman realized a profit from the sale of her house
+264,profit,he derived a lot of profit from the business
+264,profit,there is no profit in doing such a thing
+264,profit,he turned a huge profit on the sale
+264,profit,what do you estimate your firms profit will be in december
+264,profit,the profit which a company pronounced was grossed up
+264,profit,which company showed the highest profit
+264,profit,he compiled a graph showing changes in profit
+264,profit,in business you have to learn the abcs of profit and loss
+264,profit,it has lowered its profit prediction
+265,profit,the woman realized a profit from the sale of her house
+265,profit,he derived a lot of profit from the business
+265,profit,there is no profit in doing such a thing
+265,profit,he turned a huge profit on the sale
+265,profit,what do you estimate your firms profit will be in december
+265,profit,the profit which a company pronounced was grossed up
+265,profit,which company showed the highest profit
+265,profit,he compiled a graph showing changes in profit
+265,profit,in business you have to learn the abcs of profit and loss
+265,profit,it has lowered its profit prediction
+266,dollar,a quarter of a dollar is dgdg cents
+266,dollar,ill sell your house for top dollar
+266,dollar,id like to buy a us dollar money order
+266,dollar,id like this one dollar in small change
+266,dollar,he just bet his bottom dollar on the game
+266,dollar,its your top dollar of your credit card
+266,dollar,the customer asks for change in quarters not dollar bills
+266,dollar,the dollar fell on the foreign exchanges yesterday
+266,dollar,these are certainly tough times for the us dollar
+266,dollar,you can do anything with the almighty dollar
+267,dollar,a quarter of a dollar is dgdg cents
+267,dollar,ill sell your house for top dollar
+267,dollar,id like to buy a us dollar money order
+267,dollar,id like this one dollar in small change
+267,dollar,he just bet his bottom dollar on the game
+267,dollar,its your top dollar of your credit card
+267,dollar,the customer asks for change in quarters not dollar bills
+267,dollar,the dollar fell on the foreign exchanges yesterday
+267,dollar,these are certainly tough times for the us dollar
+267,dollar,you can do anything with the almighty dollar
+268,dollar,a quarter of a dollar is dgdg cents
+268,dollar,ill sell your house for top dollar
+268,dollar,id like to buy a us dollar money order
+268,dollar,id like this one dollar in small change
+268,dollar,he just bet his bottom dollar on the game
+268,dollar,its your top dollar of your credit card
+268,dollar,the customer asks for change in quarters not dollar bills
+268,dollar,the dollar fell on the foreign exchanges yesterday
+268,dollar,these are certainly tough times for the us dollar
+268,dollar,you can do anything with the almighty dollar
+269,dollar,a quarter of a dollar is dgdg cents
+269,dollar,ill sell your house for top dollar
+269,dollar,id like to buy a us dollar money order
+269,dollar,id like this one dollar in small change
+269,dollar,he just bet his bottom dollar on the game
+269,dollar,its your top dollar of your credit card
+269,dollar,the customer asks for change in quarters not dollar bills
+269,dollar,the dollar fell on the foreign exchanges yesterday
+269,dollar,these are certainly tough times for the us dollar
+269,dollar,you can do anything with the almighty dollar
+270,computer,im using the same computer and it works just fine
+270,computer,ive heard computer art is a promising job
+270,computer,this cd doesnt suit your computer
+270,computer,i bought the same computer as you did
+270,computer,that company is a giant in the computer industry
+270,computer,the new computer system will include most branch offices
+270,computer,the woman is using the computer
+270,computer,the woman is using a computer
+270,computer,computer talk can be funny at times
+270,computer,a new computer would be very expensive
+271,network,a network of railroads covers the whole country
+271,network,provide a network user name and password
+271,network,you dont have enough permissions to access the network
+271,network,setup was denied access to a remote resource on the network
+271,network,there are no network connections to disconnect
+271,network,option to detect network has been turned off
+271,network,when was the last time the computer network was backed up
+271,network,define a network address range using a network mask
+271,network,the selected server does not exist on the network
+271,network,a complex password provides better network security
+272,phone,the man and woman are talking on the phone
+272,phone,what is claimed about servcos phone pay service
+272,phone,i answer the phone all day
+272,phone,no his phone is working just fine
+272,phone,actually i prefer using a phone card
+272,phone,the man is dialing the phone
+272,phone,he contacted his friend over the phone
+272,phone,the government is pushing to lower mobile phone charges
+272,phone,what was the phone call about
+272,phone,if youre finished may i use the phone
+273,equipment,what equipment they will need for a job
+273,equipment,what is said about office equipment
+273,equipment,are you the person in charge of the film equipment
+273,equipment,according to the equipment list they have four
+273,equipment,radio and power seats are standard equipment
+273,equipment,whats our budget for new computer equipment this year
+273,equipment,it can interfere with the air planes equipment sir
+273,equipment,did we order two printers from key office equipment
+273,equipment,the man is adjusting the equipment
+273,equipment,the first sports equipment that man invented was the ball
+274,luxury,the man at the car show gaped at the super luxury models
+274,luxury,a luxury is of no immediate importance to our daily life
+274,luxury,but theres one place here that is a milestone in luxury
+274,luxury,he had to trade up before he could buy the luxury house
+274,luxury,her greatest interest in life seems to be luxury
+274,luxury,the girl was lapped in luxury
+274,luxury,there isnt the luxury of time
+274,luxury,people buy luxury goods for a number of reasons
+274,luxury,a life of luxury can debauch young people
+274,luxury,man i dont understand why people buy luxury goods
+275,five,maybe four or five times a year
+275,five,its five years ago to a day
+275,five,i chased her around for five years every single day
+275,five,we met for the first time five years ago
+275,five,ill kill him five times before he hits the ground
+275,five,three hours a day five days a week
+275,five,the drama is five acts long
+275,five,how much is five times eight
+275,five,thats about one in every five people
+275,five,i looked my last of her five years ago
+276,report,the accounting department will need a copy of a report
+276,report,please turn to page dg in your copy of the report
+276,report,we submitted a copy of project report but it gathered dust
+276,report,tom turned in to documentary program for his report
+276,report,copies of the report were distributed to interested parties
+276,report,i heard the loud report of a rifle several times
+276,report,does it matter what kind of paper we print the report on
+276,report,can you hand in the report on time
+276,report,when will you finish your report
+276,report,a report on a new discovery
+277,investor,the investor purchased the land on spec
+277,investor,the land was of interest to the investor
+277,investor,it is crucial for me to find an investor at this juncture
+277,investor,in a general market decline however no investor is safe
+277,investor,what do you mean by investor
+277,investor,the investor made a profit on the land
+277,investor,the investor plowed back to the market
+277,investor,one investor went broke to the world
+277,investor,what should an individual investor do
+277,investor,but he is a very good investor
+278,liquid,shes pouring liquid into a glass
+278,liquid,the liquid version also addresses another problem
+278,liquid,the liquid react within its power
+278,liquid,they break into subatomic liquid particles
+278,liquid,the liquid dries in less than a minute
+278,liquid,ill be back with the coloring liquid
+278,liquid,a hybrid of solid and liquid fuel
+278,liquid,a warm solution of liquid detergent
+278,liquid,spirit of hartshorn is a colorless soluble liquid
+278,liquid,yakous factory produces dry and liquid food
+279,baseball,the baseball game started with our teams batting first
+279,baseball,i am a huge fan of the baseball player
+279,baseball,i spend every saturday playing baseball
+279,baseball,baseball is a very interesting sports
+279,baseball,he was the greatest player in the history of baseball
+279,baseball,im watching a baseball game on tv
+279,baseball,park chanho is the envy of all the korean baseball players
+279,baseball,he is a notable figure in baseball circles
+279,baseball,hes crazy about baseball he never misses a game
+279,baseball,the baseball team suffered a reverse
+280,game,so exciting to watch the soccer game with my friends
+280,game,it is so exciting to watch the soccer game with my friends
+280,game,the first game of the season is just a week away
+280,game,i challenged her to a game of tennis
+280,game,in fishing patience is the name of the game
+280,game,journalists always regard movie stars as fair game
+280,game,the game needs some effort to master
+280,game,the game of soccer started in england in the dgdgdgdgs
+280,game,the rest is nowhere its too obvious that we win the game
+280,game,i overwhelmed my opponent in the first game
+281,game,so exciting to watch the soccer game with my friends
+281,game,it is so exciting to watch the soccer game with my friends
+281,game,the first game of the season is just a week away
+281,game,i challenged her to a game of tennis
+281,game,in fishing patience is the name of the game
+281,game,journalists always regard movie stars as fair game
+281,game,the game needs some effort to master
+281,game,the game of soccer started in england in the dgdgdgdgs
+281,game,the rest is nowhere its too obvious that we win the game
+281,game,i overwhelmed my opponent in the first game
+282,marathon,he has been the trainer of heaps of marathon competitors
+282,marathon,he dropped behind early in the marathon
+282,marathon,you look like you ran a marathon
+282,marathon,he completed a marathon every day for dgdgdg days
+282,marathon,he is the world record holder for the marathon
+282,marathon,she holds the world record for the marathon
+282,marathon,after the marathon he was all pumped out
+282,marathon,this happened three more times during the marathon
+282,marathon,he came in second in the marathon race
+282,marathon,the new york city marathon is held every year
+283,game,so exciting to watch the soccer game with my friends
+283,game,it is so exciting to watch the soccer game with my friends
+283,game,the first game of the season is just a week away
+283,game,i challenged her to a game of tennis
+283,game,in fishing patience is the name of the game
+283,game,journalists always regard movie stars as fair game
+283,game,the game needs some effort to master
+283,game,the game of soccer started in england in the dgdgdgdgs
+283,game,the rest is nowhere its too obvious that we win the game
+283,game,i overwhelmed my opponent in the first game
+284,game,so exciting to watch the soccer game with my friends
+284,game,it is so exciting to watch the soccer game with my friends
+284,game,the first game of the season is just a week away
+284,game,i challenged her to a game of tennis
+284,game,in fishing patience is the name of the game
+284,game,journalists always regard movie stars as fair game
+284,game,the game needs some effort to master
+284,game,the game of soccer started in england in the dgdgdgdgs
+284,game,the rest is nowhere its too obvious that we win the game
+284,game,i overwhelmed my opponent in the first game
+285,seven,serving breakfast lunch and dinner seven days a week
+285,seven,andy live in new york seven years ago
+285,seven,brown started the business seven years ago
+285,seven,children under seven free if accompanied by an adult
+285,seven,its only been seven years since you met me
+285,seven,i worked in the head office of bloomberg for seven years
+285,seven,he works seven hours a day on the average
+285,seven,and dgdg percent work six to seven days a week
+285,seven,dgdgdgdgdg tickets were sold to seven shows on the first day
+285,seven,you were a toddler just seven months old
+286,seafood,pusan is known for its seafood
+286,seafood,i know a nice seafood restaurant near here
+286,seafood,i will also eat a lot of fresh seafood
+286,seafood,im hungry for seafood what do you recommend
+286,seafood,we are going to a seafood restaurant on the beach
+286,seafood,do you have a seafood special available
+286,seafood,we ate a lot of seafood there
+286,seafood,enjoy seafood often and stay healthy
+286,seafood,we have a seafood platter for dgdg
+286,seafood,i can also enjoy all kinds of fresh seafood there
+287,seafood,pusan is known for its seafood
+287,seafood,i know a nice seafood restaurant near here
+287,seafood,i will also eat a lot of fresh seafood
+287,seafood,im hungry for seafood what do you recommend
+287,seafood,we are going to a seafood restaurant on the beach
+287,seafood,do you have a seafood special available
+287,seafood,we ate a lot of seafood there
+287,seafood,enjoy seafood often and stay healthy
+287,seafood,we have a seafood platter for dgdg
+287,seafood,i can also enjoy all kinds of fresh seafood there
+288,seafood,pusan is known for its seafood
+288,seafood,i know a nice seafood restaurant near here
+288,seafood,i will also eat a lot of fresh seafood
+288,seafood,im hungry for seafood what do you recommend
+288,seafood,we are going to a seafood restaurant on the beach
+288,seafood,do you have a seafood special available
+288,seafood,we ate a lot of seafood there
+288,seafood,enjoy seafood often and stay healthy
+288,seafood,we have a seafood platter for dgdg
+288,seafood,i can also enjoy all kinds of fresh seafood there
+289,lobster,i had lobster bisque for lunch
+289,lobster,i have a fancy for some lobster for dinner
+289,lobster,his face gets red as a lobster when he drinks alcohol
+289,lobster,it is a new species of lobster
+289,lobster,a male lobster is called a cock
+289,lobster,hinton caught the lobster and brought it to the school
+289,lobster,the lobster had blonde hair on its claws
+289,lobster,the lobster was dgdg centimeters long and had dgdg legs
+289,lobster,could you show me how to eat the lobster
+289,lobster,it sure is a rare lobster
+290,lobster,i had lobster bisque for lunch
+290,lobster,i have a fancy for some lobster for dinner
+290,lobster,his face gets red as a lobster when he drinks alcohol
+290,lobster,it is a new species of lobster
+290,lobster,a male lobster is called a cock
+290,lobster,hinton caught the lobster and brought it to the school
+290,lobster,the lobster had blonde hair on its claws
+290,lobster,the lobster was dgdg centimeters long and had dgdg legs
+290,lobster,could you show me how to eat the lobster
+290,lobster,it sure is a rare lobster
+291,food,issue food and clothing to soldiers
+291,food,they used up his reserve of food
+291,food,i dont like your idea very much but its food for thought
+291,food,and the net effect is a rapid change in food culture
+291,food,our dog stuck his muzzle in his food dish to eat
+291,food,the man is looking for food
+291,food,we eat the same food every day
+291,food,im used to eating spicy food
+291,food,this food is the best thing since sliced bread
+291,food,i work in a fast food restaurant
+292,video,children are crazy about video games
+292,video,im into girls video games and music
+292,video,and what if that hub was disguised as a video game machine
+292,video,the video was specially produced for school use
+292,video,whats the price of this video tape
+292,video,im turning on the video now hurry up
+292,video,todays weather satellites do not have video cameras
+292,video,maybe the new video game unit is at the electronics store
+292,video,nowadays children are addicted to video games
+292,video,the movie stars sucked faces in a music video
+293,start,how many days of the week start with the letter t
+293,start,lets back to the basics and start work with a renewed mind
+293,start,i cant start my work without the document
+293,start,the day when i start for my journey is drawing near
+293,start,when do your finals start mine start a week from today
+293,start,an error occurred when trying to start upload
+293,start,how soon would you be able to start work
+293,start,when does the new person start working
+293,start,we will start working on even terms
+293,start,thank you very much when would you like me to start work
+294,start,how many days of the week start with the letter t
+294,start,lets back to the basics and start work with a renewed mind
+294,start,i cant start my work without the document
+294,start,the day when i start for my journey is drawing near
+294,start,when do your finals start mine start a week from today
+294,start,an error occurred when trying to start upload
+294,start,how soon would you be able to start work
+294,start,when does the new person start working
+294,start,we will start working on even terms
+294,start,thank you very much when would you like me to start work
+295,game,so exciting to watch the soccer game with my friends
+295,game,it is so exciting to watch the soccer game with my friends
+295,game,the first game of the season is just a week away
+295,game,i challenged her to a game of tennis
+295,game,in fishing patience is the name of the game
+295,game,journalists always regard movie stars as fair game
+295,game,the game needs some effort to master
+295,game,the game of soccer started in england in the dgdgdgdgs
+295,game,the rest is nowhere its too obvious that we win the game
+295,game,i overwhelmed my opponent in the first game
+296,boxing,why is he suddenly learning boxing
+296,boxing,the men are boxing behind a taxi
+296,boxing,there were three thousand people at the boxing match
+296,boxing,he was boxing champ of the world for many years
+296,boxing,the boxing match ended with a tenth round ko
+296,boxing,did you catch that boxing match last night
+296,boxing,the man is a boxing fan
+296,boxing,but very few schools teach boxing these days
+296,boxing,still there are groups against child boxing
+296,boxing,he seems to be having fun hes really excited about boxing
+297,championship,our team swept the championship games
+297,championship,if we win the next game the championship is in the bag
+297,championship,hold the championship of the ring
+297,championship,suwon won the championship for the first time in four years
+297,championship,out team landed the national championship in dgdgdgdg
+297,championship,she won the championship last year
+297,championship,we lost the championship with this game
+297,championship,it won the championship title dgdg times
+297,championship,he finished second in the championship four years in a row
+297,championship,our team won the championship five years in a row
+298,fighting,im sick and tired of you kids fighting all the time
+298,fighting,that will do children no more fighting
+298,fighting,they have at least a fighting chance of winning the race
+298,fighting,he died fighting for his country
+298,fighting,the troops were waiting for the order in fighting trim
+298,fighting,they were fighting on all day
+298,fighting,lets gain fighting fit by friday
+298,fighting,my uncle was the man who was fighting for our nation
+298,fighting,they hesitated between fighting and submitting
+298,fighting,they won by virtue of hard fighting
+299,line,let me put you through to the other line
+299,line,look at how many robots we use on our assembly line
+299,line,invalid options in a file description line in a inf file
+299,line,transfer to line no dg at dongdaemun station
+299,line,captain andrews notes the bottom line is money
+299,line,thank you for calling the irs help line
+299,line,please indicate the method of dialing your phone line uses
+299,line,beautiful birches line the country road
+299,line,theyre waiting in line at the ticket office downtown
+299,line,construction work on this railway line begins next week
+300,day,how many times a day should we air our ad
+300,day,its five years ago to a day
+300,day,night and day for the past six months
+300,day,we traveled night and day for a week
+300,day,im in day mode this week
+300,day,we owe you a day in the harvest
+300,day,rush hour at this time of day is unbelievable
+300,day,the shortest day in the year
+300,day,its unusually warm for a winter day
+300,day,the previous daythe day before
+301,summer,in summer the days are long
+301,summer,she spent summer and winter with doing a research job
+301,summer,i only have a week for summer vacation
+301,summer,the heat of late summer is severe this year
+301,summer,days are much shorter in winter than in summer
+301,summer,people camp in the woods in the summer
+301,summer,these tinted windows sure keep your car cool in the summer
+301,summer,labor day is the last big holiday of summer
+301,summer,we have rainy spells in summer
+301,summer,so basically a summer turned into like ten years
+302,summer,in summer the days are long
+302,summer,she spent summer and winter with doing a research job
+302,summer,i only have a week for summer vacation
+302,summer,the heat of late summer is severe this year
+302,summer,days are much shorter in winter than in summer
+302,summer,people camp in the woods in the summer
+302,summer,these tinted windows sure keep your car cool in the summer
+302,summer,labor day is the last big holiday of summer
+302,summer,we have rainy spells in summer
+302,summer,so basically a summer turned into like ten years
+303,day,how many times a day should we air our ad
+303,day,its five years ago to a day
+303,day,night and day for the past six months
+303,day,we traveled night and day for a week
+303,day,im in day mode this week
+303,day,we owe you a day in the harvest
+303,day,rush hour at this time of day is unbelievable
+303,day,the shortest day in the year
+303,day,its unusually warm for a winter day
+303,day,the previous daythe day before
+304,nature,children tread in the steps of a person by nature
+304,nature,like nature swanns system is beautifully simple
+304,nature,death like birth a secret of nature
+304,nature,was this portrait draw from nature
+304,nature,the inward nature of a thing
+304,nature,he knows how to amuse people by nature
+304,nature,he also didnt believe that nature could heal sick people
+304,nature,man is by nature a political animal
+304,nature,jim was still in a state of nature
+304,nature,friends should be allies of our better nature
+305,environment,other people say yard sales help the environment
+305,environment,that child is growing up in a bad environment
+305,environment,the environment can change a culture
+305,environment,how does the man describe his work environment as being
+305,environment,we have to protect the environment from pollution
+305,environment,we must know the importance of the environment
+305,environment,the way we interface with the environment
+305,environment,does that apartment complex have a nice living environment
+305,environment,because these days we destroy our environment harshly
+305,environment,the business environment is changing rapidly
+306,nature,children tread in the steps of a person by nature
+306,nature,like nature swanns system is beautifully simple
+306,nature,death like birth a secret of nature
+306,nature,was this portrait draw from nature
+306,nature,the inward nature of a thing
+306,nature,he knows how to amuse people by nature
+306,nature,he also didnt believe that nature could heal sick people
+306,nature,man is by nature a political animal
+306,nature,jim was still in a state of nature
+306,nature,friends should be allies of our better nature
+307,man,a man as simple as a child
+307,man,a man urged on people the need of water
+307,man,why does the man want to help
+307,man,a fine child becomes a fine man
+307,man,the man is chasing a mouse
+307,man,the man is across from the woman
+307,man,the dog is helping the blind man
+307,man,the man paired off with his neighbor
+307,man,the man and woman are talking on the phone
+307,man,a greedy man caught the hungry sheep
+308,man,a man as simple as a child
+308,man,a man urged on people the need of water
+308,man,why does the man want to help
+308,man,a fine child becomes a fine man
+308,man,the man is chasing a mouse
+308,man,the man is across from the woman
+308,man,the dog is helping the blind man
+308,man,the man paired off with his neighbor
+308,man,the man and woman are talking on the phone
+308,man,a greedy man caught the hungry sheep
+309,murder,the man tried to pin a murder on his innocent friend
+309,murder,he did murder the whole family
+309,murder,i sin in company with murder
+309,murder,that man is the prime suspect in a murder
+309,murder,he did a dangerous number of murder
+309,murder,news of a murder struck a sour note in our party
+309,murder,he does his bird for murder
+309,murder,he suffered the capital punishment for his murder
+309,murder,the scene of murder was covered with blood all over
+309,murder,my friend likes to read murder mysteries
+310,soap,rub your hands with the soap
+310,soap,he lathered his face with soap
+310,soap,many new detergents have replaced soap
+310,soap,id like a chicken and a big bowl of soap
+310,soap,the soap is too harsh for my skin
+310,soap,rinse the soap out of your face
+310,soap,i saw my favorite actor advertise this brand of soap on tv
+310,soap,as soon as you pick up a bar of soap youre dead
+310,soap,theres a soap dispenser next to the sink
+310,soap,you seem to like following that american soap opera
+311,opera,the solo numbers of an opera
+311,opera,the huge mural was painted on the wall of the opera house
+311,opera,the opera house will reopen with a major concert on sunday
+311,opera,the opera house is accessible by bus subway or car
+311,opera,she fell about when watching the soup opera
+311,opera,yes i love the opera why do you ask
+311,opera,this is the last word in a modern opera house
+311,opera,the school opera was a smash hit
+311,opera,we have an amateur opera company at our school
+311,opera,you seem to like following that american soap opera
+312,life,some religions teach pacifism as a way of life
+312,life,love in a cottage is also included in a happy life
+312,life,we prize liberty more than life
+312,life,the judge condemned the criminal to life in prison
+312,life,she rescued the man at the hazard of her own life
+312,life,two were sentenced on saturday to life in prison
+312,life,youth is the flower of life or youth is a treasure
+312,life,my love life is nonexistence at the moment
+312,life,he was sentenced to dgdg years to life in prison
+312,life,the peace of the rural life
+313,focus,look through the viewer then adjust your focus
+313,focus,i think its more important to focus on the future
+313,focus,it will focus on money issues
+313,focus,what is the focus of making a living stories
+313,focus,his eyes did not focus on me
+313,focus,what travel market does west country wish to focus on
+313,focus,the new owner wants to focus on national news
+313,focus,focus ones attention on a subject
+313,focus,he brought the camera into focus
+313,focus,the root of his success was his focus and incredible drive
+314,production,why did the publisher increase production of the book
+314,production,what time does the manager want the production schedule
+314,production,over the study period overall production rose dgdg
+314,production,wheat production has increased this years
+314,production,texas now ranks number two in wind production for usa
+314,production,he was able to observe the process of film production
+314,production,inflation can be offset by increased production
+314,production,iowa leads the nation in corn production
+314,production,america ranks top in the production of automobiles
+314,production,for how long do they want us to decrease production
+315,television,i do nothing but watch television on weekends
+315,television,in those days television was still unknown to us
+315,television,i watched the game on television yesterday
+315,television,could you please turn down that television
+315,television,we watched the game on television
+315,television,he has also won four emmys for his work with television
+315,television,is the display model of this television for sale
+315,television,the television is a top priority
+315,television,i can barely remember life without television
+315,television,the lamp is on top of the television
+316,lover,shes been having an affair with the same lover for years
+316,lover,she was with her lover in spirit
+316,lover,she began composition of a letter to her lover
+316,lover,a true lover always feels thankful to the one he loves
+316,lover,every lover sees a thousand graces in the beloved object
+316,lover,she was my close friend and now is dearest lover
+316,lover,the prime minister was caught playing around his lover
+316,lover,every lover finds many graces in the beloved
+316,lover,she is a great lover of horses and horse racing
+316,lover,so who is the biggest lover of mickey mouse
+317,viewer,look through the viewer then adjust your focus
+317,viewer,the viewer cannot create television images
+317,viewer,view admin logs in event viewer
+317,viewer,the relationship between the art object and the viewer
+317,viewer,use a simplified version of the image viewer
+317,viewer,event viewer cannot activate the subscription
+317,viewer,at the image viewer select the viewlook adjustment tab
+317,viewer,at the image viewer screen select the lookadjustment tab
+317,viewer,the web viewer client uses wl on all images
+317,viewer,use the event viewer to review and edit tolerance errors
+318,possibility,you cant completely rule out the possibility
+318,possibility,i can recollect to have speculated on the possibility
+318,possibility,there is a possibility of another world war happening
+318,possibility,you have heard about the possibility of a summer job
+318,possibility,estimation is possibility if education ends
+318,possibility,why think of death when there is the possibility of life
+318,possibility,a possibility i think it is more than likely
+318,possibility,creating a new church is always a possibility
+318,possibility,but there is a high possibility that i will change my mind
+318,possibility,but experts say the possibility is low
+319,population,the population in this neighborhood increases day by day
+319,population,that will do much for solving the population problem
+319,population,the population of a mega city is always growing
+319,population,these statistics show deaths per dgdgdgdg of the population
+319,population,the population of this country is about ten million
+319,population,the floating population of a city
+319,population,population of greater london has increased
+319,population,the population density in seoul is very high
+319,population,in dgdgdgdg chinas population was growing very fast
+319,population,in dgdgdgdg world population reached one billion
+320,morality,the people in societies have different ideas about morality
+320,morality,morality has lost its hold on the people
+320,morality,the arguments about the morality of blood sports
+320,morality,some say it is an issue of morality
+320,morality,morality is altogether a matter of doing
+320,morality,morality doesnt even enter into it
+320,morality,its the morality we dont agree with
+320,morality,i dont mind if our morality is wrong
+320,morality,his life has been clearly inconsistent concerning morality
+320,morality,we began to doubt his morality because of his lies
+321,morality,the people in societies have different ideas about morality
+321,morality,morality has lost its hold on the people
+321,morality,the arguments about the morality of blood sports
+321,morality,some say it is an issue of morality
+321,morality,morality is altogether a matter of doing
+321,morality,morality doesnt even enter into it
+321,morality,its the morality we dont agree with
+321,morality,i dont mind if our morality is wrong
+321,morality,his life has been clearly inconsistent concerning morality
+321,morality,we began to doubt his morality because of his lies
+322,Mexico,while youre working so hard ill be touring mexico
+322,Mexico,in addition to modern cities mexico has many ancient ruins
+322,Mexico,maize or corn is the most important crop in mexico
+322,Mexico,this plant ranges from canada to mexico
+322,Mexico,he narrated the history of mexico on a tv program
+322,Mexico,my parents also live in mexico now
+322,Mexico,it became a part of mexico in the year dgdgdgdg
+322,Mexico,us citizens dont need visa to enter mexico
+322,Mexico,on the return from their voyage they stopped in mexico
+322,Mexico,new mexico is seven hours behind gmt
+323,gender,gender activity level and smoking preference
+323,gender,we have to discuss gender discrimination
+323,gender,the male sex is a minor gender in this office
+323,gender,the trial took place regardless of gender or sexuality
+323,gender,discrimination based on gender and age must be abolished
+323,gender,he divided the classes by gender
+323,gender,each gender has its own burdens
+323,gender,number of pupils at each school stacked by gender
+323,gender,there is still gender discrimination at work in korea
+323,gender,their gender shouldnt have to be an issue
+324,change,i needed a change for once
+324,change,i was bored and needed a change of pace
+324,change,change the options for the user andor the console
+324,change,what change in the library policy is stated in the notice
+324,change,the wind of change helped korean economics
+324,change,she felt she needed a change and decided to be a nurse
+324,change,a great change burst forth over him
+324,change,change properties for the selected shared folder
+324,change,time zones can also change due to daylight savings time
+324,change,i exercised for a change and now i ache all over
+325,family,the senior members of a family
+325,family,a wolf is a member of the dog family
+325,family,the children in that family are spaced two years apart
+325,family,the dog is so to speak a member of the family
+325,family,no family can be happy without harmony among its members
+325,family,the royal family was excuted the next year
+325,family,that company produces a family of household products
+325,family,will you invite your family to the party
+325,family,thats why my family members cherish me
+325,family,a family of languages  a linguistic family
+326,opera,the solo numbers of an opera
+326,opera,the huge mural was painted on the wall of the opera house
+326,opera,the opera house will reopen with a major concert on sunday
+326,opera,the opera house is accessible by bus subway or car
+326,opera,she fell about when watching the soup opera
+326,opera,yes i love the opera why do you ask
+326,opera,this is the last word in a modern opera house
+326,opera,the school opera was a smash hit
+326,opera,we have an amateur opera company at our school
+326,opera,you seem to like following that american soap opera
+327,sugar,do you use sugar in your coffee
+327,sugar,she had no honey so she used sugar instead
+327,sugar,salt or sugar dissolves in water
+327,sugar,all the sugar turned into alcohol
+327,sugar,they change the suns energy into sugar
+327,sugar,i dissolved some sugar in water
+327,sugar,her blood sugar was critically low
+327,sugar,just a touch of the sugar please
+327,sugar,she added water and added sugar over the combination
+327,sugar,this sugar smacks of a certain bitter
+328,practice,practice is the only way of mastering a language
+328,practice,in some nations however labor laws restrict the practice
+328,practice,the course of justice is difficult to practice
+328,practice,the practice dates from the joseon dynasty period
+328,practice,my family practice economy in daily affairs
+328,practice,admission to the practice of law
+328,practice,do you mean i dont practice enough
+328,practice,you need to practice fixing the engine as well
+328,practice,the only thing left is to put the theory into practice
+328,practice,he spends three hours at swimming practice every day
+329,ministry,feel a call to the ministry
+329,ministry,he dropped correspondence with the ministry proper
+329,ministry,it is supported by the ministry of knowledge and economy
+329,ministry,recently the education ministry released a report
+329,ministry,the ministry will finish its plan by the end of the month
+329,ministry,the finance ministry is worried about the lost tax money
+329,ministry,the ministry is considering two options
+329,ministry,the ministry said these words could be harmful for us
+329,ministry,the ministry of education does not agree with the ban
+329,ministry,the ministry of labor surveyed dgdgdgdg people
+330,problem,their questions focused on the problem
+330,problem,pollution will be a very big problem in the future
+330,problem,in many countries overcrowded cities face a major problem
+330,problem,what did the company do after solving the problem of flavor
+330,problem,he with some problem speak his mind to his true friend
+330,problem,i think we have to overcome the pollution problem first
+330,problem,the problem is easy within capacity
+330,problem,he solved this problem in no time at all
+330,problem,what is the man s problem
+330,problem,six years later i no longer have that problem
+331,size,there are a lot of small apples of about the same size
+331,size,our products are designed differently for size
+331,size,day by day its appearance increases in size
+331,size,the man is short of hat size
+331,size,the worker will size down the space
+331,size,what size batteries do we need
+331,size,that man seems to be of the same size
+331,size,they were ranged according to size
+331,size,how much is this small size
+331,size,try on the shoes for size
+332,country,there are a lot of people from every country
+332,country,the world cup amused the people across the country
+332,country,the united states is a young country
+332,country,a storm hit the country and killed a lot of people
+332,country,he lives in the remote country from the city
+332,country,the boy from the country looked gawky in the big city
+332,country,the roman legions covered the country
+332,country,the country produces a lot of apples
+332,country,a lot of people escaped from a nearby country
+332,country,a network of railroads covers the whole country
+333,planet,when do you plan to visit the planet
+333,planet,life on this planet would not be possible without it
+333,planet,a planet can be visualized as a stone tied to a string
+333,planet,right now about dg billion people live on the planet
+333,planet,a planet orbiting a star in the constellation of cepheus
+333,planet,what is the biggest planet in the solar system
+333,planet,what would they think about our planet
+333,planet,saturn is the second biggest planet in the solar system
+333,planet,this led them to rethink the definition of a planet
+333,planet,the new planet is about ten times the size of the earth
+334,development,the city council will meet to discuss urban development 
+334,development,the software development project is months behind schedule
+334,development,such a fast development has no parallel
+334,development,what development did latoya motors corp report
+334,development,many people spent six years of research and development
+334,development,this town became an advanced city after urban development
+334,development,a behavior of a fly in amber wont bring development
+334,development,we faced a critical crossroad in our corporate development
+334,development,current status of railroad maintenance and development plan
+334,development,un conference on environment and development
+335,experience,that job turned into a joyless boring experience
+335,experience,he grew in experience and wisdom
+335,experience,and could you tell me about your work experience
+335,experience,i cant stand him holding forth about his life experience
+335,experience,i come by all these ideas from my own experience
+335,experience,meeting her again was a very affecting experience
+335,experience,he wrote a fictional account of his experience
+335,experience,he ruled out all applicants who had no previous experience
+335,experience,the specialty matters less than do experience
+335,experience,heres a guy who had experience with eggs filming rocky
+336,music,i use music to communicate with them
+336,music,im a member of the university music club
+336,music,at school she is in the music club
+336,music,the music fits the sense of the words like a glove
+336,music,i stopped listening to modern music
+336,music,one mans music is another mans noise
+336,music,it can be used to write stories poems and music
+336,music,i use music to communicate with people
+336,music,im into girls video games and music
+336,music,people are enjoying music in a concert hall
+337,glass,he drank a glass of milk
+337,glass,the sitting people paint on glass
+337,glass,the team swallowed with a glass of water
+337,glass,i dropped a glass and it burst into fragments
+337,glass,shes pouring liquid into a glass
+337,glass,he tipped off a glass of water
+337,glass,yes id like a glass of water
+337,glass,ill fetch you a glass of water
+337,glass,the man is putting tape around a glass
+337,glass,people at the party raised their glass to the couple
+338,aluminum,aluminum is widely used in alloys
+338,aluminum,aluminum cans can be recycled easily
+338,aluminum,they found a cheap way to refine it into aluminum
+338,aluminum,put the aluminum can on its side on a table
+338,aluminum,performance evaluation of brazed aluminum heat exchangers
+338,aluminum,it features a lightweight aluminum frame
+338,aluminum,and aluminum cans are very easy to recycle
+338,aluminum,aluminum is easily oxidized in the air
+338,aluminum,aluminum framed and varnished tongue groove models
+338,aluminum,development of high performance aluminum unit cooler
+339,chance,today they are used in gambling and other games of chance
+339,chance,chance would be a fine thing
+339,chance,its not by chance that everything worked out so well
+339,chance,he stood no chance against winning the race
+339,chance,not many people will have a chance to apply for the job
+339,chance,they have at least a fighting chance of winning the race
+339,chance,are you mr johnson of the ford company by chance
+339,chance,theres a chance that he will live
+339,chance,he entered his name on the off chance
+339,chance,i think he will have a fat chance of becoming a teacher
+340,exhibit,one special area in the exhibit is the family activity room
+340,exhibit,process does not exhibit dynamic patterns
+340,exhibit,the exhibit will be right in front of you
+340,exhibit,the art museum has a wonderful impressionism exhibit
+340,exhibit,i have an exhibit at the science fair
+340,exhibit,what did you think of the monet exhibit at the art gallery
+340,exhibit,cats and dogs exhibit different natures
+340,exhibit,most time series exhibit such a pattern
+340,exhibit,the data do not exhibit curvature
+340,exhibit,in hong kong a special exhibit about lee was on display
+341,concert,the people are watching a concert
+341,concert,all told five thousand people were at the concert
+341,concert,we have a concert twice every year
+341,concert,people are enjoying music in a concert hall
+341,concert,we will be at the concert hall in no time
+341,concert,a mass of people were in the town square for the concert
+341,concert,what did you think of last nights concert
+341,concert,we had the idea to sing at the benefit concert together
+341,concert,well heres a seating plan of the concert hall
+341,concert,the two schools held a joint concert
+342,rock,the road was blocked by the detritus from a rock slide
+342,rock,he moved the rock with a lever
+342,rock,what is expected for areas near little rock
+342,rock,god is the rock of ages
+342,rock,be as firm as a rock
+342,rock,every rock looks the same to me
+342,rock,she is a dynamite rock star
+342,rock,the bullet trained off the rock
+342,rock,she always said she would be a rock star
+342,rock,i tripped over a rock yesterday
+343,museum,which way is the museum please
+343,museum,a large number of people visit this museum every year
+343,museum,on what day is the denver art museum closed
+343,museum,the museum of modern art is a beautiful place
+343,museum,on the first day they visited the national museum
+343,museum,the museum sends its house organ to employees and members
+343,museum,on which days does the museum close the latest
+343,museum,what kind of museum do you like best
+343,museum,the museum moved to its present location in dgdgdgdg
+343,museum,house the overflow from the museum
+344,observation,the nicety of ones powers of observation
+344,observation,the heart patient is under observation by a trained nurse
+344,observation,an agreement between observation and theory
+344,observation,the doctor put her patient under close observation
+344,observation,only a single observation is collected at a time
+344,observation,a study of economic effects of agricultural observation
+344,observation,placing the endpoints in observation mode
+344,observation,about creating maintenance and observation records
+344,observation,place the endpoint in observation mode
+344,observation,start observation mode on the system
+345,space,korea has too many people for its limited land space
+345,space,for the space of two years
+345,space,the people are looking for a parking space
+345,space,there is not enough space between the two houses
+345,space,there are no barriers of time and space in cyberspace
+345,space,the worker will size down the space
+345,space,russian cosmonauts were the first people in space
+345,space,just look at the closet space in here
+345,space,provides the ability to conserve disk space
+345,space,even from space the earth looks familiar
+346,preservation,the preservation of life and property
+346,preservation,levels of intervention in preservation of historic buildings
+346,preservation,preservation and application of floral doors
+346,preservation,eggs in a good state of preservation
+346,preservation,dgrd statement this is about preservation of a way of life
+346,preservation,study of japans preservation plan for historic architecture
+346,preservation,a study on preservation techniwue of historical environment
+346,preservation,a study of efficient preservation of farmland
+346,preservation,in a remarkably fine state of preservation
+346,preservation,it was an act of preservation
+347,admission,admission free for children under six
+347,admission,admission to the practice of law
+347,admission,the admission tickets are consecutively numbered
+347,admission,adults should pay dg for an admission charge
+347,admission,what is true regarding the museums admission policy
+347,admission,what is the admission to the gallery
+347,admission,admission is free and open to the public
+347,admission,she received an acceptance for admission to college
+347,admission,force admission control to occur on every use of a policy
+347,admission,admission control service is not installed
+348,shower,i sheltered for some time from the shower under a tree
+348,shower,there was a shower for some time
+348,shower,he was unfortunately caught in the shower
+348,shower,i was caught in a shower
+348,shower,we were caught in a shower
+348,shower,there wasnt time to shower or change clothes
+348,shower,i was caught in a shower on the way here
+348,shower,it looks like a shower or it is going to shower
+348,shower,no matter when i call her mother says shes in the shower
+348,shower,the game was suspended for a spell due to a brief shower
+349,shower,i sheltered for some time from the shower under a tree
+349,shower,there was a shower for some time
+349,shower,he was unfortunately caught in the shower
+349,shower,i was caught in a shower
+349,shower,we were caught in a shower
+349,shower,there wasnt time to shower or change clothes
+349,shower,i was caught in a shower on the way here
+349,shower,it looks like a shower or it is going to shower
+349,shower,no matter when i call her mother says shes in the shower
+349,shower,the game was suspended for a spell due to a brief shower
+350,weather,its about time the weather started cooling off
+350,weather,such hot weather and stress can cause heart problems
+350,weather,whats the weather like these days
+350,weather,how does the weather look for today
+350,weather,last winter we had subfreezing weather for weeks
+350,weather,many people do not like cold weather
+350,weather,how does the weather look for the picnic
+350,weather,the flight is delayed due to bad weather
+350,weather,we have rainy weather this week
+350,weather,did you hear a weather report this morning
+351,disaster,the news of the disaster cast a chill over the party
+351,disaster,confuse reason with calculation and disaster lies ahead
+351,disaster,the government directs aid to a disaster zone
+351,disaster,the investigation into the disaster began immediately
+351,disaster,the hurricane left a disaster area covering over ten miles
+351,disaster,you are courting disaster with your wild behavior
+351,disaster,disaster rolls over and becomes blessing
+351,disaster,they stood aghast at this unforeseen disaster
+351,disaster,prevention of fire disaster for office building
+351,disaster,doctors and nurses were flown to the scene of disaster
+352,governor,the murder of the governor brought the fbi into action
+352,governor,governor wolfowitz is still an unknown character
+352,governor,the governor of the bank of england
+352,governor,the governor called on state residents to conserve water
+352,governor,the governor will attend the dedication of the new park
+352,governor,the governor has jurisdiction over his state
+352,governor,i know i will be an excellent governor
+352,governor,the judge swore in the new governor
+352,governor,the governor called the police officer to account
+352,governor,the governor had to bite his cheeks in public
+353,architecture,its the high cost of studying architecture
+353,architecture,i like the gothic style of architecture
+353,architecture,create a new type of architecture
+353,architecture,to community of architecture in new year
+353,architecture,new trend of school landscape architecture
+353,architecture,he went abroad to study architecture during his senior year
+353,architecture,changing formalist architecture into ecological architecture
+353,architecture,since i was little i have been interested in architecture
+353,architecture,a study on curricula in schools of architecture
+353,architecture,as establishing the day of architecture

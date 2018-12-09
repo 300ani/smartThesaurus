@@ -1,9 +1,8 @@
 ### Relevant papers
 Theoretical resources for this project are present here.
 
-### Project proposal:
-
-Google docs: https://docs.google.com/document/d/17bqgJglYgXNABqZ7BF2BGE0ifj2coKYxzWVmilcBUmM/edit?ts=5bc3f9f8
+### Project report
+https://docs.google.com/document/d/1XxKpM8y0OcauQLjtEjfJR7WGqO_SK7mzLNhhhvNXcEk/
 
 ### Datasets
 

@@ -218,16 +218,16 @@
 22,phone,the government is pushing to lower mobile phone charges
 22,phone,what was the phone call about
 22,phone,if youre finished may i use the phone
-23,CD,this cd doesnt suit your computer
-23,CD,would you let me use that cd for a while
-23,CD,its from their second cd release
-23,CD,for audio cds do not copy directly from another cd
-23,CD,i have the cd at my fingertips so please wait a moment
-23,CD,how do you record your actual voice onto a cd
-23,CD,my new cd has incidental music along with the main songs
-23,CD,insert the cd into the cd drive of your computer
-23,CD,the cd auto run consists of dg cds
-23,CD,remove the dg user documents and cd
+23,cd,this cd doesnt suit your computer
+23,cd,would you let me use that cd for a while
+23,cd,its from their second cd release
+23,cd,for audio cds do not copy directly from another cd
+23,cd,i have the cd at my fingertips so please wait a moment
+23,cd,how do you record your actual voice onto a cd
+23,cd,my new cd has incidental music along with the main songs
+23,cd,insert the cd into the cd drive of your computer
+23,cd,the cd auto run consists of dg cds
+23,cd,remove the dg user documents and cd
 24,jaguar,the black jaguar feeds on a wide range of animals
 24,jaguar,it is a jaguar with a yellow body and cool green hair
 24,jaguar,a baby jaguar is waiting to meet you
@@ -368,26 +368,26 @@
 37,rabbi,instead the figure of the old rabbi hovered before my eyes
 37,rabbi,god donned phylacteries like a rabbi
 37,rabbi,it began at the knee of my father a rabbi
-38,Israel,hamas has previously rejected to recognize israel
-38,Israel,the dead sea on the border between israel and jordan
-38,Israel,she lived in israel until she was three years old
-38,Israel,palestine had been fighting with israel for many years
-38,Israel,you cannot compare the united states to israel
-38,Israel,its developed in israel to fight terrorism
-38,Israel,syria also has intimidated to respond if attacked by israel
-38,Israel,israel has said it believes peace negotiations are hopeless
-38,Israel,begin helped blow up the hotel king david in israel
-38,Israel,he wants to be perceived as tough on israel
-39,Palestinian,palestinian independent commission for citizens rights
-39,Palestinian,it is believed that he is a palestinian born in bethlehem
-39,Palestinian,security council resolution endorsing a palestinian state
-39,Palestinian,professor faruqi was of palestinian origin
-39,Palestinian,palestinian leaders harshly condemned the project
-39,Palestinian,we call on the palestinian authority to dismantle terrorism
-39,Palestinian,conditional on a new palestinian constitution and elections
-39,Palestinian,they dont want a palestinian state
-39,Palestinian,israel has no intention to rule over the palestinian people
-39,Palestinian,palestinian state an aide said tuesday
+38,israel,hamas has previously rejected to recognize israel
+38,israel,the dead sea on the border between israel and jordan
+38,israel,she lived in israel until she was three years old
+38,israel,palestine had been fighting with israel for many years
+38,israel,you cannot compare the united states to israel
+38,israel,its developed in israel to fight terrorism
+38,israel,syria also has intimidated to respond if attacked by israel
+38,israel,israel has said it believes peace negotiations are hopeless
+38,israel,begin helped blow up the hotel king david in israel
+38,israel,he wants to be perceived as tough on israel
+39,palestinian,palestinian independent commission for citizens rights
+39,palestinian,it is believed that he is a palestinian born in bethlehem
+39,palestinian,security council resolution endorsing a palestinian state
+39,palestinian,professor faruqi was of palestinian origin
+39,palestinian,palestinian leaders harshly condemned the project
+39,palestinian,we call on the palestinian authority to dismantle terrorism
+39,palestinian,conditional on a new palestinian constitution and elections
+39,palestinian,they dont want a palestinian state
+39,palestinian,israel has no intention to rule over the palestinian people
+39,palestinian,palestinian state an aide said tuesday
 40,sex,why did you decide to undergo this sex change operation
 40,sex,sex just brings more problems to a teenagers life
 40,sex,he has a large acquaintance of the opposite sex
@@ -478,16 +478,16 @@
 48,terror,terror rimmed her soft brown eyes
 48,terror,the teacher was a terror to the class
 48,terror,a wave of terror is rolling across our country
-49,Jackson,mr jackson wont be happy if we dont finish on time
-49,Jackson,michael jackson is a representative man of the hour
-49,Jackson,pop stars like michael jackson are used to being recognized
-49,Jackson,hello jackson consulting this is wendy
-49,Jackson,people write all sorts of things about the jackson family
-49,Jackson,its safe to say that michael jackson is the king of pop
-49,Jackson,the telephone operator switched through to jackson
-49,Jackson,the late peter jackson was an new york state biologist
-49,Jackson,my particular thanks to eliot jackson the director
-49,Jackson,ken first then mr lee then jackson tom and finally will
+49,jackson,mr jackson wont be happy if we dont finish on time
+49,jackson,michael jackson is a representative man of the hour
+49,jackson,pop stars like michael jackson are used to being recognized
+49,jackson,hello jackson consulting this is wendy
+49,jackson,people write all sorts of things about the jackson family
+49,jackson,its safe to say that michael jackson is the king of pop
+49,jackson,the telephone operator switched through to jackson
+49,jackson,the late peter jackson was an new york state biologist
+49,jackson,my particular thanks to eliot jackson the director
+49,jackson,ken first then mr lee then jackson tom and finally will
 50,lawyer,he turned the information over to the lawyer
 50,lawyer,i handed the contract to my lawyer
 50,lawyer,the committee struck the sentenced lawyer off the rolls
@@ -1208,16 +1208,16 @@
 121,doctor,that doctor is their last hope
 121,doctor,the sick man entreated the doctor to ease his pain
 121,doctor,the doctor said rest without help heal my leg wound
-122,Freud,sigmund freud the founder of modern psychology
-122,Freud,freud is also famous for his work on dream analysis
-122,Freud,freud went to medical school to become a neurologist
-122,Freud,freud is the father of psychology
-122,Freud,freud called into question some deeply cherished beliefs
-122,Freud,sigmund freud is known as the father of psychoanalysis
-122,Freud,the influence of freud is ingrained in her work
-122,Freud,freud is the father of psychoanalysis
-122,Freud,sigmund freud sex is an important thing in everyones life
-122,Freud,the influence of freud is pervasive in her work
+122,freud,sigmund freud the founder of modern psychology
+122,freud,freud is also famous for his work on dream analysis
+122,freud,freud went to medical school to become a neurologist
+122,freud,freud is the father of psychology
+122,freud,freud called into question some deeply cherished beliefs
+122,freud,sigmund freud is known as the father of psychoanalysis
+122,freud,the influence of freud is ingrained in her work
+122,freud,freud is the father of psychoanalysis
+122,freud,sigmund freud sex is an important thing in everyones life
+122,freud,the influence of freud is pervasive in her work
 123,mind,the mind of the people is the mind of heaven
 123,mind,i dont care or never mind
 123,mind,a wise man knows his own mind
@@ -1778,16 +1778,16 @@
 178,eye,a tear gathering in the eye
 178,eye,the best mirror is a friends eye
 178,eye,wear a patch over the eye
-179,American,american troops and supplies helped end the war
-179,American,small businesses are the engines of the american economy
-179,American,he is invited to an american home for dinner
-179,American,in dgdgdgdg the average american slept dgdg hours a night
-179,American,they are now students at the american junior high school
-179,American,she learned some american history in high school
-179,American,i heard the word in an american film
-179,American,lincoln is a legendary figure in american politics
-179,American,what is true of the brands american king bought
-179,American,this news story reveals a cross section of american society
+179,american,american troops and supplies helped end the war
+179,american,small businesses are the engines of the american economy
+179,american,he is invited to an american home for dinner
+179,american,in dgdgdgdg the average american slept dgdg hours a night
+179,american,they are now students at the american junior high school
+179,american,she learned some american history in high school
+179,american,i heard the word in an american film
+179,american,lincoln is a legendary figure in american politics
+179,american,what is true of the brands american king bought
+179,american,this news story reveals a cross section of american society
 180,history,our school has a history of fifty years
 180,history,it marks an epoch in korean history
 180,history,the history lecture covered a lot of ground today
@@ -2088,16 +2088,16 @@
 209,percent,it has been dgdg percent for three consecutive months
 209,percent,i believe dgdgdg percent in word of mouth
 209,percent,their orders account for dgdg percent of our annual revenues
-210,Yale,michelle bell of yale was the lead investigator
-210,Yale,cathryn is studying for the bar at yale law
-210,Yale,he is expected to enroll in yale law school in september
-210,Yale,he studied philosophy and psychology at yale
-210,Yale,a team from yale university led the study
-210,Yale,at first sayed had a difficult time at yale
-210,Yale,in dgdgdgdg hillary entered yale law school
-210,Yale,i finally took a degree in english literature from yale
-210,Yale,yale in new haven connecticut was founded in dgdgdgdg
-210,Yale,he was a class ahead of me at yale
+210,yale,michelle bell of yale was the lead investigator
+210,yale,cathryn is studying for the bar at yale law
+210,yale,he is expected to enroll in yale law school in september
+210,yale,he studied philosophy and psychology at yale
+210,yale,a team from yale university led the study
+210,yale,at first sayed had a difficult time at yale
+210,yale,in dgdgdgdg hillary entered yale law school
+210,yale,i finally took a degree in english literature from yale
+210,yale,yale in new haven connecticut was founded in dgdgdgdg
+210,yale,he was a class ahead of me at yale
 211,infrastructure,link infrastructure performance to business goals
 211,infrastructure,a flexible on demand business infrastructure
 211,infrastructure,deploy applications services and infrastructure software
@@ -3208,16 +3208,16 @@
 321,marriage,penelope and i are have no future plans for marriage
 321,marriage,he learned of her marriage from a friend
 321,marriage,the two families were knit together by marriage
-322,Brazil,because he is leaving for brazil the next day
-322,Brazil,have you heard any more about the brazil project
-322,Brazil,it is the first time in three years for brazil
-322,Brazil,people are beginning to believe in brazil again
-322,Brazil,it means the people of brazil
-322,Brazil,brazil is the strongest country in south america
-322,Brazil,there are dgdgdg million people living in brazil
-322,Brazil,on the other hand brazil fans should be happy this year
-322,Brazil,brazil is the largest country in south america
-322,Brazil,she lives in the south american country of brazil
+322,brazil,because he is leaving for brazil the next day
+322,brazil,have you heard any more about the brazil project
+322,brazil,it is the first time in three years for brazil
+322,brazil,people are beginning to believe in brazil again
+322,brazil,it means the people of brazil
+322,brazil,brazil is the strongest country in south america
+322,brazil,there are dgdgdg million people living in brazil
+322,brazil,on the other hand brazil fans should be happy this year
+322,brazil,brazil is the largest country in south america
+322,brazil,she lives in the south american country of brazil
 323,equality,but equality does not mean the same state of people
 323,equality,they consider it as social equality
 323,equality,the sole equality on earth is death

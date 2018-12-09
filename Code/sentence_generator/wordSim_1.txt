@@ -368,26 +368,26 @@
 37,bishop,your father bishop was a gentleman
 37,bishop,the bishop seemed quite on his last legs
 37,bishop,in dgdgdgdg he became the first black bishop in south africa
-38,Jerusalem,he met israeli president simon peres in jerusalem
-38,Jerusalem,jerusalem has a long history of conflict
-38,Jerusalem,hundreds of pilgrims gathered in jerusalem
-38,Jerusalem,jerusalem is the mountainous capital city of israel
-38,Jerusalem,kaine well let me talk about the jerusalem issue
-38,Jerusalem,jerusalem for us is a major issue
-38,Jerusalem,the jerusalem post contributed to this story
-38,Jerusalem,jerusalem day is affected by floods
-38,Jerusalem,click here to read more from the jerusalem post
-38,Jerusalem,god has plans for zion amp jerusalem
-39,Jerusalem,he met israeli president simon peres in jerusalem
-39,Jerusalem,jerusalem has a long history of conflict
-39,Jerusalem,hundreds of pilgrims gathered in jerusalem
-39,Jerusalem,jerusalem is the mountainous capital city of israel
-39,Jerusalem,kaine well let me talk about the jerusalem issue
-39,Jerusalem,jerusalem for us is a major issue
-39,Jerusalem,the jerusalem post contributed to this story
-39,Jerusalem,jerusalem day is affected by floods
-39,Jerusalem,click here to read more from the jerusalem post
-39,Jerusalem,god has plans for zion amp jerusalem
+38,jerusalem,he met israeli president simon peres in jerusalem
+38,jerusalem,jerusalem has a long history of conflict
+38,jerusalem,hundreds of pilgrims gathered in jerusalem
+38,jerusalem,jerusalem is the mountainous capital city of israel
+38,jerusalem,kaine well let me talk about the jerusalem issue
+38,jerusalem,jerusalem for us is a major issue
+38,jerusalem,the jerusalem post contributed to this story
+38,jerusalem,jerusalem day is affected by floods
+38,jerusalem,click here to read more from the jerusalem post
+38,jerusalem,god has plans for zion amp jerusalem
+39,jerusalem,he met israeli president simon peres in jerusalem
+39,jerusalem,jerusalem has a long history of conflict
+39,jerusalem,hundreds of pilgrims gathered in jerusalem
+39,jerusalem,jerusalem is the mountainous capital city of israel
+39,jerusalem,kaine well let me talk about the jerusalem issue
+39,jerusalem,jerusalem for us is a major issue
+39,jerusalem,the jerusalem post contributed to this story
+39,jerusalem,jerusalem day is affected by floods
+39,jerusalem,click here to read more from the jerusalem post
+39,jerusalem,god has plans for zion amp jerusalem
 40,holy,he is clerk in holy orders
 40,holy,saint it you are a holy man
 40,holy,the holy roman empire ended in dgdgdgdg
@@ -408,16 +408,16 @@
 41,fuck,why dont you just fuck off
 41,fuck,why dont you just fuck off
 41,fuck,why dont you just fuck off
-42,Maradona,its like asking if you would want pele or maradona
-42,Maradona,his name was diego maradona and you remind me of him a lot
-42,Maradona,diego maradona is the shock choice as manager of argentina
-42,Maradona,i dont want a life like maradona
-42,Maradona,the second best is probably maradona
-42,Maradona,also maradona scored a historic goal in this game
-42,Maradona,also maradona proved himself in europe unlike pele
-42,Maradona,yes maradona scored a goal with his hand
-42,Maradona,diego maradona is still treated as a hero by scotland fans
-42,Maradona,in this art maradona and pele were supreme
+42,maradona,its like asking if you would want pele or maradona
+42,maradona,his name was diego maradona and you remind me of him a lot
+42,maradona,diego maradona is the shock choice as manager of argentina
+42,maradona,i dont want a life like maradona
+42,maradona,the second best is probably maradona
+42,maradona,also maradona scored a historic goal in this game
+42,maradona,also maradona proved himself in europe unlike pele
+42,maradona,yes maradona scored a goal with his hand
+42,maradona,diego maradona is still treated as a hero by scotland fans
+42,maradona,in this art maradona and pele were supreme
 43,football,he played football in his junior years
 43,football,he was the greatest player in the annals of football
 43,football,he won a spot on the football team
@@ -458,36 +458,36 @@
 46,tennis,he likes playing tennis very much
 46,tennis,im not really too crazy about playing tennis
 46,tennis,i played varsity basketball and tennis in high school
-47,Arafat,but to many people yasser arafat seemed entirely different
-47,Arafat,you dont want to reward arafat
-47,Arafat,i felt that the spirit of yasser arafat
-47,Arafat,arafat expressed conditional acceptance of the idea
-47,Arafat,arafat apparently still has not recovered from that illness
-47,Arafat,and yasser arafat was part of the problem
-47,Arafat,yasser arafat called netanyahu to wish him a happy new year
-47,Arafat,in other cases arafat cronies absconded with the cash
-47,Arafat,president bush knows arafat is a liar and a fraud
-47,Arafat,he added that arafat has not declared a war on terrorism
-48,Arafat,but to many people yasser arafat seemed entirely different
-48,Arafat,you dont want to reward arafat
-48,Arafat,i felt that the spirit of yasser arafat
-48,Arafat,arafat expressed conditional acceptance of the idea
-48,Arafat,arafat apparently still has not recovered from that illness
-48,Arafat,and yasser arafat was part of the problem
-48,Arafat,yasser arafat called netanyahu to wish him a happy new year
-48,Arafat,in other cases arafat cronies absconded with the cash
-48,Arafat,president bush knows arafat is a liar and a fraud
-48,Arafat,he added that arafat has not declared a war on terrorism
-49,Arafat,but to many people yasser arafat seemed entirely different
-49,Arafat,you dont want to reward arafat
-49,Arafat,i felt that the spirit of yasser arafat
-49,Arafat,arafat expressed conditional acceptance of the idea
-49,Arafat,arafat apparently still has not recovered from that illness
-49,Arafat,and yasser arafat was part of the problem
-49,Arafat,yasser arafat called netanyahu to wish him a happy new year
-49,Arafat,in other cases arafat cronies absconded with the cash
-49,Arafat,president bush knows arafat is a liar and a fraud
-49,Arafat,he added that arafat has not declared a war on terrorism
+47,arafat,but to many people yasser arafat seemed entirely different
+47,arafat,you dont want to reward arafat
+47,arafat,i felt that the spirit of yasser arafat
+47,arafat,arafat expressed conditional acceptance of the idea
+47,arafat,arafat apparently still has not recovered from that illness
+47,arafat,and yasser arafat was part of the problem
+47,arafat,yasser arafat called netanyahu to wish him a happy new year
+47,arafat,in other cases arafat cronies absconded with the cash
+47,arafat,president bush knows arafat is a liar and a fraud
+47,arafat,he added that arafat has not declared a war on terrorism
+48,arafat,but to many people yasser arafat seemed entirely different
+48,arafat,you dont want to reward arafat
+48,arafat,i felt that the spirit of yasser arafat
+48,arafat,arafat expressed conditional acceptance of the idea
+48,arafat,arafat apparently still has not recovered from that illness
+48,arafat,and yasser arafat was part of the problem
+48,arafat,yasser arafat called netanyahu to wish him a happy new year
+48,arafat,in other cases arafat cronies absconded with the cash
+48,arafat,president bush knows arafat is a liar and a fraud
+48,arafat,he added that arafat has not declared a war on terrorism
+49,arafat,but to many people yasser arafat seemed entirely different
+49,arafat,you dont want to reward arafat
+49,arafat,i felt that the spirit of yasser arafat
+49,arafat,arafat expressed conditional acceptance of the idea
+49,arafat,arafat apparently still has not recovered from that illness
+49,arafat,and yasser arafat was part of the problem
+49,arafat,yasser arafat called netanyahu to wish him a happy new year
+49,arafat,in other cases arafat cronies absconded with the cash
+49,arafat,president bush knows arafat is a liar and a fraud
+49,arafat,he added that arafat has not declared a war on terrorism
 50,law,she handles all of the billing for the law firm
 50,law,the new law is in effect as of tomorrow
 50,law,it is ruled by its own law
@@ -1578,26 +1578,26 @@
 158,weapon,pike was a main weapon of foot soldier in former times
 158,weapon,a nuclear weapon can lay waste a whole city
 158,weapon,the report outlined possible uses for the new weapon
-159,FBI,he is an agent for the fbi
-159,FBI,the story is about two fbi agents
-159,FBI,fbi agents stole in the criminals house
-159,FBI,the murder of the governor brought the fbi into action
-159,FBI,he had fallen foul of the fbi
-159,FBI,fbi spun the drum to catch up with the murder
-159,FBI,the fbi profile of the anthrax killer
-159,FBI,fbi is on their way over
-159,FBI,he was turned over to the fbi yesterday
-159,FBI,fbi thinks theyre working on a dirty bomb
-160,FBI,he is an agent for the fbi
-160,FBI,the story is about two fbi agents
-160,FBI,fbi agents stole in the criminals house
-160,FBI,the murder of the governor brought the fbi into action
-160,FBI,he had fallen foul of the fbi
-160,FBI,fbi spun the drum to catch up with the murder
-160,FBI,the fbi profile of the anthrax killer
-160,FBI,fbi is on their way over
-160,FBI,he was turned over to the fbi yesterday
-160,FBI,fbi thinks theyre working on a dirty bomb
+159,fbi,he is an agent for the fbi
+159,fbi,the story is about two fbi agents
+159,fbi,fbi agents stole in the criminals house
+159,fbi,the murder of the governor brought the fbi into action
+159,fbi,he had fallen foul of the fbi
+159,fbi,fbi spun the drum to catch up with the murder
+159,fbi,the fbi profile of the anthrax killer
+159,fbi,fbi is on their way over
+159,fbi,he was turned over to the fbi yesterday
+159,fbi,fbi thinks theyre working on a dirty bomb
+160,fbi,he is an agent for the fbi
+160,fbi,the story is about two fbi agents
+160,fbi,fbi agents stole in the criminals house
+160,fbi,the murder of the governor brought the fbi into action
+160,fbi,he had fallen foul of the fbi
+160,fbi,fbi spun the drum to catch up with the murder
+160,fbi,the fbi profile of the anthrax killer
+160,fbi,fbi is on their way over
+160,fbi,he was turned over to the fbi yesterday
+160,fbi,fbi thinks theyre working on a dirty bomb
 161,investigation,other companies are still under investigation
 161,investigation,after all the investigation police find what oclock it is
 161,investigation,i realized she was telling the truth on investigation
@@ -1608,26 +1608,26 @@
 161,investigation,he charged himself with the investigation
 161,investigation,an investigation of environmental colours of cbd in seoul
 161,investigation,investigation on the demand side management of energy source
-162,Mars,i can tell the mars and the venus apart
-162,Mars,it is conceivable that man will someday reach mars
-162,Mars,many people hope that there is life on mars
-162,Mars,the question was about mars but i didnt know the answer
-162,Mars,mars is the color of blood
-162,Mars,it is part of a new project to colonize mars
-162,Mars,nasa finds new evidence of liquid water on mars
-162,Mars,this information shaped the worlds beliefs about mars
-162,Mars,they found a big discovery about water on the mars
-162,Mars,whats the big deal about going to mars
-163,Mars,i can tell the mars and the venus apart
-163,Mars,it is conceivable that man will someday reach mars
-163,Mars,many people hope that there is life on mars
-163,Mars,the question was about mars but i didnt know the answer
-163,Mars,mars is the color of blood
-163,Mars,it is part of a new project to colonize mars
-163,Mars,nasa finds new evidence of liquid water on mars
-163,Mars,this information shaped the worlds beliefs about mars
-163,Mars,they found a big discovery about water on the mars
-163,Mars,whats the big deal about going to mars
+162,mars,i can tell the mars and the venus apart
+162,mars,it is conceivable that man will someday reach mars
+162,mars,many people hope that there is life on mars
+162,mars,the question was about mars but i didnt know the answer
+162,mars,mars is the color of blood
+162,mars,it is part of a new project to colonize mars
+162,mars,nasa finds new evidence of liquid water on mars
+162,mars,this information shaped the worlds beliefs about mars
+162,mars,they found a big discovery about water on the mars
+162,mars,whats the big deal about going to mars
+163,mars,i can tell the mars and the venus apart
+163,mars,it is conceivable that man will someday reach mars
+163,mars,many people hope that there is life on mars
+163,mars,the question was about mars but i didnt know the answer
+163,mars,mars is the color of blood
+163,mars,it is part of a new project to colonize mars
+163,mars,nasa finds new evidence of liquid water on mars
+163,mars,this information shaped the worlds beliefs about mars
+163,mars,they found a big discovery about water on the mars
+163,mars,whats the big deal about going to mars
 164,news,his speech was reported in news bulletin
 164,news,the news reported there were no injuries
 164,news,what news is reported regarding keppler inc
@@ -1688,16 +1688,16 @@
 169,sign,anyone whos attending the party should sign up
 169,sign,the sign is over the doorway
 169,sign,yawning is a sign of sleepiness
-170,Wednesday,do you think i could borrow your notes from wednesday
-170,Wednesday,therell be a fire drill on wednesday afternoon
-170,Wednesday,please have your reports on my desk by dg am wednesday
-170,Wednesday,is our meeting on tuesday or wednesday
-170,Wednesday,the woman will leave for japan on wednesday
-170,Wednesday,we have to resolve this problem by next wednesday
-170,Wednesday,ill be taking the dgdgdg flight to dallas next wednesday
-170,Wednesday,wednesday afternoon would be better for me
-170,Wednesday,do you think they will deliver the new copier by wednesday
-170,Wednesday,we cant fill the order until wednesday
+170,wednesday,do you think i could borrow your notes from wednesday
+170,wednesday,therell be a fire drill on wednesday afternoon
+170,wednesday,please have your reports on my desk by dg am wednesday
+170,wednesday,is our meeting on tuesday or wednesday
+170,wednesday,the woman will leave for japan on wednesday
+170,wednesday,we have to resolve this problem by next wednesday
+170,wednesday,ill be taking the dgdgdg flight to dallas next wednesday
+170,wednesday,wednesday afternoon would be better for me
+170,wednesday,do you think they will deliver the new copier by wednesday
+170,wednesday,we cant fill the order until wednesday
 171,mile,the man traveled mile upon mile
 171,mile,in a triathlon the people must first swim for a mile
 171,mile,we talked a mile a minute
@@ -1778,16 +1778,16 @@
 178,skin,bill was so startled he almost jumped out of his skin
 178,skin,he stuck dozens of needles into my skin
 178,skin,after fasting for a whole month she was all skin and bones
-179,Japanese,there is even a special room for it in japanese homes
-179,Japanese,an advanced unit of japanese soldiers is on its way to iraq
-179,Japanese,hello kitty is the japanese cat exported to the world
-179,Japanese,what is true about the japanese garden lecture series
-179,Japanese,japanese dont wear kimonos as often as they used to
-179,Japanese,i can speak japanese a little
-179,Japanese,where did you learn to speak japanese
-179,Japanese,its the fact that japanese love our products
-179,Japanese,the japanese army lowered their flag
-179,Japanese,id rather have some japanese food
+179,japanese,there is even a special room for it in japanese homes
+179,japanese,an advanced unit of japanese soldiers is on its way to iraq
+179,japanese,hello kitty is the japanese cat exported to the world
+179,japanese,what is true about the japanese garden lecture series
+179,japanese,japanese dont wear kimonos as often as they used to
+179,japanese,i can speak japanese a little
+179,japanese,where did you learn to speak japanese
+179,japanese,its the fact that japanese love our products
+179,japanese,the japanese army lowered their flag
+179,japanese,id rather have some japanese food
 180,theater,there is a movie theater near here my house
 180,theater,i worked at a movie theater to pay my living expenses
 180,theater,please exit the theater by the side doors
@@ -2088,16 +2088,16 @@
 209,hundred,four hundred years ago korea had a war with japan
 209,hundred,marys one in a hundred such a hard worker
 209,hundred,that company owes the bank over a hundred million won
-210,Harvard,he is a professor at harvard and a man of letters
-210,Harvard,a harvard medical school study backs that up
-210,Harvard,he is a graduate of harvard business school
-210,Harvard,you can never enter harvard university suppose i do
-210,Harvard,people at harvard and mit read a lot
-210,Harvard,to enter harvard university want some doing
-210,Harvard,he also works at harvard medical school
-210,Harvard,harvard is the oldest university in the united states
-210,Harvard,harvard scientists have reversed aging in mice
-210,Harvard,she also applied to harvard university
+210,harvard,he is a professor at harvard and a man of letters
+210,harvard,a harvard medical school study backs that up
+210,harvard,he is a graduate of harvard business school
+210,harvard,you can never enter harvard university suppose i do
+210,harvard,people at harvard and mit read a lot
+210,harvard,to enter harvard university want some doing
+210,harvard,he also works at harvard medical school
+210,harvard,harvard is the oldest university in the united states
+210,harvard,harvard scientists have reversed aging in mice
+210,harvard,she also applied to harvard university
 211,hospital,my car stopped suddenly on the way to the hospital
 211,hospital,they drove the injured people to the hospital
 211,hospital,my mother worked nights in a hospital
@@ -2188,16 +2188,16 @@
 219,governor,the judge swore in the new governor
 219,governor,the governor called the police officer to account
 219,governor,the governor had to bite his cheeks in public
-220,OPEC,opec oil prices soared to above dgdg a barrel
-220,OPEC,opec accounts for about dgdg percent of the global oil supply
-220,OPEC,opec has reason to be cautious
-220,OPEC,the truth is i know people involved with opec
-220,OPEC,opec is not scheduled to meet until december
-220,OPEC,opec still has an impact on the market
-220,OPEC,then we cannot be held hostage by the opec countries
-220,OPEC,opec decided to increase its output of oil
-220,OPEC,opec is not looking out for us
-220,OPEC,meanwhile today opec sits on the fence
+220,opec,opec oil prices soared to above dgdg a barrel
+220,opec,opec accounts for about dgdg percent of the global oil supply
+220,opec,opec has reason to be cautious
+220,opec,the truth is i know people involved with opec
+220,opec,opec is not scheduled to meet until december
+220,opec,opec still has an impact on the market
+220,opec,then we cannot be held hostage by the opec countries
+220,opec,opec decided to increase its output of oil
+220,opec,opec is not looking out for us
+220,opec,meanwhile today opec sits on the fence
 221,peace,i hope paula rest in peace
 221,peace,may your noble soul rest in peace
 221,peace,the peace of the rural life
@@ -2588,16 +2588,16 @@
 259,currency,the mark lost currency as the euro appeared
 259,currency,you keep up with the currency markets dont you
 259,currency,the new currency has been circulated since june dg
-260,OPEC,opec oil prices soared to above dgdg a barrel
-260,OPEC,opec accounts for about dgdg percent of the global oil supply
-260,OPEC,opec has reason to be cautious
-260,OPEC,the truth is i know people involved with opec
-260,OPEC,opec is not scheduled to meet until december
-260,OPEC,opec still has an impact on the market
-260,OPEC,then we cannot be held hostage by the opec countries
-260,OPEC,opec decided to increase its output of oil
-260,OPEC,opec is not looking out for us
-260,OPEC,meanwhile today opec sits on the fence
+260,opec,opec oil prices soared to above dgdg a barrel
+260,opec,opec accounts for about dgdg percent of the global oil supply
+260,opec,opec has reason to be cautious
+260,opec,the truth is i know people involved with opec
+260,opec,opec is not scheduled to meet until december
+260,opec,opec still has an impact on the market
+260,opec,then we cannot be held hostage by the opec countries
+260,opec,opec decided to increase its output of oil
+260,opec,opec is not looking out for us
+260,opec,meanwhile today opec sits on the fence
 261,oil,oil prices reached their peak last year
 261,oil,the oil is used up or we are out of oil
 261,oil,there was a film of oil on the water
@@ -3208,16 +3208,16 @@
 321,morality,i dont mind if our morality is wrong
 321,morality,his life has been clearly inconsistent concerning morality
 321,morality,we began to doubt his morality because of his lies
-322,Mexico,while youre working so hard ill be touring mexico
-322,Mexico,in addition to modern cities mexico has many ancient ruins
-322,Mexico,maize or corn is the most important crop in mexico
-322,Mexico,this plant ranges from canada to mexico
-322,Mexico,he narrated the history of mexico on a tv program
-322,Mexico,my parents also live in mexico now
-322,Mexico,it became a part of mexico in the year dgdgdgdg
-322,Mexico,us citizens dont need visa to enter mexico
-322,Mexico,on the return from their voyage they stopped in mexico
-322,Mexico,new mexico is seven hours behind gmt
+322,mexico,while youre working so hard ill be touring mexico
+322,mexico,in addition to modern cities mexico has many ancient ruins
+322,mexico,maize or corn is the most important crop in mexico
+322,mexico,this plant ranges from canada to mexico
+322,mexico,he narrated the history of mexico on a tv program
+322,mexico,my parents also live in mexico now
+322,mexico,it became a part of mexico in the year dgdgdgdg
+322,mexico,us citizens dont need visa to enter mexico
+322,mexico,on the return from their voyage they stopped in mexico
+322,mexico,new mexico is seven hours behind gmt
 323,gender,gender activity level and smoking preference
 323,gender,we have to discuss gender discrimination
 323,gender,the male sex is a minor gender in this office

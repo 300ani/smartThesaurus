@@ -9,5 +9,5 @@ Using NLP techniques to improve word relevance results
 ### Directories:
 - *./Code*: development jupyter notebooks, code (python) and analysis  
 - *./datasets*: datasets used for evaluating the models  
-- *./materials*: research papers for background as well as informing the choice(s) of approaches used  
+- *./materials*: research papers for background as well as materials informing the choice(s) of approaches used  
 - *./pretrained*: links to (big) training datasets or models used   
